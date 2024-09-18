@@ -16,7 +16,9 @@ namespaces = {
 
 # Variables
 year_of_volume = '1758'
-facs_start_range = range(18, 20)  # Range from 13 to 18 inclusive
+pub_place_text = 'Cambridge, MA'
+publisher_text = 'Houghton Library, Harvard University'
+facs_start_range = range(18,21)  # Range from 13 to 18 inclusive
 
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
@@ -41,15 +43,15 @@ file_desc = etree.SubElement(tei_header, 'fileDesc')
 # Add elements in the correct order
 title_stmt = etree.SubElement(file_desc, 'titleStmt')
 title = etree.SubElement(title_stmt, 'title', type='main')
-title.text = f'Repertoire de tous les Spectacles {year_of_volume} (Houghton)'
+title.text = f'Repertoire de tous les Spectacles {year_of_volume}'
 
 # Add the publicationStmt element after titleStmt
 publication_stmt = etree.SubElement(file_desc, 'publicationStmt')
 publisher = etree.SubElement(publication_stmt, 'publisher')
-publisher.text = 'Houghton Library, Harvard University'
+publisher.text = f'{publisher_text}'
 
 pub_place = etree.SubElement(publication_stmt, 'pubPlace')
-pub_place.text = 'Cambridge, MA'
+pub_place.text = f'{pub_place_text}'
 
 date = etree.SubElement(publication_stmt, 'date')
 date.text = f'{year_of_volume}'
@@ -63,10 +65,10 @@ title_series.text = 'GuDiE'
 source_desc = etree.SubElement(file_desc, 'sourceDesc')
 bibl = etree.SubElement(source_desc, 'bibl')
 title_bibl = etree.SubElement(bibl, 'title', type='main')
-title_bibl.text = f'Repertoire de tous les Spectacles {year_of_volume} (Houghton)'
+title_bibl.text = f'Repertoire de tous les Spectacles {year_of_volume}'
 
-idno_transkribus = etree.SubElement(bibl, 'idno', type='Transkribus')
-idno_transkribus.text = '2430699'
+#idno_transkribus = etree.SubElement(bibl, 'idno', type='Transkribus')
+#idno_transkribus.text = '2430699'
 
 idno_external = etree.SubElement(bibl, 'idno', type='external')
 idno_external.text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
@@ -100,8 +102,16 @@ for facs_start in facs_start_range:
 tei_bytes = etree.tostring(tei_root, encoding='utf-8', xml_declaration=True, pretty_print=True)
 tei_str = tei_bytes.decode('utf-8')
 
+# Adjust the range formatting for single page
+if facs_start_range.stop - facs_start_range.start == 1:
+    range_str = f"{facs_start_range.start}"
+else:
+    range_str = f"{facs_start_range.start}-{facs_start_range.stop - 1}"
+
+# Generate the output file name using the variables
+output_file_path = f'output/{year_of_volume}_{range_str}.xml'
+
 # Save the output to an XML file
-output_file_path = 'output/test_18-19.xml'
 with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write(tei_str)
 
