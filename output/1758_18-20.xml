@@ -11,13 +11,13 @@
         <date>1758</date>
       </publicationStmt>
       <seriesStmt>
-        <title>GuDiE</title>
+        <title>Austrian Science Fund project "GuDiE"(FWF-Grant-DOI: 10.55776/P36729)</title>
       </seriesStmt>
       <sourceDesc>
         <bibl>
           <title type="main">Repertoire de tous les Spectacles 1758</title>
           <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json</idno>
-          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, 1761 and 1763. It is held at Houghton Library, Harvard University.</note>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

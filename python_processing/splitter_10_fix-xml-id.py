@@ -18,7 +18,9 @@ namespaces = {
 year_of_volume = '1758'
 pub_place_text = 'Cambridge, MA'
 publisher_text = 'Houghton Library, Harvard University'
-facs_start_range = range(18,21)  # Range from 13 to 18 inclusive
+title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
+idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
+facs_start_range = range(18,21)
 
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
@@ -59,7 +61,7 @@ date.text = f'{year_of_volume}'
 # Add seriesStmt after publicationStmt
 series_stmt = etree.SubElement(file_desc, 'seriesStmt')
 title_series = etree.SubElement(series_stmt, 'title')
-title_series.text = 'GuDiE'
+title_series.text = f'{title_series_text}'
 
 # Add sourceDesc after seriesStmt
 source_desc = etree.SubElement(file_desc, 'sourceDesc')
@@ -71,10 +73,10 @@ title_bibl.text = f'Repertoire de tous les Spectacles {year_of_volume}'
 #idno_transkribus.text = '2430699'
 
 idno_external = etree.SubElement(bibl, 'idno', type='external')
-idno_external.text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
+idno_external.text = f'{idno_external_text}'
 
 note = etree.SubElement(bibl, 'note')
-note.text = ('This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, 1761 and 1763. It is held at Houghton Library, Harvard University.')
+note.text = ('This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.')
 
 # Add the facsimile element
 facsimile = etree.SubElement(tei_root, 'facsimile')
