@@ -16,7 +16,7 @@ namespaces = {
 
 # Variables
 year_of_volume = '1758'
-facs_start_range = range(13, 19)  # Range from 13 to 18 inclusive
+facs_start_range = range(18, 20)  # Range from 13 to 18 inclusive
 
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
@@ -101,7 +101,7 @@ tei_bytes = etree.tostring(tei_root, encoding='utf-8', xml_declaration=True, pre
 tei_str = tei_bytes.decode('utf-8')
 
 # Save the output to an XML file
-output_file_path = 'output/test.xml'
+output_file_path = 'output/test_18-19.xml'
 with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write(tei_str)
 
