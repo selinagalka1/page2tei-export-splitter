@@ -20,7 +20,7 @@ pub_place_text = 'Cambridge, MA'
 publisher_text = 'Houghton Library, Harvard University'
 title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
 idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-facs_start_range = range(18,21)
+facs_start_range = range(18,21) ## MOST IMPORTANT TO CHANGE
 
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
