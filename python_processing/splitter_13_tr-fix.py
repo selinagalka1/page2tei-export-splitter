@@ -20,7 +20,7 @@ pub_place_text = 'Cambridge, MA'
 publisher_text = 'Houghton Library, Harvard University'
 title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
 idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-facs_start_range = range(13,26) ## MOST IMPORTANT TO CHANGE
+facs_start_range = range(13,30) ## MOST IMPORTANT TO CHANGE
  
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
@@ -141,10 +141,29 @@ original_tree = etree.parse(output_file_path)  # Parses the file you just wrote
 transformed_tree = transform(original_tree)
 
 # Generate the output file name for the transformed XML
-transformed_output_path = f'output/{year_of_volume}_{range_str}_transformed.xml'
+#transformed_output_path = f'output/{year_of_volume}_{range_str}_transformed.xml'
 
 # Save the transformed output to a new XML file
+#with open(transformed_output_path, 'wb') as transformed_file:
+ #   transformed_tree.write(transformed_file, pretty_print=True, encoding='UTF-8', xml_declaration=True)
+
+#print(f"The transformed XML has been saved to {transformed_output_path}")
+
+# Generate the output file name for the transformed XML
+transformed_output_path = f'output/{year_of_volume}_{range_str}_transformed.xml'
+
+# Convert the transformed XML tree to a string with pretty printing
+transformed_xml_string = etree.tostring(
+    transformed_tree, pretty_print=True, encoding='UTF-8', xml_declaration=True
+)
+
+# Adjust <lb> elements to ensure they are on a new line without adding extra blank lines
+# This will replace occurrences of <lb ...> with a newline immediately followed by <lb ...>
+# and strip any leading or trailing whitespace.
+transformed_xml_string = transformed_xml_string.replace(b'>\n<lb ', b'>\n<lb ').replace(b'\n<lb', b'<lb')
+
+# Save the adjusted XML string to a new file
 with open(transformed_output_path, 'wb') as transformed_file:
-    transformed_tree.write(transformed_file, pretty_print=True, encoding='UTF-8', xml_declaration=True)
+    transformed_file.write(transformed_xml_string)
 
 print(f"The transformed XML has been saved to {transformed_output_path}")
