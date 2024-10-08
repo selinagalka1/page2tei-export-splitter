@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1758</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Houghton Library, Harvard University</publisher>
+        <pubPlace>Cambridge, MA</pubPlace>
+        <date>1758</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1758</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="1947" lry="2400" ulx="0" uly="0" xml:id="facs_23">
+         <graphic height="2400px" url="71101693.jpg" width="1947px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=OBRQETPHKYWCVVGIGINZCNIJ&amp;fileType=view" width="1947px"/>
+         <zone points="138,54 138,649 1658,649 1658,54" rendition="TextRegion" xml:id="facs_23_tr_1">
+            <zone points="523,190 732,154 987,196 1529,181 1529,74 1422,103 1247,44 1108,78 934,55 833,97 686,78 523,131" rendition="Line" xml:id="facs_23_tr_1_tl_1"/>
+            <zone points="127,388 605,365 772,451 1032,376 1658,384 1656,318 1548,335 1331,243 1004,312 768,281 673,323 409,272 127,356" rendition="Line" xml:id="facs_23_tr_1_tl_2"/>
+            <zone points="819,605 871,603 884,593 913,610 964,610 968,445 949,435 935,447 922,439 909,452 878,451 854,428 825,426" rendition="Line" xml:id="facs_23_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      <surface lrx="1960" lry="2400" ulx="0" uly="0" xml:id="facs_24">
+         <graphic height="2400px" url="71101694.jpg" width="1960px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=AOKYAESJQQTAEHHIZHRQAUNX&amp;fileType=view" width="1960px"/>
+         <zone points="138,88 1878,88 1878,674 1874,2010 330,2010 138,674" rendition="TextRegion" xml:id="facs_24_r">
+            <zone points="327,183 1343,158 1572,202 1844,150 1846,65 1714,100 1581,48 1305,113 707,38 465,73 398,127 329,94" rendition="Line" xml:id="facs_24_tr_2_tl_1"/>
+            <zone points="127,448 129,344 227,317 482,286 742,332 799,369 799,411 753,430 571,444" rendition="Line" xml:id="facs_24_l"/>
+            <zone points="377,603 501,544 628,559 688,546 778,592 807,565 828,569 832,476 805,475 744,511 715,492 686,511 636,490 584,498 544,484 488,428 382,405" rendition="Line" xml:id="facs_24_tr_2_tl_5"/>
+            <zone points="853,501 982,496 1122,573 1289,488 1399,538 1554,488 1604,517 1706,488 1854,500 1875,440 1789,402 1712,417 1631,371 1195,436 1043,415 984,373 855,390" rendition="Line" xml:id="facs_24_tr_2_tl_4"/>
+            <zone points="346,663 678,659 863,755 1007,653 1210,655 1372,719 1506,653 1608,661 1562,588 1233,571 1118,615 818,590 707,644 586,576 346,605" rendition="Line" xml:id="facs_24_tr_2_tl_6"/>
+            <zone points="319,813 1585,830 1725,792 1864,828 1864,742 1623,755 1524,690 903,763 534,653 319,744" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
+            <zone points="365,1016 501,1032 703,920 1844,938 1844,874 1739,845 1637,886 1414,828 1212,880 972,826 582,893 367,820" rendition="Line" xml:id="facs_24_tr_1_tl_2"/>
+            <zone points="722,1043 749,1026 836,1047 1128,1016 1330,1047 1406,1026 1406,1001 1335,995 1287,966 1135,961 1110,978 1078,955 1028,970 924,926 795,953 722,936" rendition="Line" xml:id="facs_24_tr_1_tl_3"/>
+            <zone points="388,1151 473,1207 598,1128 694,1122 930,1172 1301,1145 1537,1247 1695,1208 1693,1110 1549,1055 1439,1109 1306,1037 1097,1093 886,1030 573,1078 473,1034 386,1072" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
+            <zone points="330,1356 465,1410 851,1291 1308,1305 1410,1368 1585,1312 1645,1360 1773,1353 1769,1256 1520,1268 1397,1201 1080,1160 778,1243 615,1185 327,1208" rendition="Line" xml:id="facs_24_tr_1_tl_5"/>
+            <zone points="736,1426 859,1412 884,1429 947,1412 984,1420 1001,1408 1066,1433 1066,1354 1026,1351 1005,1337 966,1360 901,1349 884,1360 815,1324 792,1347 736,1351" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
+            <zone points="336,1604 411,1616 615,1514 1018,1531 1216,1595 1262,1550 1744,1581 1866,1539 1864,1454 1612,1466 1466,1385 1176,1476 1107,1433 972,1474 442,1424 334,1495" rendition="Line" xml:id="facs_24_tr_1_tl_7"/>
+            <zone points="348,1700 478,1696 530,1735 628,1693 1222,1718 1255,1714 1253,1627 1176,1639 1143,1610 1030,1643 859,1614 790,1637 730,1608 636,1614 525,1554 425,1608 344,1598" rendition="Line" xml:id="facs_24_tr_1_tl_8"/>
+            <zone points="365,1896 630,1871 720,1929 874,1937 1093,1879 1871,1891 1871,1825 1700,1785 1635,1819 1447,1777 1001,1808 903,1768 836,1804 586,1708 365,1768" rendition="Line" xml:id="facs_24_tr_1_tl_9"/>
+            <zone points="503,1998 964,1990 1189,2079 1458,2054 1518,2086 1643,2017 1869,2019 1869,1960 1622,1892 1403,1958 1110,1898 807,1952 559,1894 503,1921" rendition="Line" xml:id="facs_24_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_1">
+               <lb facs="#facs_23_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">État de l’Orchestre.</hi>
+               <lb facs="#facs_23_tr_1_tl_2" n="N002"/>Est le même que celui de l’Année
+               <lb facs="#facs_23_tr_1_tl_3" n="N003"/>1757
+            </ab>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/><ab facs="#facs_24_r">
+               <lb facs="#facs_24_tr_2_tl_1" n="N001"/><hi style="text-decoration: underline;">État des Commissaires, et Officiers.</hi>
+               <lb facs="#facs_24_l" n="N002"/>M.<hi style="vertical-align: superscript;">r</hi> Lambacher
+               <lb facs="#facs_24_tr_2_tl_5" n="N003"/>M.<hi style="vertical-align: superscript;">r</hi> Varese
+               <lb facs="#facs_24_tr_2_tl_4" n="N004"/>Commissaires de l’Ordonan<sic ana="digitization_error" source="Quelle">ce</sic>
+               <lb facs="#facs_24_tr_2_tl_6" n="N005"/>M.<hi style="vertical-align: superscript;">r</hi> Melzer Reviseur des Comptes.
+               <lb facs="#facs_24_tr_1_tl_1" n="N006"/>M.<hi style="vertical-align: superscript;">r</hi> Heübel Secretaire de la Direction
+               <lb facs="#facs_24_tr_1_tl_2" n="N007"/>M.<hi style="vertical-align: superscript;">r</hi> Quaglio Architecte, et Dessinateur
+               <lb facs="#facs_24_tr_1_tl_3" n="N008"/>de Decoration.
+               <lb facs="#facs_24_tr_1_tl_4" n="N009"/>M.<hi style="vertical-align: superscript;">r</hi> La Mothe Maïtre des Loges.
+               <lb facs="#facs_24_tr_1_tl_5" n="N010"/>M.<hi style="vertical-align: superscript;">r</hi> Reiberger Teneur des Comptes, et
+               <lb facs="#facs_24_tr_1_tl_6" n="N011"/>Caisser.
+               <lb facs="#facs_24_tr_1_tl_7" n="N012"/>M.<hi style="vertical-align: superscript;">r</hi> Kobler Caissier du Theatre François
+               <lb facs="#facs_24_tr_1_tl_8" n="N013"/>M.<hi style="vertical-align: superscript;">r</hi> Paolini Controleur.
+               <lb facs="#facs_24_tr_1_tl_9" n="N014"/>M.<hi style="vertical-align: superscript;">r</hi> Fardella Inspecteur, et Distributeur
+               <lb facs="#facs_24_tr_1_tl_10" n="N015"/>des Marchandises pour la Guardaro<sic ana="digitization_error" source="Quelle">be</sic>
+            </ab>
+            </div>
+    </body>
+  </text>
+</TEI>

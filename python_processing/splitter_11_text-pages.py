@@ -20,7 +20,7 @@ pub_place_text = 'Cambridge, MA'
 publisher_text = 'Houghton Library, Harvard University'
 title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
 idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-facs_start_range = range(21,27) ## MOST IMPORTANT TO CHANGE
+facs_start_range = range(18,22) ## MOST IMPORTANT TO CHANGE
 
 # Find all 'surface' elements with xml:id in the specified range
 surface_elements = []
@@ -92,13 +92,25 @@ body = etree.SubElement(text, 'body')
 # Create a div element and append it to the body
 div = etree.SubElement(body, 'div')
 
-# Add page break and tables to the div
+# Add page break, tables or text to the div based on conditions
 for facs_start in facs_start_range:
-    pb = etree.SubElement(div, 'pb', facs=f"#facs_{facs_start}", n=str(facs_start), **{f'{{http://www.w3.org/XML/1998/namespace}}id': f"img_00{facs_start}"})
-    
-    for table in table_elements:
-        if table.get('facs') == f"#facs_{facs_start}_t1":
+    # Create a page break element
+    pb = etree.SubElement(div, 'pb', facs=f"#facs_{facs_start}", n=str(facs_start),
+                          **{f'{{http://www.w3.org/XML/1998/namespace}}id': f"img_00{facs_start}"})
+
+    # Find table elements associated with the current facs_start
+    table_elements = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t1']", namespaces)
+
+    # If table elements are found, append these to the div element
+    if table_elements:
+        for table in table_elements:
             div.append(table)
+    # If no table elements are found, search and append text `ab` elements instead
+    else:
+        # Find <ab> elements associated with the current facs_start
+        text_elements = root.findall(f".//tei:ab[@facs='#facs_{facs_start}_tr_1']", namespaces)
+        for text_el in text_elements:
+            div.append(text_el)
 
 # Convert the ElementTree to a string with XML declaration
 tei_bytes = etree.tostring(tei_root, encoding='utf-8', xml_declaration=True, pretty_print=True)
