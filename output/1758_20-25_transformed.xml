@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -22,7 +22,20 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile><surface lrx="1941" lry="2400" ulx="0" uly="0" xml:id="facs_21">
+  <facsimile><surface lrx="1941" lry="2400" ulx="0" uly="0" xml:id="facs_20">
+         <graphic height="2400px" url="71101714.jpg" width="1941px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=GVICMFNGMXQHIIROYUAZUQQE&amp;fileType=view" width="1941px"/><zone points="50,33 1848,37 1848,2355 44,2350" rendition="Table" xml:id="facs_20_t1">
+            <zone points="32,105 75,104 85,112 131,71 145,80 176,63 244,87 240,5 201,8 187,18 163,10 135,18 28,14" rendition="TableCell" xml:id="facs_20_t1c1_tl_1"/>
+            <zone points="35,136 66,142 104,130 162,138 185,131 225,142 226,92 153,88 85,112 37,88" rendition="TableCell" xml:id="facs_20_t1c1_tl_2"/>
+            <zone points="38,191 174,190 220,210 222,142 197,149 187,140 179,147 172,140 152,144 138,130 126,138 116,129 56,145 40,135" rendition="TableCell" xml:id="facs_20_t1c1_tl_3"/>
+            <zone points="288,150 341,116 358,126 375,112 402,107 415,115 449,110 485,126 488,80 474,82 461,72 451,78 433,64 422,75 404,75 385,58 363,71 345,57 330,64 306,53 293,57" rendition="TableCell" xml:id="facs_20_t1c2_tl_1"/>
+            <zone points="863,125 901,121 928,147 954,130 1017,142 1132,112 1241,119 1240,61 1220,56 1131,76 1111,58 1091,72 1029,59 978,76 904,40 862,42" rendition="TableCell" xml:id="facs_20_t1c3_tl_1"/>
+            <zone points="288,341 350,326 478,332 481,278 441,281 425,264 379,251 324,282 287,278" rendition="TableCell" xml:id="facs_20_t1c5_tl_1"/>
+            <zone points="324,471 340,466 369,475 384,463 397,470 406,466 418,470 420,353 388,345 356,360 346,351 325,349" rendition="TableCell" xml:id="facs_20_t1c5_tl_2"/>
+            <zone points="875,369 893,365 917,383 948,368 1000,369 1045,387 1058,374 1117,377 1116,348 1099,354 1069,340 1054,344 1002,298 982,300 925,275 905,293 872,293" rendition="TableCell" xml:id="facs_20_t1c6_tl_1"/>
+            <zone points="524,481 995,452 1295,526 1422,457 1541,516 1541,415 1482,393 1340,420 1192,373 892,365 700,411 617,363 524,377" rendition="TableCell" xml:id="facs_20_t1c6_tl_2"/></zone>
+      </surface>
+      <surface lrx="1941" lry="2400" ulx="0" uly="0" xml:id="facs_21">
          <graphic height="2400px" url="71101916.jpg" width="1941px"/>
          <graphic height="2400px" url="https://files.transkribus.eu/Get?id=MZGIENUPZIQHPWQPLYMCJGIG&amp;fileType=view" width="1941px"/>
          <zone points="68,112 68,2135 1750,2135 1750,112" rendition="TextRegion" xml:id="facs_21_tr_1">
@@ -125,18 +138,28 @@
             <zone points="281,2045 307,2057 336,2047 370,2074 409,2068 437,2049 472,2068 525,2068 560,2090 576,2088 576,1939 537,1941 511,1962 482,1964 381,1939 338,1972 281,1972" rendition="Line" xml:id="facs_25_tr_1_tl_11"/>
          </zone>
       </surface>
-      <surface lrx="1959" lry="2400" ulx="0" uly="0" xml:id="facs_26">
-         <graphic height="2400px" url="00026.jpg" width="1959px"/>
-         <zone points="144,208 1676,211 1688,820 128,836" rendition="TextRegion" xml:id="facs_26_r">
-            <zone points="235,355 835,348 835,318 235,325" rendition="Line" xml:id="facs_26_l"/>
-            <zone points="194,507 891,504 891,474 194,477" rendition="Line" xml:id="facs_26_l_21"/>
-            <zone points="222,681 916,694 917,664 223,651" rendition="Line" xml:id="facs_26_l_43"/>
-         </zone>
-      </surface>
       </facsimile>
   <text>
     <body>
-      <div><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_1" type="">
+      <div><pb facs="#facs_20" n="20" xml:id="img_0020"/><table facs="#facs_20_t1">
+        <row n="0">
+          <cell facs="#facs_20_t1c1" n="0" rend="0000">
+               <lb facs="#facs_20_t1c1_tl_1" n="N001"/>Repre-
+               <lb facs="#facs_20_t1c1_tl_2" n="N002"/>senta-
+               <lb facs="#facs_20_t1c1_tl_3" n="N003"/>tions</cell>
+          <cell facs="#facs_20_t1c2" n="1" rend="0000">
+               <lb facs="#facs_20_t1c2_tl_1" n="N001"/>jours</cell>
+          <cell facs="#facs_20_t1c3" n="2" rend="0000">
+               <lb facs="#facs_20_t1c3_tl_1" n="N001"/>Fevrier.</cell></row>
+        <row n="1">
+          <cell facs="#facs_20_t1c4" n="0" rend="0000"/>
+          <cell facs="#facs_20_t1c5" n="1" rend="0000">
+               <lb facs="#facs_20_t1c5_tl_1" n="N001"/>Mer:
+               <lb facs="#facs_20_t1c5_tl_2" n="N002"/>8.</cell>
+          <cell facs="#facs_20_t1c6" n="2" rend="0000">
+               <lb facs="#facs_20_t1c6_tl_1" n="N001"/>Rien.
+               <lb facs="#facs_20_t1c6_tl_2" n="N002"/>Entrée de la Quarême</cell></row></table>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_1">
                <lb facs="#facs_21_tr_1_tl_1" n="N001"/>État present
                <lb facs="#facs_21_tr_1_tl_2" n="N002"/>des Comediens selon l’ordre de leurs
                <lb facs="#facs_21_tr_1_tl_3" n="N003"/>ancienneté.
@@ -154,7 +177,7 @@
                <lb facs="#facs_21_tr_1_tl_17" n="N015"/>Jean George Schwager
                <lb facs="#facs_21_tr_1_tl_18" n="N016"/>François Vetterlein.
             </ab>
-            <pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_tr_1" type="">
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_tr_1">
                <lb facs="#facs_22_tr_1_tl_1" n="N001"/>État de la Danse.
                <lb facs="#facs_22_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">Premieres Danceuses.</hi>
                <lb facs="#facs_22_tr_1_tl_3" n="N003"/>Mad.<hi style="vertical-align: superscript;">e</hi> Santina Zanuzzi
@@ -179,12 +202,47 @@
                <lb facs="#facs_22_tr_1_tl_23" n="N022"/>Brener
                <lb facs="#facs_22_tr_1_tl_24" n="N023"/>Widman
             </ab>
-            <pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_1" type="">
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_1">
                <lb facs="#facs_23_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">État de l’Orchestre.</hi>
                <lb facs="#facs_23_tr_1_tl_2" n="N002"/>Est le même que celui de l’Année
                <lb facs="#facs_23_tr_1_tl_3" n="N003"/>1757
             </ab>
-            <pb facs="#facs_24" n="24" xml:id="img_0024"/><pb facs="#facs_25" n="25" xml:id="img_0025"/><pb facs="#facs_26" n="26" xml:id="img_0026"/></div>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/><ab facs="#facs_24_r">
+               <lb facs="#facs_24_tr_2_tl_1" n="N001"/><hi style="text-decoration: underline;">État des Commissaires, et Officiers.</hi>
+               <lb facs="#facs_24_l" n="N002"/>M.<hi style="vertical-align: superscript;">r</hi> Lambacher
+               <lb facs="#facs_24_tr_2_tl_5" n="N003"/>M.<hi style="vertical-align: superscript;">r</hi> Varese
+               <lb facs="#facs_24_tr_2_tl_4" n="N004"/>Commissaires de l’Ordonan<sic ana="digitization_error" source="Quelle">ce</sic>
+               <lb facs="#facs_24_tr_2_tl_6" n="N005"/>M.<hi style="vertical-align: superscript;">r</hi> Melzer Reviseur des Comptes.
+               <lb facs="#facs_24_tr_1_tl_1" n="N006"/>M.<hi style="vertical-align: superscript;">r</hi> Heübel Secretaire de la Direction
+               <lb facs="#facs_24_tr_1_tl_2" n="N007"/>M.<hi style="vertical-align: superscript;">r</hi> Quaglio Architecte, et Dessinateur
+               <lb facs="#facs_24_tr_1_tl_3" n="N008"/>de Decoration.
+               <lb facs="#facs_24_tr_1_tl_4" n="N009"/>M.<hi style="vertical-align: superscript;">r</hi> La Mothe Maïtre des Loges.
+               <lb facs="#facs_24_tr_1_tl_5" n="N010"/>M.<hi style="vertical-align: superscript;">r</hi> Reiberger Teneur des Comptes, et
+               <lb facs="#facs_24_tr_1_tl_6" n="N011"/>Caisser.
+               <lb facs="#facs_24_tr_1_tl_7" n="N012"/>M.<hi style="vertical-align: superscript;">r</hi> Kobler Caissier du Theatre François
+               <lb facs="#facs_24_tr_1_tl_8" n="N013"/>M.<hi style="vertical-align: superscript;">r</hi> Paolini Controleur.
+               <lb facs="#facs_24_tr_1_tl_9" n="N014"/>M.<hi style="vertical-align: superscript;">r</hi> Fardella Inspecteur, et Distributeur
+               <lb facs="#facs_24_tr_1_tl_10" n="N015"/>des Marchandises pour la Guardaro<sic ana="digitization_error" source="Quelle">be</sic>
+            </ab>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/><ab facs="#facs_25_r">
+               <lb facs="#facs_25_tr_2_tl_2" n="N001"/>M.<hi style="vertical-align: superscript;">r</hi>
+               <lb facs="#facs_25_tr_2_tl_1" n="N002"/>Speck Maïtre-Tailleur.
+               <lb facs="#facs_25_tr_2_tl_3" n="N003"/>Buck Alexandre Inspecteur pour l’Illu¬
+               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>mination et Decoration.
+               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>Rizzini Machiniste
+               <lb facs="#facs_25_tr_2_tl_6" n="N006"/><hi style="text-decoration: underline;">Receveurs des Billets.</hi>
+               <lb facs="#facs_25_tr_1_tl_1" n="N007"/>Galliardi ☩ dans la Gallerie
+               <lb facs="#facs_25_tr_1_tl_3" n="N008"/>Rabelinck au 3:<hi style="vertical-align: superscript;">me</hi> Étage
+               <lb facs="#facs_25_tr_1_tl_4" n="N009"/>Caget dans la gallerie au Theatre près
+               <lb facs="#facs_25_tr_1_tl_5" n="N010"/>de la Cour.
+               <lb facs="#facs_25_tr_1_tl_6" n="N011"/>Hartinger au par Terre.
+               <lb facs="#facs_25_tr_1_tl_7" n="N012"/><hi style="text-decoration: underline;">Garçons Tailleurs.</hi>
+               <lb facs="#facs_25_tr_1_tl_8" n="N013"/>König
+               <lb facs="#facs_25_tr_1_tl_9" n="N014"/>Bartholome
+               <lb facs="#facs_25_tr_1_tl_10" n="N015"/>Kres
+               <lb facs="#facs_25_tr_1_tl_11" n="N016"/>Weber
+            </ab>
+            </div>
     </body>
   </text>
 </TEI>

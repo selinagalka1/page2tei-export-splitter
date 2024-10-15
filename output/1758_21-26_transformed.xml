@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -136,7 +136,7 @@
       </facsimile>
   <text>
     <body>
-      <div><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_1" type="">
+      <div><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_1">
                <lb facs="#facs_21_tr_1_tl_1" n="N001"/>État present
                <lb facs="#facs_21_tr_1_tl_2" n="N002"/>des Comediens selon l’ordre de leurs
                <lb facs="#facs_21_tr_1_tl_3" n="N003"/>ancienneté.
@@ -154,7 +154,7 @@
                <lb facs="#facs_21_tr_1_tl_17" n="N015"/>Jean George Schwager
                <lb facs="#facs_21_tr_1_tl_18" n="N016"/>François Vetterlein.
             </ab>
-            <pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_tr_1" type="">
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_tr_1">
                <lb facs="#facs_22_tr_1_tl_1" n="N001"/>État de la Danse.
                <lb facs="#facs_22_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">Premieres Danceuses.</hi>
                <lb facs="#facs_22_tr_1_tl_3" n="N003"/>Mad.<hi style="vertical-align: superscript;">e</hi> Santina Zanuzzi
@@ -179,7 +179,7 @@
                <lb facs="#facs_22_tr_1_tl_23" n="N022"/>Brener
                <lb facs="#facs_22_tr_1_tl_24" n="N023"/>Widman
             </ab>
-            <pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_1" type="">
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_1">
                <lb facs="#facs_23_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">État de l’Orchestre.</hi>
                <lb facs="#facs_23_tr_1_tl_2" n="N002"/>Est le même que celui de l’Année
                <lb facs="#facs_23_tr_1_tl_3" n="N003"/>1757

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1758</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Houghton Library, Harvard University</publisher>
+        <pubPlace>Cambridge, MA</pubPlace>
+        <date>1758</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1758</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="1941" lry="2400" ulx="0" uly="0" xml:id="facs_21">
+         <graphic height="2400px" url="71101916.jpg" width="1941px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=MZGIENUPZIQHPWQPLYMCJGIG&amp;fileType=view" width="1941px"/>
+         <zone points="68,112 68,2135 1750,2135 1750,112" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="669,188 786,167 939,229 1114,169 1290,167 1399,198 1401,91 1317,126 1156,76 830,52 671,114" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="89,347 504,285 1744,307 1744,239 1537,186 729,248 578,186 442,248 386,198 291,233 198,165 89,159" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="797,423 1325,421 1325,303 1255,355 1147,349 1127,367 1053,318 1028,334 912,312 797,326" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="54,524 72,518 398,491 431,491 433,594 369,615 215,665 87,693 56,685" rendition="Line" xml:id="facs_21_l"/>
+            <zone points="167,784 316,722 528,797 667,731 757,762 819,720 1471,718 1471,642 1420,617 1277,638 1150,561 912,667 776,632 396,671 330,629 169,671" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="175,873 310,840 460,900 559,838 838,828 933,881 956,780 902,795 689,741 520,797 458,749 349,786 289,762 177,807" rendition="Line" xml:id="facs_21_tr_1_tl_7"/>
+            <zone points="221,991 338,966 504,1022 790,966 856,1022 1050,962 1740,962 1740,879 1618,871 1496,908 660,861 221,896" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="177,1096 592,1133 801,1081 918,1139 1102,1094 1595,1137 1639,1127 1641,1001 1094,1040 654,978 462,1036 407,993 177,1022" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="217,1259 219,1131 336,1096 1420,1112 1519,1135 1504,1247 656,1294 351,1282" rendition="Line" xml:id="facs_21_l_631"/>
+            <zone points="182,1412 409,1360 918,1344 1069,1410 1213,1379 1395,1432 1529,1381 1645,1397 1649,1234 1434,1296 1346,1238 1053,1290 774,1195 652,1290 184,1302" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
+            <zone points="208,1492 685,1517 751,1482 1259,1474 1238,1383 708,1426 590,1372 417,1438 363,1395 211,1426" rendition="Line" xml:id="facs_21_tr_1_tl_13"/>
+            <zone points="204,1661 295,1604 367,1659 518,1604 702,1634 852,1599 984,1657 1339,1637 1341,1531 1197,1544 1143,1502 1075,1552 935,1502 830,1537 762,1490 613,1525 365,1494 206,1558" rendition="Line" xml:id="facs_21_tr_1_tl_14"/>
+            <zone points="175,1756 1267,1748 1432,1802 1434,1670 1222,1628 1061,1678 840,1622 553,1657 438,1612 376,1659 301,1632 177,1676" rendition="Line" xml:id="facs_21_tr_1_tl_15"/>
+            <zone points="208,1849 442,1909 627,1866 844,1905 929,1853 1024,1843 1024,1806 821,1804 737,1762 497,1795 423,1769 386,1802 326,1769 208,1800" rendition="Line" xml:id="facs_21_tr_1_tl_16"/>
+            <zone points="246,2006 376,1994 450,2060 671,2072 813,1981 1216,1998 1216,1921 1032,1932 902,1882 745,1905 627,1866 440,1909 365,1878 246,1915" rendition="Line" xml:id="facs_21_tr_1_tl_17"/>
+            <zone points="213,2130 435,2119 493,2169 609,2177 683,2115 1129,2122 1154,2051 951,2068 805,2004 691,2076 440,2068 332,2027 215,2051" rendition="Line" xml:id="facs_21_tr_1_tl_18"/>
+         </zone>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_1">
+               <lb facs="#facs_21_tr_1_tl_1" n="N001"/>État present
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>des Comediens selon l’ordre de leurs
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>ancienneté.
+               <lb facs="#facs_21_l" n="N004"/>Mess:<hi style="vertical-align: superscript;">rs</hi>
+               <lb facs="#facs_21_tr_1_tl_6" n="N005"/>Jean Leinhaus, <hi style="text-decoration: underline;">dit Pantalon.</hi>
+               <lb facs="#facs_21_tr_1_tl_7" n="N006"/>Andreas Schrötten
+               <lb facs="#facs_21_tr_1_tl_8" n="N007"/>Gottfrid Prehauser, <hi style="text-decoration: underline;">dit Hanns Wurst</hi>.
+               <lb facs="#facs_21_tr_1_tl_9" n="N008"/>Friderico Guill.<hi style="vertical-align: superscript;">me</hi> Weiskern. <hi style="text-decoration: underline;">dit Odoardo</hi>
+               <lb facs="#facs_21_l_631" n="N009"/>Joseph Kurtz, <hi style="text-decoration: underline;">dit Bernardon.</hi>
+               <lb facs="#facs_21_tr_1_tl_12" n="N010"/>Joseph Charles Hueber, <hi style="text-decoration: underline;">dit Leopoldl</hi>
+               <lb facs="#facs_21_tr_1_tl_13" n="N011"/>Charles Gottlob Heidrich
+               <lb facs="#facs_21_tr_1_tl_14" n="N012"/>Joseph Müller <hi style="text-decoration: underline;">dit Scapin</hi>
+               <lb facs="#facs_21_tr_1_tl_15" n="N013"/>Frideric Guillaume Élenzon
+               <lb facs="#facs_21_tr_1_tl_16" n="N014"/>Antoine Brenner
+               <lb facs="#facs_21_tr_1_tl_17" n="N015"/>Jean George Schwager
+               <lb facs="#facs_21_tr_1_tl_18" n="N016"/>François Vetterlein.
+            </ab>
+            </div>
+    </body>
+  </text>
+</TEI>
