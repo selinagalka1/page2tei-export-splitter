@@ -16,6 +16,14 @@
     <xsl:template match="@*[.='']">
         <!-- Do nothing to remove the attribute -->
     </xsl:template>
+
+    <xsl:template match="tei:digitizaton_error">
+        <xsl:element name="sic" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:attribute name="ana">digitization_error</xsl:attribute>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:element>
+    </xsl:template>
+
     
     <!-- Transform <tei:digitization_error> to <sic> -->
     <xsl:template match="tei:digitization_error">
