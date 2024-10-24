@@ -108,12 +108,12 @@ if __name__ == "__main__":
     }
 
     # Variables
-    year_of_volume = '1758'
+    year_of_volume = '1763'
     pub_place_text = 'Cambridge, MA'
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-    facs_start_range = range(13, 33)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(56,66)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
@@ -156,7 +156,7 @@ if __name__ == "__main__":
 
     # Generate output file name using the variables
     range_str = f"{facs_start_range.start}-{facs_start_range.stop - 1}" if facs_start_range.stop - facs_start_range.start > 1 else f"{facs_start_range.start}"
-    output_file_path = f'output/{year_of_volume}_{range_str}.xml'
+    output_file_path = f'output/{year_of_volume}_{range_str}_before.xml'
 
     # Save the original output to an XML file
     save_xml_to_file(output_file_path, tei_str)
@@ -168,11 +168,17 @@ if __name__ == "__main__":
     # Perform the XSLT transformation
     transformed_tree = transform_xml(xslt_path, original_tree)
 
+    # Generate formatted range string for output file name
+    formatted_range_str = f"{facs_start_range.start:03d}-{facs_start_range.stop - 1:03d}" if facs_start_range.stop - facs_start_range.start > 1 else f"{facs_start_range.start:03d}"
+
     # Clean and save the transformed XML
-    transformed_output_path = f'output/{year_of_volume}_{range_str}_transformed.xml'
+    transformed_output_path = f'output/{year_of_volume}_{formatted_range_str}.xml'
     transformed_xml_string = clean_transformed_xml(transformed_tree)
 
     with open(transformed_output_path, 'wb') as transformed_file:
         transformed_file.write(transformed_xml_string)
 
     print(f"The transformed XML has been saved to {transformed_output_path}")
+
+    # Delete the original XML file
+    os.remove(output_file_path)
