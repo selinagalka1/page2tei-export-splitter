@@ -17,6 +17,7 @@
         <!-- Do nothing to remove the attribute -->
     </xsl:template>
 
+    <!-- As a false tag was used in the original, instances including 'digitizaton' are also transformed -->
     <xsl:template match="tei:digitizaton_error">
         <xsl:element name="sic" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="ana">digitization_error</xsl:attribute>
