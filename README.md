@@ -1,6 +1,6 @@
 # Page2TEI Export Splitter
 
-This tool is designed to address the bug in Transkribus, as of September/October 2024, which prevents users from exporting only selected pages from the page2tei export file. The Page2TEI Export Splitter provides a workaround for this issue by allowing users to split the export file and extract specific pages using Python and XSLT.
+This tool is designed to address the bug in Transkribus, as of September/October 2024, which prevents users from exporting only selected pages for the page2tei export file. The Page2TEI Export Splitter provides a workaround for this issue by allowing users to split the export file and extract specific pages using Python and XSLT.
 
 ## Usage Instructions
 
