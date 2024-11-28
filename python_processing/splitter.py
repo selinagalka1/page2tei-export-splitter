@@ -134,7 +134,7 @@ if __name__ == "__main__":
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-    facs_start_range = range(13,19)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(29,34)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
