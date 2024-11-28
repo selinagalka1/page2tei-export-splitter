@@ -183,7 +183,7 @@ if __name__ == "__main__":
     save_xml_to_file(output_file_path, tei_str)
 
     # Load the XSLT file for transformation
-    xslt_path = 'xslt/test-stylesheet.xsl'  # Ensure this points to your XSLT file
+    xslt_path = 'xslt/stylesheet_updated.xsl'  # Ensure this points to your XSLT file
     original_tree = etree.parse(output_file_path)  # Parses the file you just wrote
 
     # Perform the XSLT transformation

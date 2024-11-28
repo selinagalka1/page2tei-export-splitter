@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1758</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Houghton Library, Harvard University</publisher>
+        <pubPlace>Cambridge, MA</pubPlace>
+        <date>1758</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1758</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+      <surface lrx="1958" lry="2400" ulx="0" uly="0" xml:id="facs_19">
+         <graphic height="2400px" url="71101915.jpg" width="1958px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=PMMUZQOQNIAFQOODQRYVOELV&amp;amp;fileType=view" width="1958px"/><zone points="90,41 1925,46 1925,2360 97,2360" rendition="Table" xml:id="facs_19_t1">
+            <zone points="75,139 86,139 121,105 135,110 147,99 153,105 164,92 177,89 206,110 236,99 233,10 215,16 209,10 172,11 148,32 123,14 91,24 70,16" rendition="TableCell" xml:id="facs_19_t1c1_tl_1"/>
+            <zone points="72,163 83,163 96,151 107,159 129,151 142,159 196,153 217,167 237,166 237,118 206,110 191,97 147,116 105,107 72,123" rendition="TableCell" xml:id="facs_19_t1c1_tl_2"/>
+            <zone points="69,263 124,261 132,253 147,258 167,245 178,253 194,239 236,244 234,166 215,166 194,151 148,166 129,153 116,158 99,150 76,171 67,169" rendition="TableCell" xml:id="facs_19_t1c1_tl_3"/>
+            <zone points="279,147 292,147 324,123 368,129 397,113 411,120 419,115 434,129 457,121 457,67 416,67 402,59 379,78 343,72 332,78 312,65 280,75" rendition="TableCell" xml:id="facs_19_t1c2_tl_1"/>
+            <zone points="684,163 722,178 802,150 923,163 1022,131 1089,153 1195,140 1214,132 1218,78 1165,88 1111,56 1077,84 1041,61 955,81 916,59 843,86 798,57 688,67" rendition="TableCell" xml:id="facs_19_t1c3_tl_1"/>
+            <zone points="86,433 181,427 179,397 84,403" rendition="TableCell" xml:id="facs_19_l"/>
+            <zone points="287,316 335,328 359,324 370,335 389,335 416,322 461,330 462,261 446,253 430,257 395,236 362,236 335,261 328,257 308,273 288,273" rendition="TableCell" xml:id="facs_19_t1c5_tl_1"/>
+            <zone points="309,422 320,422 324,426 336,414 344,419 373,403 381,410 387,403 395,403 395,333 376,338 363,349 352,347 335,362 309,363" rendition="TableCell" xml:id="facs_19_t1c5_tl_2"/>
+            <zone points="612,351 762,394 979,336 1063,381 1532,336 1890,378 1890,296 1785,265 1073,300 966,245 794,308 682,245 612,263" rendition="TableCell" xml:id="facs_19_t1c6_tl_1"/>
+            <zone points="1645,472 1673,469 1688,454 1731,457 1755,483 1780,494 1818,494 1850,475 1855,389 1793,392 1753,363 1705,387 1651,368" rendition="TableCell" xml:id="facs_19_t1c6_tl_2"/>
+            <zone points="883,465 932,465 967,488 1025,456 1069,477 1125,459 1200,467 1200,373 1034,375 994,398 975,381 905,410 883,402" rendition="TableCell" xml:id="facs_19_t1c6_tl_3"/>
+            <zone points="681,542 816,586 885,536 964,537 1073,590 1170,534 1332,545 1332,475 1261,459 1194,502 1152,480 1010,507 950,475 822,484 798,461 681,492" rendition="TableCell" xml:id="facs_19_t1c6_tl_4"/>
+            <zone points="67,826 89,837 113,826 132,842 140,834 145,838 169,826 190,827 190,732 150,746 128,738 102,755 88,744 67,743" rendition="TableCell" xml:id="facs_19_t1c7_tl_1"/>
+            <zone points="285,704 319,709 363,695 411,727 437,733 469,719 469,663 435,665 375,614 347,618 296,641 287,638" rendition="TableCell" xml:id="facs_19_t1c8_tl_1"/>
+            <zone points="306,802 316,805 346,790 357,795 375,783 386,790 408,776 416,778 421,727 411,727 390,711 354,733 347,730 325,736 312,732" rendition="TableCell" xml:id="facs_19_t1c8_tl_2"/>
+            <zone points="628,757 822,789 956,722 1492,732 1492,628 1261,663 1214,634 1069,674 967,649 896,671 800,626 630,671" rendition="TableCell" xml:id="facs_19_t1c9_tl_1"/>
+            <zone points="888,842 959,837 1023,813 1047,827 1081,818 1175,832 1173,755 1116,741 1073,749 1041,770 993,736 944,747 913,768 886,762" rendition="TableCell" xml:id="facs_19_t1c9_tl_2"/>
+            <zone points="688,951 757,942 789,969 869,975 1006,940 1073,975 1234,950 1234,864 1191,851 963,873 849,826 688,877" rendition="TableCell" xml:id="facs_19_t1c9_tl_3"/>
+            <zone points="69,1308 91,1300 113,1313 126,1300 139,1304 163,1280 204,1283 206,1189 191,1189 115,1124 70,1136" rendition="TableCell" xml:id="facs_19_t1c10_tl_1"/>
+            <zone points="265,1089 288,1093 308,1109 328,1093 346,1104 376,1087 411,1114 456,1095 457,1058 414,1022 394,1023 379,1012 317,1038 288,1012 268,1012" rendition="TableCell" xml:id="facs_19_t1c11_tl_1"/>
+            <zone points="301,1219 327,1229 346,1213 373,1219 382,1227 414,1224 414,1111 387,1101 368,1101 362,1095 341,1104 324,1089 312,1095 301,1092" rendition="TableCell" xml:id="facs_19_t1c11_tl_2"/>
+            <zone points="586,1127 647,1130 736,1197 808,1141 1053,1117 1170,1173 1426,1133 1425,1047 1364,1031 1039,1104 755,1020 676,1087 586,1100" rendition="TableCell" xml:id="facs_19_t1c12_tl_1"/>
+            <zone points="1458,1221 1482,1230 1525,1202 1546,1222 1578,1219 1701,1157 1783,1178 1833,1170 1834,1087 1804,1077 1753,1122 1688,1092 1616,1122 1575,1085 1463,1076" rendition="TableCell" xml:id="facs_19_t1c12_tl_2"/>
+            <zone points="888,1235 951,1237 990,1222 1025,1234 1052,1221 1108,1234 1205,1230 1205,1171 1159,1176 1117,1148 1090,1146 1055,1176 998,1146 888,1167" rendition="TableCell" xml:id="facs_19_t1c12_tl_3"/>
+            <zone points="663,1310 722,1304 824,1364 934,1308 1151,1307 1235,1328 1235,1262 1181,1280 971,1261 904,1291 830,1222 727,1273 663,1273" rendition="TableCell" xml:id="facs_19_t1c12_tl_4"/>
+            <zone points="76,1659 104,1662 113,1653 129,1662 142,1656 167,1658 161,1527 147,1527 140,1520 131,1527 97,1506 88,1516 70,1511" rendition="TableCell" xml:id="facs_19_t1c13_tl_1"/>
+            <zone points="287,1500 316,1492 327,1497 359,1477 367,1485 403,1489 434,1512 462,1509 462,1447 398,1415 382,1425 370,1417 336,1434 287,1434" rendition="TableCell" xml:id="facs_19_t1c14_tl_1"/>
+            <zone points="328,1585 407,1570 402,1540 322,1555" rendition="TableCell" xml:id="facs_19_l_1697"/>
+            <zone points="609,1595 752,1611 947,1563 1465,1549 1465,1474 1352,1458 1246,1487 1195,1461 1096,1506 913,1481 609,1509" rendition="TableCell" xml:id="facs_19_t1c15_tl_1"/>
+            <zone points="853,1696 987,1664 1130,1665 1148,1683 1186,1686 1186,1584 1157,1584 1122,1608 1057,1594 1017,1608 964,1586 853,1605" rendition="TableCell" xml:id="facs_19_t1c15_tl_2"/>
+            <zone points="730,1763 889,1815 1001,1780 1130,1830 1232,1795 1232,1720 1175,1728 1143,1708 1034,1737 950,1710 910,1720 816,1681 767,1728 730,1729" rendition="TableCell" xml:id="facs_19_t1c15_tl_3"/></zone>
+      </surface>
+      <surface lrx="1941" lry="2400" ulx="0" uly="0" xml:id="facs_20">
+         <graphic height="2400px" url="71101714.jpg" width="1941px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=GVICMFNGMXQHIIROYUAZUQQE&amp;fileType=view" width="1941px"/><zone points="50,33 1848,37 1848,2355 44,2350" rendition="Table" xml:id="facs_20_t1">
+            <zone points="32,105 75,104 85,112 131,71 145,80 176,63 244,87 240,5 201,8 187,18 163,10 135,18 28,14" rendition="TableCell" xml:id="facs_20_t1c1_tl_1"/>
+            <zone points="35,136 66,142 104,130 162,138 185,131 225,142 226,92 153,88 85,112 37,88" rendition="TableCell" xml:id="facs_20_t1c1_tl_2"/>
+            <zone points="38,191 174,190 220,210 222,142 197,149 187,140 179,147 172,140 152,144 138,130 126,138 116,129 56,145 40,135" rendition="TableCell" xml:id="facs_20_t1c1_tl_3"/>
+            <zone points="288,150 341,116 358,126 375,112 402,107 415,115 449,110 485,126 488,80 474,82 461,72 451,78 433,64 422,75 404,75 385,58 363,71 345,57 330,64 306,53 293,57" rendition="TableCell" xml:id="facs_20_t1c2_tl_1"/>
+            <zone points="863,125 901,121 928,147 954,130 1017,142 1132,112 1241,119 1240,61 1220,56 1131,76 1111,58 1091,72 1029,59 978,76 904,40 862,42" rendition="TableCell" xml:id="facs_20_t1c3_tl_1"/>
+            <zone points="288,341 350,326 478,332 481,278 441,281 425,264 379,251 324,282 287,278" rendition="TableCell" xml:id="facs_20_t1c5_tl_1"/>
+            <zone points="324,471 340,466 369,475 384,463 397,470 406,466 418,470 420,353 388,345 356,360 346,351 325,349" rendition="TableCell" xml:id="facs_20_t1c5_tl_2"/>
+            <zone points="875,369 893,365 917,383 948,368 1000,369 1045,387 1058,374 1117,377 1116,348 1099,354 1069,340 1054,344 1002,298 982,300 925,275 905,293 872,293" rendition="TableCell" xml:id="facs_20_t1c6_tl_1"/>
+            <zone points="524,481 995,452 1295,526 1422,457 1541,516 1541,415 1482,393 1340,420 1192,373 892,365 700,411 617,363 524,377" rendition="TableCell" xml:id="facs_20_t1c6_tl_2"/></zone>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/><table facs="#facs_19_t1">
+        <row n="0">
+          <cell facs="#facs_19_t1c1" n="0" rend="0000">
+               <lb facs="#facs_19_t1c1_tl_1" n="N001"/><sic ana="digitization_error">R</sic>epre-
+               <lb facs="#facs_19_t1c1_tl_2" n="N002"/><sic ana="digitization_error">s</sic>enta-
+               <lb facs="#facs_19_t1c1_tl_3" n="N003"/>tions.</cell>
+          <cell facs="#facs_19_t1c2" n="1" rend="0000">
+               <lb facs="#facs_19_t1c2_tl_1" n="N001"/>jours</cell>
+          <cell facs="#facs_19_t1c3" n="2" rend="0000">
+               <lb facs="#facs_19_t1c3_tl_1" n="N001"/>Fevrier</cell></row>
+        <row n="1">
+          <cell facs="#facs_19_t1c4" n="0" rend="0000">
+               <lb facs="#facs_19_l" n="N001"/><hi style="text-decoration: underline;">29</hi></cell>
+          <cell facs="#facs_19_t1c5" n="1" rend="0000">
+               <lb facs="#facs_19_t1c5_tl_1" n="N001"/>Sam.
+               <lb facs="#facs_19_t1c5_tl_2" n="N002"/>4</cell>
+          <cell facs="#facs_19_t1c6" n="2" rend="0000">
+               <lb facs="#facs_19_t1c6_tl_1" n="N001"/>Bernardon resuscité. Com. à machines
+               <lb facs="#facs_19_t1c6_tl_2" n="N002"/>Kurz
+               <lb facs="#facs_19_t1c6_tl_3" n="N003"/>Ballets
+               <lb facs="#facs_19_t1c6_tl_4" n="N004"/>Les deux grands.</cell></row>
+        <row n="2">
+          <cell facs="#facs_19_t1c7" n="0" rend="0000">
+               <lb facs="#facs_19_t1c7_tl_1" n="N001"/><hi style="text-decoration: underline;">30.</hi></cell>
+          <cell facs="#facs_19_t1c8" n="1" rend="0000">
+               <lb facs="#facs_19_t1c8_tl_1" n="N001"/>Dim.
+               <lb facs="#facs_19_t1c8_tl_2" n="N002"/>5.</cell>
+          <cell facs="#facs_19_t1c9" n="2" rend="0000">
+               <lb facs="#facs_19_t1c9_tl_1" n="N001"/>La même Comedie
+               <lb facs="#facs_19_t1c9_tl_2" n="N002"/>Ballets
+               <lb facs="#facs_19_t1c9_tl_3" n="N003"/>Les mêmes</cell></row>
+        <row n="3">
+          <cell facs="#facs_19_t1c10" n="0" rend="0000">
+               <lb facs="#facs_19_t1c10_tl_1" n="N001"/>31.</cell>
+          <cell facs="#facs_19_t1c11" n="1" rend="0000">
+               <lb facs="#facs_19_t1c11_tl_1" n="N001"/>Lun.
+               <lb facs="#facs_19_t1c11_tl_2" n="N002"/>6</cell>
+          <cell facs="#facs_19_t1c12" n="2" rend="0000">
+               <lb facs="#facs_19_t1c12_tl_1" n="N001"/>Le Mari confondû
+               <lb facs="#facs_19_t1c12_tl_2" n="N002"/>Heÿdrich
+               <lb facs="#facs_19_t1c12_tl_3" n="N003"/>Ballets
+               <lb facs="#facs_19_t1c12_tl_4" n="N004"/>Les mêmes</cell></row>
+        <row n="4">
+          <cell facs="#facs_19_t1c13" n="0" rend="0000">
+               <lb facs="#facs_19_t1c13_tl_1" n="N001"/><hi style="text-decoration: underline;">32</hi></cell>
+          <cell facs="#facs_19_t1c14" n="1" rend="0000">
+               <lb facs="#facs_19_t1c14_tl_1" n="N001"/>Mar.
+               <lb facs="#facs_19_l_1697" n="N002"/>7</cell>
+          <cell facs="#facs_19_t1c15" n="2" rend="0000">
+               <lb facs="#facs_19_t1c15_tl_1" n="N001"/>La même Comedie
+               <lb facs="#facs_19_t1c15_tl_2" n="N002"/>Ballets
+               <lb facs="#facs_19_t1c15_tl_3" n="N003"/>Les mêmes</cell></row>
+        <row n="5">
+          <cell facs="#facs_19_t1c16" n="0" rend="0000"/>
+          <cell facs="#facs_19_t1c17" n="1" rend="0000"/>
+          <cell facs="#facs_19_t1c18" n="2" rend="0000"/></row></table>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/><table facs="#facs_20_t1">
+        <row n="0">
+          <cell facs="#facs_20_t1c1" n="0" rend="0000">
+               <lb facs="#facs_20_t1c1_tl_1" n="N001"/><supplied reason="cut">R</supplied>epre-
+               <lb facs="#facs_20_t1c1_tl_2" n="N002"/>senta-
+               <lb facs="#facs_20_t1c1_tl_3" n="N003"/>tions</cell>
+          <cell facs="#facs_20_t1c2" n="1" rend="0000">
+               <lb facs="#facs_20_t1c2_tl_1" n="N001"/>jours</cell>
+          <cell facs="#facs_20_t1c3" n="2" rend="0000">
+               <lb facs="#facs_20_t1c3_tl_1" n="N001"/>Fevrier.</cell></row>
+        <row n="1">
+          <cell facs="#facs_20_t1c4" n="0" rend="0000"/>
+          <cell facs="#facs_20_t1c5" n="1" rend="0000">
+               <lb facs="#facs_20_t1c5_tl_1" n="N001"/>Mer:
+               <lb facs="#facs_20_t1c5_tl_2" n="N002"/>8.</cell>
+          <cell facs="#facs_20_t1c6" n="2" rend="0000">
+               <lb facs="#facs_20_t1c6_tl_1" n="N001"/>Rien.
+               <lb facs="#facs_20_t1c6_tl_2" n="N002"/>Entrée de la Quarême</cell></row></table>
+            </div>
+    </body>
+  </text>
+</TEI>
