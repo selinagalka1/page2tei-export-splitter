@@ -17,27 +17,18 @@
         <!-- Do nothing to remove the attribute -->
     </xsl:template>
 
-    <!-- As a false tag was used in the original, instances including 'digitizaton' are also transformed -->
-    <xsl:template match="tei:digitizaton_error">
-        <xsl:element name="sic" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:attribute name="ana">digitization_error</xsl:attribute>
-            <xsl:apply-templates select="@*|node()"/>
-        </xsl:element>
+    <!-- Remove undesired attributes like @source -->
+    <xsl:template match="@source">
+        <!-- Do nothing to discard the attribute -->
     </xsl:template>
 
-    
     <!-- Transform <tei:digitization_error> to <sic> -->
     <xsl:template match="tei:digitization_error">
-        <!-- Explicitly specify the default namespace for <sic> -->
+        <!-- Explicitly create the <sic> element with only the desired ana attribute -->
         <xsl:element name="sic" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="ana">digitization_error</xsl:attribute>
-            <xsl:apply-templates select="@*|node()"/>
+            <!-- Apply templates only to child nodes, excluding attributes -->
+            <xsl:apply-templates select="node()"/>
         </xsl:element>
     </xsl:template>
-    
-    <!-- Ensure <tei:digitization_error> text nodes are copied correctly -->
-    <xsl:template match="tei:digitization_error/text()">
-        <xsl:copy/>
-    </xsl:template>
-    
 </xsl:stylesheet>

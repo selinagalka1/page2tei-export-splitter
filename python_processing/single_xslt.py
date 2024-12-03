@@ -1,8 +1,8 @@
 from lxml import etree
 
 # Load the XML and XSLT files
-xml_file = "manuscripts/1758_034-039.xml"  # Replace with the path to your XML file
-xslt_file = "xslt/stylesheet_reason.xsl"  # Replace with the path to your XSLT file
+xml_file = "misc/1758_034-039.xml"  # Replace with the path to your XML file
+xslt_file = "xslt/sic.xsl"  # Replace with the path to your XSLT file
 
 # Parse the XML and XSLT
 xml_tree = etree.parse(xml_file)

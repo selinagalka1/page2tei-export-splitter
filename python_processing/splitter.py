@@ -134,7 +134,7 @@ if __name__ == "__main__":
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-    facs_start_range = range(34,40)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(107,113)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
@@ -183,18 +183,30 @@ if __name__ == "__main__":
     save_xml_to_file(output_file_path, tei_str)
 
     # Load the XSLT file for transformation
-    xslt_path = 'xslt/test-stylesheet.xsl'  # Ensure this points to your XSLT file
+    xslt_path = 'xslt/sic.xsl'  # Ensure this points to your XSLT file
     original_tree = etree.parse(output_file_path)  # Parses the file you just wrote
 
-    # Perform the XSLT transformation
+    # Perform the first XSLT transformation
     transformed_tree = transform_xml(xslt_path, original_tree)
+
+    # Load the second XSLT file for transformation
+    second_xslt_path = 'xslt/reason_tb.xsl'  # Ensure this points to your second XSLT file
+
+    # Perform the second XSLT transformation
+    second_transformed_tree = transform_xml(second_xslt_path, transformed_tree)
+
+    # Load the third XSLT file for transformation
+    third_xslt_path = 'xslt/reason_ab.xsl'  # Ensure this points to your third XSLT file
+
+    # Perform the third XSLT transformation
+    third_transformed_tree = transform_xml(third_xslt_path, transformed_tree)
 
     # Generate formatted range string for output file name
     formatted_range_str = f"{facs_start_range.start:03d}-{facs_start_range.stop - 1:03d}" if facs_start_range.stop - facs_start_range.start > 1 else f"{facs_start_range.start:03d}"
 
     # Clean and save the transformed XML
     transformed_output_path = f'output/{year_of_volume}_{formatted_range_str}.xml'
-    transformed_xml_string = clean_transformed_xml(transformed_tree)
+    transformed_xml_string = clean_transformed_xml(third_transformed_tree)
 
     with open(transformed_output_path, 'wb') as transformed_file:
         transformed_file.write(transformed_xml_string)
