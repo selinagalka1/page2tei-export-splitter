@@ -134,7 +134,7 @@ if __name__ == "__main__":
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json'
-    facs_start_range = range(29,34)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(34,40)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
@@ -183,7 +183,7 @@ if __name__ == "__main__":
     save_xml_to_file(output_file_path, tei_str)
 
     # Load the XSLT file for transformation
-    xslt_path = 'xslt/stylesheet_updated.xsl'  # Ensure this points to your XSLT file
+    xslt_path = 'xslt/test-stylesheet.xsl'  # Ensure this points to your XSLT file
     original_tree = etree.parse(output_file_path)  # Parses the file you just wrote
 
     # Perform the XSLT transformation

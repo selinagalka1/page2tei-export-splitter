@@ -1,7 +1,7 @@
 from lxml import etree
 
 # Load the XML and XSLT files
-xml_file = "manuscripts/1758_113-118.xml"  # Replace with the path to your XML file
+xml_file = "manuscripts/1758_034-039.xml"  # Replace with the path to your XML file
 xslt_file = "xslt/stylesheet_reason.xsl"  # Replace with the path to your XSLT file
 
 # Parse the XML and XSLT
@@ -15,7 +15,7 @@ transform = etree.XSLT(xslt_tree)
 result_tree = transform(xml_tree)
 
 # Save the transformed XML to a new file
-output_file = "output/1758_113-118.xml"  # Replace with your desired output file path
+output_file = "output/1758_034-039.xml"  # Replace with your desired output file path
 with open(output_file, "wb") as f:
     f.write(etree.tostring(result_tree, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
 
