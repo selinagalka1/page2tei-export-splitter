@@ -611,7 +611,7 @@
       </surface>
       <surface lrx="2036" lry="2400" ulx="0" uly="0" xml:id="facs_31">
          <graphic height="2400px" url="71103877.jpg" width="2036px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=ILOMKXRBTAWZUOEHZFJZZLHD&amp;fileType=view" width="2036px"/><zone points="104,40 1972,40 1965,2354 104,2361" rendition="Table" xml:id="facs_31_t1">
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=ILOMKXRBTAWZUOEHZFJZZLHD&amp;amp;fileType=view" width="2036px"/><zone points="104,40 1972,40 1965,2354 104,2361" rendition="Table" xml:id="facs_31_t1">
             <zone points="94,189 136,203 155,188 169,203 183,196 205,206 225,195 258,203 285,189 369,196 370,87 357,82 341,94 311,72 253,87 224,78 140,111 96,104" rendition="TableCell" xml:id="facs_31_t1c1_tl_1"/>
             <zone points="925,212 983,206 1003,217 1034,208 1054,215 1133,189 1135,101 1056,78 1014,94 988,85 947,97 926,92" rendition="TableCell" xml:id="facs_31_t1c2_tl_1"/>
             <zone points="106,459 123,471 157,461 176,476 193,479 205,468 253,483 328,464 343,304 314,299 239,338 213,334 113,392" rendition="TableCell" xml:id="facs_31_t1c3_tl_2"/>
@@ -3014,12 +3014,15 @@
                <lb facs="#facs_31_t1c12_tl_2" n="N002"/>avec
                <lb facs="#facs_31_t1c12_tl_3" n="N003"/>Deux grands Ballets.</cell></row>
         <row n="6">
-          <cell facs="#facs_31_c" n="0" rows="2" rend="0000">
+          <cell facs="#facs_31_c_257" n="0" rend="0000">
                <lb facs="#facs_31_c_108_tl_2" n="N001"/>Le 9.<hi style="vertical-align: superscript;">me</hi></cell>
-          <cell facs="#facs_31_c_123" n="1" rows="2" rend="0000">
+          <cell facs="#facs_31_c_311" n="1" rend="0000">
                <lb facs="#facs_31_c_112_tl_1" n="N001"/>Le double pair d’Epoux et d’Épouses.
                <lb facs="#facs_31_c_112_tl_2" n="N002"/>avec
-               <lb facs="#facs_31_c_112_tl_3" n="N003"/>Deux grands Ballets.</cell></row></table>
+               <lb facs="#facs_31_c_112_tl_3" n="N003"/>Deux grands Ballets.</cell></row>
+        <row n="7">
+          <cell facs="#facs_31_c_258" n="0" rend="0000"/>
+          <cell facs="#facs_31_c_312" n="1" rend="0000"/></row></table>
             <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             <table facs="#facs_32_t1">
         <row n="0">
@@ -3871,13 +3874,16 @@
           <cell facs="#facs_48_t1c14" n="1" rend="0000">
                <lb facs="#facs_48_t1c14_tl_1" n="N001"/>Vendredi, rien.</cell></row>
         <row n="7">
-          <cell facs="#facs_48_c" n="0" rows="2" rend="0000">
+          <cell facs="#facs_48_c_137" n="0" rend="0000">
                <lb facs="#facs_48_c_119_tl_1" n="N001"/>Septembre
                <lb facs="#facs_48_c_119_tl_2" n="N002"/>Le 1.<hi style="vertical-align: superscript;">r</hi></cell>
-          <cell facs="#facs_48_c_132" n="1" rows="2" rend="0000">
+          <cell facs="#facs_48_c_79" n="1" rend="0000">
                <lb facs="#facs_48_l_71" n="N001"/>Marcus Furius Camillus. Nouvelle.
                <lb facs="#facs_48_c_123_tl_2" n="N002"/>avec
-               <lb facs="#facs_48_c_123_tl_3" n="N003"/>Deux grands Ballets.</cell></row></table>
+               <lb facs="#facs_48_c_123_tl_3" n="N003"/>Deux grands Ballets.</cell></row>
+        <row n="8">
+          <cell facs="#facs_48_c_138" n="0" rend="0000"/>
+          <cell facs="#facs_48_c_80" n="1" rend="0000"/></row></table>
             <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             <table facs="#facs_49_t1">
         <row n="0">
