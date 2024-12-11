@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1759</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Houghton Library, Harvard University</publisher>
+        <pubPlace>Cambridge, MA</pubPlace>
+        <date>1759</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1759</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="2015" lry="2400" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="2400px" url="71103869.jpg" width="2015px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=LPRISQEZZXMXOMDUTEGEVUWA&amp;fileType=view" width="2015px"/>
+         <zone points="165,77 149,2341 1934,2333 1974,91" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="200,660 322,654 380,600 532,684 1129,678 1221,642 1221,550 1041,546 967,504 833,562 700,494 522,474 198,526" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+            <zone points="310,863 1723,869 1853,923 1915,915 1911,798 1731,772 1651,809 1509,752 1455,792 1287,734 977,780 917,734 792,778 578,698 306,756" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+            <zone points="350,985 708,981 823,1057 967,993 1365,1059 1479,1013 1713,1069 1861,1019 1931,1043 1915,931 1789,975 1577,969 1389,905 1313,947 1175,907 1095,951 955,881 728,883 594,933 426,883 348,909" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+            <zone points="324,1195 570,1123 646,1157 837,1123 1001,1131 1129,1197 1327,1141 1489,1207 1839,1181 1853,1097 1739,1063 1423,1121 1283,1043 1065,1025 873,1099 790,1033 486,1003 322,1045" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="360,1285 1923,1297 1921,1221 1861,1191 1349,1223 947,1181 768,1223 442,1163 358,1207" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+            <zone points="346,1425 558,1483 696,1421 985,1413 1087,1463 1185,1415 1185,1335 1049,1387 951,1321 877,1359 807,1335 722,1359 644,1307 580,1345 450,1293 346,1351" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_9" n="9" xml:id="img_009"/><ab facs="#facs_9_tr_1">
+               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>À Son Éxcellence,
+               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>Monsieur le Comte de Durazzo,
+               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>Conseiller Intime de Leurs Majestez
+               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>Imperiales et Roïales; et Son
+               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>Directeur des Plaisirs, et de tous
+               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>les Spectacles
+            </ab>
+            </div>
+    </body>
+  </text>
+</TEI>
