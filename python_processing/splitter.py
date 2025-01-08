@@ -1,6 +1,11 @@
 import os
 from lxml import etree
 
+### ASSIGN the following variables to match your requirements ###
+## Lines 138-140: year_of_volume, pub_place_text, publisher_text
+## Line 142: idno_external_text
+## Line 143: range()
+
 def parse_xml(file_path):
     """Reads and parses the XML file."""
     try:
@@ -115,7 +120,7 @@ def clean_transformed_xml(transformed_tree):
 # Main execution block
 if __name__ == "__main__":
     # Define the path to your XML file
-    file_path = 'export_files/file_1759.xml'
+    file_path = 'export_files/file_1763.xml'
 
     # Read and parse the XML file
     root = parse_xml(file_path)
@@ -130,12 +135,12 @@ if __name__ == "__main__":
     }
 
     # Variables
-    year_of_volume = '1759'
+    year_of_volume = '1763'
     pub_place_text = 'Cambridge, MA'
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
-    idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json'
-    facs_start_range = range(70,89)  # MOST IMPORTANT TO CHANGE
+    idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-3.json'
+    facs_start_range = range(9,12)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
