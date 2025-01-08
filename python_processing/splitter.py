@@ -78,6 +78,7 @@ def extract_table_elements(root, facs_start_range, namespaces):
     # Find and collect all table elements that are associated with the specified range of facsimile IDs
     for facs_start in facs_start_range:
         table_elements.extend(root.findall(f".//tei:table[@facs='#facs_{facs_start}_t1']", namespaces))
+        table_elements.extend(root.findall(f".//tei:table[@facs='#facs_{facs_start}_t']", namespaces))
     return table_elements
 
 def save_xml_to_file(output_file_path, xml_string):
@@ -134,7 +135,7 @@ if __name__ == "__main__":
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json'
-    facs_start_range = range(11,12)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(70,89)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
@@ -158,8 +159,16 @@ if __name__ == "__main__":
         pb = etree.SubElement(div, 'pb', facs=f"#facs_{facs_start}", n=str(facs_start),
                               **{f'{{http://www.w3.org/XML/1998/namespace}}id': f"img_00{facs_start}"})
 
-        # Find table elements associated with the current facs_start
-        current_table_elements = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t1']", namespaces)
+            # Find tables with _t1
+        tables_t1 = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t1']", namespaces)
+
+            # Find tables with _t
+        tables_t = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t']", namespaces)
+
+            # Combine the results
+        current_table_elements = tables_t1 + tables_t
+
+
 
         # If table elements are found, append these to the div element
         if current_table_elements:
