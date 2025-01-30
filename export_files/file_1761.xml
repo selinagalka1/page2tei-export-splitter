@@ -353,7 +353,7 @@
       </surface>
       <surface lrx="1958" lry="2400" ulx="0" uly="0" xml:id="facs_18">
          <graphic height="2400px" url="71104080.jpg" width="1958px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=MSZGGKOJINQTQSHSLPNCWBNM&amp;fileType=view" width="1958px"/><zone points="56,32 1878,32 1878,2360 56,2360" rendition="Table" xml:id="facs_18_t1">
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=MSZGGKOJINQTQSHSLPNCWBNM&amp;amp;amp;fileType=view" width="1958px"/><zone points="56,32 1878,32 1878,2360 56,2360" rendition="Table" xml:id="facs_18_t1">
             <zone points="814,174 852,190 934,168 978,181 1006,168 1039,185 1093,171 1124,188 1146,174 1177,187 1178,65 1155,74 1080,51 1061,65 980,72 959,59 911,96 850,72 815,94" rendition="TableCell" xml:id="facs_18_t1c3_tl_1"/>
             <zone points="850,456 1089,410 1704,431 1704,369 1652,346 1565,375 1389,297 1327,322 1061,274 1008,305 931,280 850,294" rendition="TableCell" xml:id="facs_18_t1c6_tl_1"/>
             <zone points="541,563 847,574 911,630 1723,593 1721,552 1614,519 1537,552 1151,505 1056,553 758,534 634,461 540,494" rendition="TableCell" xml:id="facs_18_t1c6_tl_2"/>
@@ -380,8 +380,8 @@
             <zone points="1354,1187 1433,1177 1448,1164 1476,1178 1521,1156 1615,1173 1645,1148 1724,1146 1723,1112 1643,1080 1601,1093 1529,1034 1462,1059 1429,1058 1404,1040 1352,1062" rendition="TableCell" xml:id="facs_18_t1c6_tl_12"/>
             <zone points="1359,1315 1376,1309 1393,1320 1451,1304 1479,1315 1508,1296 1532,1295 1567,1268 1617,1267 1615,1165 1587,1173 1568,1158 1557,1165 1508,1158 1477,1178 1445,1165 1429,1183 1405,1177 1356,1201" rendition="TableCell" xml:id="facs_18_t1c6_tl_15"/>
             <zone points="1343,1376 1443,1392 1701,1377 1730,1395 1818,1382 1863,1395 1873,1334 1791,1302 1649,1348 1576,1295 1501,1339 1423,1306 1374,1330 1342,1320" rendition="TableCell" xml:id="facs_18_t1c6_tl_19"/>
-            <zone points="812,1623 1011,1636 1042,1621 1075,1639 1243,1605 1421,1621 1421,1548 1268,1554 1181,1520 1143,1552 1087,1520 1040,1558 917,1523 865,1527 812,1562" rendition="TableCell" xml:id="facs_18_t1c6_tl_21"/>
             <zone points="522,1514 783,1487 993,1539 1045,1507 1632,1511 1618,1442 1367,1457 1218,1415 1031,1461 808,1459 615,1389 522,1446" rendition="TableCell" xml:id="facs_18_t1c6_tl_20"/>
+            <zone points="812,1623 1011,1636 1042,1621 1075,1639 1243,1605 1421,1621 1421,1548 1268,1554 1181,1520 1143,1552 1087,1520 1040,1558 917,1523 865,1527 812,1562" rendition="TableCell" xml:id="facs_18_t1c6_tl_21"/>
             <zone points="340,1701 358,1704 362,1699 374,1701 378,1696 385,1704 400,1701 403,1617 394,1617 390,1621 383,1618 372,1629 363,1624 358,1629 352,1621 343,1621" rendition="TableCell" xml:id="facs_18_t1c5_tl_5"/>
             <zone points="356,1830 369,1832 409,1796 422,1802 431,1801 427,1727 406,1727 388,1720 384,1715 362,1724 349,1723" rendition="TableCell" xml:id="facs_18_t1c5_tl_6"/>
             <zone points="366,1930 420,1937 424,1907 370,1901" rendition="TableCell" xml:id="facs_18_l_44"/>
@@ -2268,7 +2268,7 @@
       </surface>
       <surface lrx="1985" lry="2400" ulx="0" uly="0" xml:id="facs_71">
          <graphic height="2400px" url="71104228.jpg" width="1985px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=IVLBBOQLGEFYIUSKNJANBOAL&amp;amp;fileType=view" width="1985px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=IVLBBOQLGEFYIUSKNJANBOAL&amp;amp;amp;fileType=view" width="1985px"/>
          <zone points="89,100 1939,106 1936,1102 104,1127" rendition="TextRegion" xml:id="facs_71_tr_2">
             <zone points="212,309 509,243 676,285 833,254 893,307 1105,254 1646,291 1644,204 1394,208 1332,161 1130,215 990,159 751,204 674,153 210,153" rendition="Line" xml:id="facs_71_tr_2_tl_1"/>
             <zone points="334,361 1279,355 1388,408 1458,363 1867,435 1866,309 1792,293 1506,322 1207,272 928,336 524,243 332,289" rendition="Line" xml:id="facs_71_tr_2_tl_2"/>
@@ -3113,29 +3113,16 @@
         <row n="0">
           <cell facs="#facs_18_t1c1" n="0" rend="0000"/>
           <cell facs="#facs_18_t1c2" n="1" rend="0000"/>
-          <cell facs="#facs_18_c_192" n="2" rend="0000">
-               <lb facs="#facs_18_t1c3_tl_1" n="N001"/>Mars</cell>
-          <cell facs="#facs_18_c_240" n="3" rend="0000"/>
-          <cell facs="#facs_18_c_241" n="4" rend="0000"/></row>
+          <cell facs="#facs_18_c_361" n="2" cols="3" rend="0000">
+               <lb facs="#facs_18_t1c3_tl_1" n="N001"/>Mars.</cell></row>
         <row n="1">
-          <cell facs="#facs_18_c" n="0" rend="0000"/>
-          <cell facs="#facs_18_c_21" n="1" rend="0000"/>
-          <cell facs="#facs_18_c_194" n="2" rend="0000"/>
-          <cell facs="#facs_18_c_242" n="3" rend="0000"/>
-          <cell facs="#facs_18_c_243" n="4" rend="0000">
+          <cell facs="#facs_18_c_844" n="0" rows="5" rend="0000"/>
+          <cell facs="#facs_18_c_671" n="1" rows="2" rend="0000"/>
+          <cell facs="#facs_18_c_96" n="2" cols="3" rend="0000">
                <lb facs="#facs_18_t1c6_tl_1" n="N001"/>État de la Dance
                <lb facs="#facs_18_t1c6_tl_2" n="N002"/>Danceurs, et Danceuses
-               <lb facs="#facs_18_t1c6_tl_3" n="N003"/>à Seul</cell></row>
-        <row n="2">
-          <cell facs="#facs_18_c_42" n="0" rend="0000"/>
-          <cell facs="#facs_18_c_44" n="1" rend="0000"/>
-          <cell facs="#facs_18_c_196" n="2" rend="0000">
-               <lb facs="#facs_18_t1c6_tl_4" n="N001"/>Messieurs</cell>
-          <cell facs="#facs_18_c_244" n="3" rend="0000"/>
-          <cell facs="#facs_18_c_245" n="4" rend="0000">
-               <lb facs="#facs_18_t1c6_tl_5" n="N001"/>Mesdemoiselles</cell></row>
+               <lb facs="#facs_18_t1c6_tl_3" n="N003"/>à Seul.</cell></row>
         <row n="3">
-          <cell facs="#facs_18_c_69" n="0" rend="0000"/>
           <cell facs="#facs_18_c_71" n="1" rend="0000">
                <lb facs="#facs_18_l" n="N001"/>1
                <lb facs="#facs_18_t1c5_tl_1" n="N002"/>2
@@ -3144,7 +3131,7 @@
                <lb facs="#facs_18_t1c5_tl_4" n="N005"/>5</cell>
           <cell facs="#facs_18_c_198" n="2" rend="0000">
                <lb facs="#facs_18_t1c6_tl_6" n="N001"/>Turchi ainé
-               <lb facs="#facs_18_t1c6_tl_8" n="N002"/>Vigano
+               <lb facs="#facs_18_t1c6_tl_8" n="N002"/>Viganó
                <lb facs="#facs_18_t1c6_tl_11" n="N003"/>Jacomin
                <lb facs="#facs_18_t1c6_tl_14" n="N004"/>Pleck
                <lb facs="#facs_18_t1c6_tl_17" n="N005"/>Hornung</cell>
@@ -3161,15 +3148,11 @@
                <lb facs="#facs_18_t1c6_tl_15" n="N004"/>Fusi
                <lb facs="#facs_18_t1c6_tl_19" n="N005"/>Barbara Scott<digitization_error>i</digitization_error></cell></row>
         <row n="4">
-          <cell facs="#facs_18_c_100" n="0" rend="0000"/>
           <cell facs="#facs_18_c_102" n="1" rend="0000"/>
-          <cell facs="#facs_18_c_200" n="2" rend="0000">
-               <lb facs="#facs_18_t1c6_tl_21" n="N001"/>dans le concert.</cell>
-          <cell facs="#facs_18_c_248" n="3" rend="0000"/>
-          <cell facs="#facs_18_c_249" n="4" rend="0000">
-               <lb facs="#facs_18_t1c6_tl_20" n="N001"/>Danceurs, et Danceuses</cell></row>
+          <cell facs="#facs_18_c_207" n="2" cols="3" rend="0000">
+               <lb facs="#facs_18_t1c6_tl_20" n="N001"/>Danceurs, et Danceuses
+               <lb facs="#facs_18_t1c6_tl_21" n="N002"/>dans le concert.</cell></row>
         <row n="5">
-          <cell facs="#facs_18_c_101" n="0" rend="0000"/>
           <cell facs="#facs_18_c_103" n="1" rend="0000">
                <lb facs="#facs_18_t1c5_tl_5" n="N001"/>6
                <lb facs="#facs_18_t1c5_tl_6" n="N002"/>7
@@ -3191,7 +3174,13 @@
                <lb facs="#facs_18_t1c6_tl_27" n="N002"/>Grumanin
                <lb facs="#facs_18_t1c6_tl_29" n="N003"/>Scotti Cadette
                <lb facs="#facs_18_t1c6_tl_32" n="N004"/>Grumanin Cadett<digitization_error>e</digitization_error>
-               <lb facs="#facs_18_t1c6_tl_33" n="N005"/>Heimin</cell></row></table>
+               <lb facs="#facs_18_t1c6_tl_33" n="N005"/>Heimin</cell></row>
+        <row n="2">
+          <cell facs="#facs_18_c_196" n="2" rend="0000">
+               <lb facs="#facs_18_t1c6_tl_4" n="N001"/>Messieurs</cell>
+          <cell facs="#facs_18_c_244" n="3" rend="0000"/>
+          <cell facs="#facs_18_c_245" n="4" rend="0000">
+               <lb facs="#facs_18_t1c6_tl_5" n="N001"/>Mesdemoiselles</cell></row></table>
             <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             <table facs="#facs_19_t1">
         <row n="0">
@@ -3601,16 +3590,12 @@
                <lb facs="#facs_27_t1c15_tl_2" n="N002"/>Ballets
                <lb facs="#facs_27_t1c15_tl_3" n="N003"/>Les mêmes</cell></row>
         <row n="5">
-          <cell facs="#facs_27_c_85" n="0" rend="0000"/>
-          <cell facs="#facs_27_c_89" n="1" rend="0000">
+          <cell facs="#facs_27_c" n="0" rows="2" rend="0000"/>
+          <cell facs="#facs_27_c_133" n="1" rows="2" rend="0000">
                <lb facs="#facs_27_c_89_tl_1" n="N001"/>Lun:
                <lb facs="#facs_27_c_89_tl_2" n="N002"/>le 20.</cell>
-          <cell facs="#facs_27_c_93" n="2" rend="0000">
-               <lb facs="#facs_27_c_93_tl_1" n="N001"/>Au Theatre près de la Cour.</cell></row>
-        <row n="6">
-          <cell facs="#facs_27_c_86" n="0" rend="0000"/>
-          <cell facs="#facs_27_c_90" n="1" rend="0000"/>
-          <cell facs="#facs_27_c_94" n="2" rend="0000"/></row></table>
+          <cell facs="#facs_27_c_207" n="2" rows="2" rend="0000">
+               <lb facs="#facs_27_c_93_tl_1" n="N001"/>Au Theatre près de la Cour.</cell></row></table>
             <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             <table facs="#facs_28_t1">
         <row n="0">
@@ -3715,20 +3700,16 @@
                <lb facs="#facs_29_t1c15_tl_2" n="N002"/>Ballets
                <lb facs="#facs_29_t1c15_tl_3" n="N003"/>Les mêmes</cell></row>
         <row n="5">
-          <cell facs="#facs_29_c_173" n="0" rend="0000">
+          <cell facs="#facs_29_c" n="0" rows="2" rend="0000">
                <lb facs="#facs_29_c_173_tl_1" n="N001"/><hi style="text-decoration: underline;">50</hi></cell>
-          <cell facs="#facs_29_c_177" n="1" rend="0000">
+          <cell facs="#facs_29_c_133" n="1" rows="2" rend="0000">
                <lb facs="#facs_29_c_177_tl_1" n="N001"/>jeudi
                <lb facs="#facs_29_c_177_tl_2" n="N002"/>le 30</cell>
-          <cell facs="#facs_29_c_181" n="2" rend="0000">
+          <cell facs="#facs_29_c_207" n="2" rows="2" rend="0000">
                <lb facs="#facs_29_c_181_tl_1" n="N001"/>La Femme rusée et Vertueuse
                <lb facs="#facs_29_c_181_tl_3" n="N002"/>Hueberin
                <lb facs="#facs_29_c_181_tl_2" n="N003"/>Ballets
-               <lb facs="#facs_29_c_181_tl_4" n="N004"/>Les mêmes</cell></row>
-        <row n="6">
-          <cell facs="#facs_29_c_174" n="0" rend="0000"/>
-          <cell facs="#facs_29_c_178" n="1" rend="0000"/>
-          <cell facs="#facs_29_c_182" n="2" rend="0000"/></row></table>
+               <lb facs="#facs_29_c_181_tl_4" n="N004"/>Les mêmes</cell></row></table>
             <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             <table facs="#facs_30_t1">
         <row n="0">
@@ -4381,19 +4362,15 @@
           <cell facs="#facs_40_t1c15" n="2" rend="0000">
                <lb facs="#facs_40_t1c15_tl_1" n="N001"/>Au Theatre près de la Cour.</cell></row>
         <row n="5">
-          <cell facs="#facs_40_c_107" n="0" rend="0000">
+          <cell facs="#facs_40_c" n="0" rows="2" rend="0000">
                <lb facs="#facs_40_c_107_tl_1" n="N001"/><hi style="text-decoration: underline;">86</hi></cell>
-          <cell facs="#facs_40_c_111" n="1" rend="0000">
+          <cell facs="#facs_40_c_133" n="1" rows="2" rend="0000">
                <lb facs="#facs_40_c_111_tl_1" n="N001"/>Mardi
                <lb facs="#facs_40_c_111_tl_2" n="N002"/>le 23.</cell>
-          <cell facs="#facs_40_c_115" n="2" rend="0000">
+          <cell facs="#facs_40_c_227" n="2" rows="2" rend="0000">
                <lb facs="#facs_40_c_115_tl_1" n="N001"/>Le Fripon honnete
                <lb facs="#facs_40_c_115_tl_2" n="N002"/>Ballets
-               <lb facs="#facs_40_c_115_tl_3" n="N003"/>Les mêmes</cell></row>
-        <row n="6">
-          <cell facs="#facs_40_c_108" n="0" rend="0000"/>
-          <cell facs="#facs_40_c_112" n="1" rend="0000"/>
-          <cell facs="#facs_40_c_116" n="2" rend="0000"/></row></table>
+               <lb facs="#facs_40_c_115_tl_3" n="N003"/>Les mêmes</cell></row></table>
             <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             <table facs="#facs_41_t1">
         <row n="0">
@@ -4685,7 +4662,7 @@
         <row n="5">
           <cell facs="#facs_45_c" n="0" rows="2" rend="0000"/>
           <cell facs="#facs_45_c_133" n="1" rows="2" rend="0000">
-               <lb facs="#facs_45_c_89_tl_1" n="N001"/>Ven.
+               <lb facs="#facs_45_c_89_tl_1" n="N001"/>Ven:
                <lb facs="#facs_45_c_89_tl_2" n="N002"/>le 17.</cell>
           <cell facs="#facs_45_c_207" n="2" rows="2" rend="0000">
                <lb facs="#facs_45_c_93_tl_1" n="N001"/>Rien.</cell></row></table>
@@ -5432,7 +5409,7 @@
                <lb facs="#facs_58_t1c8_tl_1" n="N001"/>Lun:
                <lb facs="#facs_58_t1c8_tl_2" n="N002"/>le 14.</cell>
           <cell facs="#facs_58_t1c9" n="2" rend="0000">
-               <lb facs="#facs_58_t1c9_tl_1" n="N001"/>Au Theater près de la Cour.</cell></row>
+               <lb facs="#facs_58_t1c9_tl_1" n="N001"/>Au Theatre près de la Cour.</cell></row>
         <row n="3">
           <cell facs="#facs_58_t1c10" n="0" rend="0000">
                <lb facs="#facs_58_t1c10_tl_1" n="N001"/><hi style="text-decoration: underline;">143</hi></cell>
@@ -5456,19 +5433,15 @@
                <lb facs="#facs_58_t1c15_tl_2" n="N002"/>Ballets
                <lb facs="#facs_58_t1c15_tl_3" n="N003"/>Les mêmes.</cell></row>
         <row n="5">
-          <cell facs="#facs_58_c_96" n="0" rend="0000">
+          <cell facs="#facs_58_c" n="0" rows="2" rend="0000">
                <lb facs="#facs_58_c_96_tl_1" n="N001"/><hi style="text-decoration: underline;">145</hi></cell>
-          <cell facs="#facs_58_c_100" n="1" rend="0000">
+          <cell facs="#facs_58_c_221" n="1" rows="2" rend="0000">
                <lb facs="#facs_58_c_100_tl_1" n="N001"/>jeudi
                <lb facs="#facs_58_c_100_tl_2" n="N002"/>le 17.</cell>
-          <cell facs="#facs_58_c_104" n="2" rend="0000">
+          <cell facs="#facs_58_c_295" n="2" rows="2" rend="0000">
                <lb facs="#facs_58_c_104_tl_1" n="N001"/>Le Meurtrier supposé de soi même
                <lb facs="#facs_58_c_104_tl_2" n="N002"/>Ballets
-               <lb facs="#facs_58_c_104_tl_3" n="N003"/>Les mêmes</cell></row>
-        <row n="6">
-          <cell facs="#facs_58_c_97" n="0" rend="0000"/>
-          <cell facs="#facs_58_c_101" n="1" rend="0000"/>
-          <cell facs="#facs_58_c_105" n="2" rend="0000"/></row></table>
+               <lb facs="#facs_58_c_104_tl_3" n="N003"/>Les mêmes</cell></row></table>
             <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             <table facs="#facs_59_t1">
         <row n="0">
@@ -6144,7 +6117,7 @@
             <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             <ab facs="#facs_71_tr_2" type="">
                <lb facs="#facs_71_tr_2_tl_1" n="N001"/>Representations qu’on a donné au
-               <lb facs="#facs_71_tr_2_tl_2" n="N002"/>Theatre de Carntner-thor... N.<hi style="vertical-align: superscript;">o</hi> 176
+               <lb facs="#facs_71_tr_2_tl_2" n="N002"/>Theatre de Carntner-thor _ _ _ N.<hi style="vertical-align: superscript;">o</hi> 176
                <lb facs="#facs_71_l_323" n="N003"/>Au Theater près de la Cour _ _ _<hi style="text-decoration: underline;">N.o  51
                <lb facs="#facs_71_l_414" n="N004"/>En tout _ N.o 227
                <lb facs="#facs_71_tr_2_tl_9" n="N005"/></hi>Comedies nouvelles si bien au Thea-

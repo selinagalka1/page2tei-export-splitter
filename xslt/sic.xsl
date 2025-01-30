@@ -31,4 +31,8 @@
             <xsl:apply-templates select="node()"/>
         </xsl:element>
     </xsl:template>
+
+    <!-- Remove 'rows' attribute from 'cell' elements -->
+    <xsl:template match="tei:cell/@rows"/>
+
 </xsl:stylesheet>

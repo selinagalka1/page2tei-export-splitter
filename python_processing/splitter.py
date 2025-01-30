@@ -18,12 +18,16 @@ def parse_xml(file_path):
         return None
 
 def create_tei_header(year_of_volume, publisher_text, pub_place_text, title_series_text, idno_external_text):
-    """Creates the TEI header element with metadata."""
-    # Create the root TEI element with namespaces
-    tei_root = etree.Element('{http://www.tei-c.org/ns/1.0}TEI', nsmap={
-        None: 'http://www.tei-c.org/ns/1.0',  # Default namespace
-        'xml': 'http://www.w3.org/XML/1998/namespace'
-    })
+    """Creates the TEI header element with metadata, including additional namespace."""
+    # Define namespaces, including the additional 'gudie' namespace
+    nsmap = {
+        None: 'http://www.tei-c.org/ns/1.0',  # Default TEI namespace
+        'xml': 'http://www.w3.org/XML/1998/namespace',  # XML namespace
+        'gudie': 'http://www.example.org/ns/gudie'  # Additional Gudie namespace
+    }
+
+    # Create the root TEI element with the updated namespaces
+    tei_root = etree.Element('TEI', nsmap=nsmap)
 
     # Create the TEI header and its child elements with associated metadata
     tei_header = etree.SubElement(tei_root, 'teiHeader')
@@ -86,16 +90,14 @@ def extract_table_elements(root, facs_start_range, namespaces):
         table_elements.extend(root.findall(f".//tei:table[@facs='#facs_{facs_start}_t']", namespaces))
     return table_elements
 
-def save_xml_to_file(output_file_path, xml_string):
-    """Saves the XML string to a file."""
+def save_xml_to_file(output_file_path, tree):
+    """Saves the XML ElementTree to a file with proper declarations."""
     # Check if the output file already exists and print a warning if it does
     if os.path.exists(output_file_path):
         print(f"Warning: {output_file_path} already exists. It will be overwritten.")
 
-    # Open the output file and save the XML string to it
-    with open(output_file_path, 'w', encoding='utf-8') as file:
-        file.write(xml_string)
-        # Print a confirmation message
+    # Write the ElementTree to the file with XML declaration and pretty printing
+    tree.write(output_file_path, encoding='UTF-8', xml_declaration=True, pretty_print=True)
     print(f"The original XML output has been saved to {output_file_path}")
 
 def transform_xml(xslt_path, xml_tree):
@@ -117,10 +119,16 @@ def clean_transformed_xml(transformed_tree):
     transformed_xml_string = transformed_xml_string.replace(b'>\n<lb ', b'>\n<lb ').replace(b'\n<lb', b'<lb')
     return transformed_xml_string
 
+# Function to add processing instruction to ElementTree
+def add_processing_instruction(tree, target, text):
+    """Adds a processing instruction to the ElementTree."""
+    pi = etree.ProcessingInstruction(target, text)
+    tree.getroot().addprevious(pi)
+
 # Main execution block
 if __name__ == "__main__":
     # Define the path to your XML file
-    file_path = 'export_files/file_1763.xml'
+    file_path = 'export_files/file_1759.xml'
 
     # Read and parse the XML file
     root = parse_xml(file_path)
@@ -135,12 +143,12 @@ if __name__ == "__main__":
     }
 
     # Variables
-    year_of_volume = '1763'
+    year_of_volume = '1759'
     pub_place_text = 'Cambridge, MA'
     publisher_text = 'Houghton Library, Harvard University'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
-    idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-3.json'
-    facs_start_range = range(9,12)  # MOST IMPORTANT TO CHANGE
+    idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json'
+    facs_start_range = range(58,62)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
@@ -164,16 +172,14 @@ if __name__ == "__main__":
         pb = etree.SubElement(div, 'pb', facs=f"#facs_{facs_start}", n=str(facs_start),
                               **{f'{{http://www.w3.org/XML/1998/namespace}}id': f"img_00{facs_start}"})
 
-            # Find tables with _t1
+        # Find tables with _t1
         tables_t1 = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t1']", namespaces)
 
-            # Find tables with _t
+        # Find tables with _t
         tables_t = root.findall(f".//tei:table[@facs='#facs_{facs_start}_t']", namespaces)
 
-            # Combine the results
+        # Combine the results
         current_table_elements = tables_t1 + tables_t
-
-
 
         # If table elements are found, append these to the div element
         if current_table_elements:
@@ -185,16 +191,23 @@ if __name__ == "__main__":
             for text_el in text_elements:
                 div.append(text_el)
 
-    # Convert the ElementTree to a string with XML declaration
-    tei_bytes = etree.tostring(tei_root, encoding='utf-8', xml_declaration=True, pretty_print=True)
-    tei_str = tei_bytes.decode('utf-8')
+    # Create an ElementTree from tei_root
+    tei_tree = etree.ElementTree(tei_root)
+
+    # Add the processing instruction for xml-model
+    xml_model_pi = etree.ProcessingInstruction(
+        "xml-model",
+        'href="../schema/gudie_project.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"'
+    )
+    # Insert the processing instruction before the root element
+    tei_tree.getroot().addprevious(xml_model_pi)
 
     # Generate output file name using the variables
     range_str = f"{facs_start_range.start}-{facs_start_range.stop - 1}" if facs_start_range.stop - facs_start_range.start > 1 else f"{facs_start_range.start}"
     output_file_path = f'output/{year_of_volume}_{range_str}_before.xml'
 
     # Save the original output to an XML file
-    save_xml_to_file(output_file_path, tei_str)
+    save_xml_to_file(output_file_path, tei_tree)
 
     # Load the XSLT file for transformation
     xslt_path = 'xslt/sic.xsl'  # Ensure this points to your XSLT file
@@ -213,7 +226,7 @@ if __name__ == "__main__":
     third_xslt_path = 'xslt/reason_ab.xsl'  # Ensure this points to your third XSLT file
 
     # Perform the third XSLT transformation
-    third_transformed_tree = transform_xml(third_xslt_path, transformed_tree)
+    third_transformed_tree = transform_xml(third_xslt_path, second_transformed_tree)
 
     # Generate formatted range string for output file name
     formatted_range_str = f"{facs_start_range.start:03d}-{facs_start_range.stop - 1:03d}" if facs_start_range.stop - facs_start_range.start > 1 else f"{facs_start_range.start:03d}"
