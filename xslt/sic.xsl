@@ -33,6 +33,10 @@
     </xsl:template>
 
     <!-- Remove 'rows' and 'cols' attributes from 'cell' elements if they are "1" -->
+    <xsl:template match="tei:row/@rows[.='1']"/>
+    <xsl:template match="tei:row/@cols[.='1']"/>
+
+    <!-- Remove 'rows' and 'cols' attributes from 'cell' elements if they are "1" -->
     <xsl:template match="tei:cell/@rows[.='1']"/>
     <xsl:template match="tei:cell/@cols[.='1']"/>
 
