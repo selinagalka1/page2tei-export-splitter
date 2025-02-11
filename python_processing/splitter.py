@@ -148,7 +148,7 @@ if __name__ == "__main__":
     publisher_text = 'OENB'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json'
-    facs_start_range = range(188,193)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(188,192)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)

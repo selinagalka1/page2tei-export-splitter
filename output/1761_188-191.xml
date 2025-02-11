@@ -146,32 +146,6 @@
             <zone points="1039,1093 1049,1096 1089,1125 1101,1126 1096,1042 1084,1041 1080,1045 1077,1042 1071,1048 1063,1043 1054,1051 1037,1054" rendition="Line" xml:id="facs_191_tr_1_tl_16"/>
          </zone>
       </surface>
-      <surface lrx="1192" lry="1407" ulx="0" uly="0" xml:id="facs_192">
-         <graphic height="1407px" url="69081401.jpg" width="1192px"/>
-         <graphic height="1407px" url="https://files.transkribus.eu/Get?id=FSWJZEWTUSFILGDYOVHESKHZ&amp;fileType=view" width="1192px"/>
-         <zone points="117,27 1110,27 1142,659 1142,1228 119,1228 117,663" rendition="TextRegion" xml:id="facs_192_r">
-            <zone points="1052,96 1066,94 1072,101 1077,101 1085,107 1091,106 1097,99 1108,98 1105,45 1090,47 1085,42 1076,41 1071,36 1062,45 1049,43" rendition="Line" xml:id="facs_192_tr_1_tl_1"/>
-            <zone points="460,127 568,119 599,129 614,119 678,113 703,124 739,113 738,72 698,66 666,84 621,57 578,60 559,51 540,58 531,48 458,53" rendition="Line" xml:id="facs_192_tr_1_tl_2"/>
-            <zone points="306,201 518,178 610,219 867,212 867,153 778,119 572,139 511,122 471,155 306,125" rendition="Line" xml:id="facs_192_tr_1_tl_3"/>
-            <zone points="114,265 118,163 1055,211 1062,258 588,278 214,291 180,288" rendition="Line" xml:id="facs_192_l"/>
-            <zone points="245,301 593,326 651,302 872,319 1024,299 1024,257 990,250 896,270 759,248 640,280 523,251 435,288 400,261 349,277 245,251" rendition="Line" xml:id="facs_192_tr_1_tl_6"/>
-            <zone points="109,408 198,413 252,368 634,396 697,368 836,399 1107,365 1107,312 1008,301 841,345 759,304 447,344 390,306 204,314 152,278 111,301" rendition="Line" xml:id="facs_192_tr_1_tl_7"/>
-            <zone points="229,427 303,456 497,430 959,441 978,439 979,388 229,378" rendition="Line" xml:id="facs_192_tr_1_tl_8"/>
-            <zone points="116,513 1049,501 1067,457 987,429 875,460 543,431 116,456" rendition="Line" xml:id="facs_192_tr_1_tl_9"/>
-            <zone points="234,553 343,572 417,550 1098,548 1098,509 1021,483 788,513 235,512" rendition="Line" xml:id="facs_192_tr_1_tl_10"/>
-            <zone points="235,603 497,601 529,634 599,600 737,595 804,641 938,598 1060,618 1044,555 235,563" rendition="Line" xml:id="facs_192_tr_1_tl_11"/>
-            <zone points="229,665 265,650 280,665 293,663 308,677 337,657 359,668 404,659 404,613 384,610 363,626 354,620 329,626 286,604 229,627" rendition="Line" xml:id="facs_192_tr_1_tl_12"/>
-            <zone points="112,737 210,765 275,726 876,713 936,755 999,716 1098,716 1098,667 741,631 603,667 255,654 112,681" rendition="Line" xml:id="facs_192_tr_2_tl_1"/>
-            <zone points="239,780 337,808 398,770 873,775 957,814 1015,777 1123,773 1123,733 933,755 829,713 637,750 558,713 239,742" rendition="Line" xml:id="facs_192_tr_2_tl_2"/>
-            <zone points="250,837 713,826 753,844 830,825 885,852 871,773 820,798 774,780 746,803 659,778 596,796 490,775 449,794 383,772 338,806 285,780 250,791" rendition="Line" xml:id="facs_192_tr_2_tl_3"/>
-            <zone points="159,847 190,835 468,829 796,826 1139,850 1139,891 1062,922 215,921 163,895" rendition="Line" xml:id="facs_192_l_130"/>
-            <zone points="250,973 309,946 731,975 953,946 1036,978 1124,943 1124,896 1059,926 890,893 809,928 540,895 250,921" rendition="Line" xml:id="facs_192_tr_2_tl_6"/>
-            <zone points="173,979 179,978 206,975 319,968 604,955 1116,988 1115,1023 968,1040 219,1044 175,1029" rendition="Line" xml:id="facs_192_l_206"/>
-            <zone points="244,1090 534,1086 613,1103 636,1085 749,1123 820,1097 851,1111 852,1046 727,1033 645,1052 621,1036 522,1062 495,1046 400,1054 332,1025 244,1041" rendition="Line" xml:id="facs_192_tr_2_tl_9"/>
-            <zone points="134,1178 240,1209 323,1162 1056,1167 1090,1158 1091,1110 1018,1092 958,1129 618,1100 462,1147 417,1107 328,1097 134,1128" rendition="Line" xml:id="facs_192_tr_2_tl_10"/>
-            <zone points="265,1239 304,1218 328,1234 432,1215 480,1239 534,1218 558,1233 652,1221 819,1256 819,1164 798,1158 649,1184 504,1158 455,1189 411,1165 365,1185 265,1165" rendition="Line" xml:id="facs_192_tr_2_tl_11"/>
-         </zone>
-      </surface>
       </facsimile>
   <text>
     <body>
@@ -281,28 +255,6 @@
                <lb facs="#facs_191_tr_1_tl_2" n="N016"/>8
                <lb facs="#facs_191_tr_1_tl_4" n="N017"/>11
                <lb facs="#facs_191_tr_1_tl_16" n="N018"/>4
-            </ab>
-            <pb facs="#facs_192" n="192" xml:id="img_00192"/><ab facs="#facs_192_r">
-               <lb facs="#facs_192_tr_1_tl_1" n="N001"/>92
-               <lb facs="#facs_192_tr_1_tl_2" n="N002"/>Deboute
-               <lb facs="#facs_192_tr_1_tl_3" n="N003"/>pour la Comedie
-               <lb facs="#facs_192_l" n="N004"/>Le S.<hi style="vertical-align: superscript;">r</hi> Soulé a debuté apres son Retour
-               <lb facs="#facs_192_tr_1_tl_6" n="N005"/>dans la Nouveauté le 25 Mars.
-               <lb facs="#facs_192_tr_1_tl_7" n="N006"/>La Dam.<hi style="vertical-align: superscript;">le</hi> Sanlaville a debuté par le Rôle
-               <lb facs="#facs_192_tr_1_tl_8" n="N007"/>de Mad:<hi style="vertical-align: superscript;">le</hi> Turcaret le 31 Mars.
-               <lb facs="#facs_192_tr_1_tl_9" n="N008"/>Le S.<hi style="vertical-align: superscript;">r</hi> Augé a debuté par le role dans
-               <lb facs="#facs_192_tr_1_tl_10" n="N009"/>l'Andrienne, e par celui de Frontin
-               <lb facs="#facs_192_tr_1_tl_11" n="N010"/>dans l’Amant auteur et Valet le 1.<hi style="vertical-align: superscript;">r
-               <lb facs="#facs_192_tr_1_tl_12" n="N011"/></hi>Avril.
-               <lb facs="#facs_192_tr_2_tl_1" n="N012"/>La D:<hi style="vertical-align: superscript;">lle</hi> Guerin a debuté dans l’Opera
-               <lb facs="#facs_192_tr_2_tl_2" n="N013"/>Comique le Devin de Village par le
-               <lb facs="#facs_192_tr_2_tl_3" n="N014"/>Role de Collette le 2 Avril.
-               <lb facs="#facs_192_l_130" n="N015"/>La Dam:<hi style="vertical-align: superscript;">lle</hi> Soulé a debuté dans Misantrope
-               <lb facs="#facs_192_tr_2_tl_6" n="N016"/>par le Role de Climene le 16 Avril.
-               <lb facs="#facs_192_l_206" n="N017"/>La D:<hi style="vertical-align: superscript;">lle</hi> Pitrôt a debuté après son Retour
-               <lb facs="#facs_192_tr_2_tl_9" n="N018"/>de Petersburg le 26 Sept
-               <lb facs="#facs_192_tr_2_tl_10" n="N019"/>La D.<hi style="vertical-align: superscript;">lle</hi> Pitrôt la Fille a debuté le 8.
-               <lb facs="#facs_192_tr_2_tl_11" n="N020"/>Octobre dans Melanide.
             </ab>
             </div>
     </body>
