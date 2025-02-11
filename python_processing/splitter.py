@@ -128,7 +128,7 @@ def add_processing_instruction(tree, target, text):
 # Main execution block
 if __name__ == "__main__":
     # Define the path to your XML file
-    file_path = 'export_files/file_1759.xml'
+    file_path = 'export_files/file_1761_wien.xml'
 
     # Read and parse the XML file
     root = parse_xml(file_path)
@@ -143,12 +143,12 @@ if __name__ == "__main__":
     }
 
     # Variables
-    year_of_volume = '1759'
-    pub_place_text = 'Cambridge, MA'
-    publisher_text = 'Houghton Library, Harvard University'
+    year_of_volume = '1761'
+    pub_place_text = 'Wien'
+    publisher_text = 'OENB'
     title_series_text = 'Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)'
     idno_external_text = 'https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json'
-    facs_start_range = range(58,62)  # MOST IMPORTANT TO CHANGE
+    facs_start_range = range(192,194)  # MOST IMPORTANT TO CHANGE
 
     # Extract surface and table elements
     surface_elements = extract_surface_elements(root, facs_start_range, namespaces)
