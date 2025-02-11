@@ -24,7 +24,7 @@
                 <!-- Add the reason attribute dynamically -->
                 <xsl:attribute name="reason">
                     <xsl:choose>
-                        <!-- Even page and column 1 -->
+                        <!-- Even page and column 0 -->
                         <xsl:when test="number(substring-before(substring-after(ancestor::tei:table/@facs, '#facs_'), '_t')) mod 2 = 0 and ancestor::tei:cell[@n='0']">
                             <xsl:value-of select="'cut'"/>
                         </xsl:when>
@@ -32,7 +32,7 @@
                         <xsl:when test="number(substring-before(substring-after(ancestor::tei:table/@facs, '#facs_'), '_t')) mod 2 = 0 and (ancestor::tei:cell[@n='2'] or ancestor::tei:cell[@n='1'])">
                             <xsl:value-of select="'binding'"/>
                         </xsl:when>
-                        <!-- Odd page and column 1 -->
+                        <!-- Odd page and column 0 -->
                         <xsl:when test="number(substring-before(substring-after(ancestor::tei:table/@facs, '#facs_'), '_t')) mod 2 = 1 and ancestor::tei:cell[@n='0']">
                             <xsl:value-of select="'binding'"/>
                         </xsl:when>
