@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/gudie_project.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:gudie="http://www.example.org/ns/gudie">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1763</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Library</publisher>
+        <pubPlace>Houghton</pubPlace>
+        <date>1763</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1763</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="1956" lry="2400" ulx="0" uly="0" xml:id="facs_14">
+         <graphic height="2400px" url="71105132_14_00014.xml" width="1956px"/>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div>
+        <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+      </div>
+    </body>
+  </text>
+</TEI>
