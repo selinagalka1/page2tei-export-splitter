@@ -16,6 +16,7 @@
       <surface lrx="2046" lry="2400" ulx="0" uly="0" xml:id="facs_1">
          <graphic height="2400px" url="71104147_1_00001.xml" width="2046px"/>
          <zone points="800,929 1352,929 1352,1508 800,1508" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="947,1043 994,1042 993,1012 946,1013" rendition="Line" xml:id="facs_1_l"/>
          </zone>
       </surface>
       <surface lrx="2000" lry="2400" ulx="0" uly="0" xml:id="facs_2">
@@ -2654,6 +2655,7 @@
       <surface lrx="2049" lry="2400" ulx="0" uly="0" xml:id="facs_92">
          <graphic height="2400px" url="71104239_92_00092.xml" width="2049px"/>
          <zone points="704,911 1282,906 1282,1501 704,1501" rendition="TextRegion" xml:id="facs_92_r">
+            <zone points="853,1054 886,1054 886,1024 853,1024" rendition="Line" xml:id="facs_92_l"/>
          </zone>
       </surface>
    </facsimile>
@@ -2661,6 +2663,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r" type="">
                <lb facs="#facs_2_r_tl_26" n="N001"/>HARVARD COLLEGE LIBRARY
@@ -6452,7 +6457,7 @@
                <lb facs="#facs_85_tr_1_tl_1" n="N001"/>un Final des plus gais, et
                <lb facs="#facs_85_tr_1_tl_2" n="N002"/>brillants.
                <lb facs="#facs_85_tr_1_tl_3" n="N003"/><hi style="text-decoration: underline;">Mars
-               <lb facs="#facs_85_tr_1_tl_4" n="N004"/></hi>Le 26. Le S.<hi style="vertical-align: superscript;">r</hi> Vigan<unclear reason="V.\u0020Was\u0020hat\u0020es\u0020mit\u0020diesem\u0020Apostrophe\u0020auf\u0020sich?">ó </unclear>a debuté avec les
+               <lb facs="#facs_85_tr_1_tl_4" n="N004"/></hi>Le 26. Le S.<hi style="vertical-align: superscript;">r</hi> Viganó a debuté avec les
                <lb facs="#facs_85_tr_1_tl_5" n="N005"/>deux Ballets nouveaux
                <lb facs="#facs_85_tr_1_tl_6" n="N006"/><hi style="text-decoration: underline;">Mai.
                <lb facs="#facs_85_l" n="N007"/></hi>Le 2. La D:<hi style="vertical-align: superscript;">lle</hi> Fabrice a debuté au Theatre
@@ -6471,6 +6476,9 @@
                <lb facs="#facs_91_l_1" n="N003"/>DRS: pt *69M-111 (3)
             </ab>
             <pb facs="#facs_92" n="92" xml:id="img_0092"/>
+            <ab facs="#facs_92_r" type="">
+               <lb facs="#facs_92_l" n="N001"/>
+            </ab>
          </div>
       </body>
    </text>

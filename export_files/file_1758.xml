@@ -15,9 +15,31 @@
    <facsimile>
       <surface lrx="2082" lry="2400" ulx="0" uly="0" xml:id="facs_1">
          <graphic height="2400px" url="71101905_1_00001.xml" width="2082px"/>
+         <zone points="850,915 1402,915 1402,1505 850,1505" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="997,1125 1180,1108 1177,1079 994,1096" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
       </surface>
       <surface lrx="2009" lry="2400" ulx="0" uly="0" xml:id="facs_2">
-         <graphic height="2400px" url="71101692_2_00002.xml" width="2009px"/>
+         <graphic height="2400px" url="71101692.jpg" width="2009px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=CXZEPEMHUTKUBVWYWLSIIYNC&amp;fileType=view" width="2009px"/>
+         <zone points="512,816 1634,816 1634,1731 512,1731" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="797,1104 921,1122 1044,1089 1169,1107 1311,1084 1311,1043 1217,1056 1167,1042 797,1052" rendition="Line" xml:id="facs_2_r_tl_10"/>
+            <zone points="968,1169 1007,1164 1013,1171 1037,1163 1073,1182 1108,1159 1159,1162 1159,1130 1110,1141 1074,1127 1045,1134 1030,1127 989,1133 968,1126" rendition="Line" xml:id="facs_2_r_tl_11"/>
+            <zone points="905,1219 959,1226 981,1214 1071,1216 1087,1206 1144,1222 1165,1209 1209,1208 1209,1168 1146,1179 1114,1172 1093,1184 1012,1172 978,1180 958,1164 905,1179" rendition="Line" xml:id="facs_2_r_tl_12"/>
+            <zone points="899,1252 1002,1267 1061,1254 1132,1264 1221,1257 1213,1220 1144,1217 1073,1233 1037,1221 990,1232 899,1222" rendition="Line" xml:id="facs_2_r_tl_13"/>
+            <zone points="779,1307 1332,1304 1318,1260 863,1277 837,1259 780,1278" rendition="Line" xml:id="facs_2_r_tl_14"/>
+            <zone points="789,1350 1335,1335 1335,1305 789,1318" rendition="Line" xml:id="facs_2_r_tl_15"/>
+            <zone points="783,1379 816,1394 964,1379 991,1398 1127,1378 1335,1385 1335,1351 783,1358" rendition="Line" xml:id="facs_2_r_tl_16"/>
+            <zone points="789,1425 1329,1423 1329,1387 789,1400" rendition="Line" xml:id="facs_2_r_tl_17"/>
+            <zone points="783,1463 928,1476 998,1460 1085,1485 1130,1465 1298,1468 1327,1458 1328,1427 783,1437" rendition="Line" xml:id="facs_2_r_tl_19"/>
+         </zone>
+         <zone points="124,2094 445,2094 445,2341 124,2341" rendition="TextRegion" xml:id="facs_2_r_2">
+            <zone points="175,2153 383,2155 383,2125 175,2123" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="183,2184 373,2187 374,2157 184,2154" rendition="Line" xml:id="facs_2_l_8"/>
+            <zone points="189,2207 368,2208 368,2178 189,2177" rendition="Line" xml:id="facs_2_l_12"/>
+            <zone points="169,2249 380,2247 380,2217 168,2219" rendition="Line" xml:id="facs_2_l_16"/>
+            <zone points="158,2293 396,2292 396,2262 158,2263" rendition="Line" xml:id="facs_2_l_20"/>
+         </zone>
       </surface>
       <surface lrx="1927" lry="2400" ulx="0" uly="0" xml:id="facs_3">
          <graphic height="2400px" url="71101906_3_00003.xml" width="1927px"/>
@@ -5551,16 +5573,45 @@
       </surface>
       <surface lrx="2030" lry="2400" ulx="0" uly="0" xml:id="facs_163">
          <graphic height="2400px" url="71102116_163_00163.xml" width="2030px"/>
+         <zone points="1127,133 1891,133 1891,431 1127,431" rendition="TextRegion" xml:id="facs_163_r">
+            <zone points="1353,241 1582,243 1583,213 1354,211" rendition="Line" xml:id="facs_163_l"/>
+            <zone points="1205,302 1785,299 1784,269 1205,272" rendition="Line" xml:id="facs_163_l_7"/>
+            <zone points="1204,348 1407,326 1575,327 1574,357 1349,375 1205,378" rendition="Line" xml:id="facs_163_l_1"/>
+         </zone>
       </surface>
       <surface lrx="2064" lry="2400" ulx="0" uly="0" xml:id="facs_164">
          <graphic height="2400px" url="71102101_164_00164.xml" width="2064px"/>
+         <zone points="693,917 1243,917 1243,1505 693,1505" rendition="TextRegion" xml:id="facs_164_r_2">
+            <zone points="767,976 800,983 806,954 773,947" rendition="Line" xml:id="facs_164_l"/>
+         </zone>
       </surface>
    </facsimile>
    <text>
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r" type="">
+               <lb facs="#facs_2_r_tl_10" n="N001"/>HARVARD COLLEGE LIBRARY
+               <lb facs="#facs_2_r_tl_11" n="N002"/>THE GIFT OF
+               <lb facs="#facs_2_r_tl_12" n="N003"/>FRANK E. CHASE
+               <lb facs="#facs_2_r_tl_13" n="N004"/>OF THE CLASS OF 1876
+               <lb facs="#facs_2_r_tl_14" n="N005"/>BOUGHT FROM HIS BEQUEST RECEIVED
+               <lb facs="#facs_2_r_tl_15" n="N006"/>IN 1922, THE INCOME OF WHICH "IS TO BE
+               <lb facs="#facs_2_r_tl_16" n="N007"/>DEVOTED PRIMARILY TO THE PURCHASE
+               <lb facs="#facs_2_r_tl_17" n="N008"/>OF BOOKS RELATING TO THE THEATRE,
+               <lb facs="#facs_2_r_tl_19" n="N009"/>THE DRMA, OR RELATED SUBJECTS"
+            </ab>
+            <ab facs="#facs_2_r_2" type="">
+               <lb facs="#facs_2_l" n="N001"/>Do Not Photograph
+               <lb facs="#facs_2_l_8" n="N002"/>Microfilm on File
+               <lb facs="#facs_2_l_12" n="N003"/><hi style="text-decoration: line-through;">Photocopy on File
+               <lb facs="#facs_2_l_16" n="N004"/></hi>No. TS M 105
+               <lb facs="#facs_2_l_20" n="N005"/>Order No. 
+            </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
@@ -13823,7 +13874,15 @@
             <pb facs="#facs_161" n="161" xml:id="img_0161"/>
             <pb facs="#facs_162" n="162" xml:id="img_0162"/>
             <pb facs="#facs_163" n="163" xml:id="img_0163"/>
+            <ab facs="#facs_163_r" type="">
+               <lb facs="#facs_163_l" n="N001"/>MS Thr 248
+               <lb facs="#facs_163_l_7" n="N002"/>THE HOUGHTON LIBRARY
+               <lb facs="#facs_163_l_1" n="N003"/>DRS: pt *69M-111 (1)
+            </ab>
             <pb facs="#facs_164" n="164" xml:id="img_0164"/>
+            <ab facs="#facs_164_r_2" type="">
+               <lb facs="#facs_164_l" n="N001"/>
+            </ab>
          </div>
       </body>
    </text>

@@ -16,6 +16,7 @@
       <surface lrx="2048" lry="2400" ulx="0" uly="0" xml:id="facs_1">
          <graphic height="2400px" url="71103866_1_00001.xml" width="2048px"/>
          <zone points="762,905 1334,905 1334,1483 762,1483" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="888,1003 922,1003 922,973 888,973" rendition="Line" xml:id="facs_1_l"/>
          </zone>
       </surface>
       <surface lrx="2025" lry="2400" ulx="0" uly="0" xml:id="facs_2">
@@ -2198,6 +2199,7 @@
       <surface lrx="2039" lry="2400" ulx="0" uly="0" xml:id="facs_94">
          <graphic height="2400px" url="71103678_94_00094.xml" width="2039px"/>
          <zone points="692,917 1240,920 1240,1516 692,1516" rendition="TextRegion" xml:id="facs_94_r">
+            <zone points="802,1025 849,1025 849,995 802,995" rendition="Line" xml:id="facs_94_l"/>
          </zone>
       </surface>
    </facsimile>
@@ -2205,6 +2207,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r" type="">
                <lb facs="#facs_2_r_tl_13" n="N001"/>HARVARD COLLEGE LIBRARY
@@ -5372,6 +5377,9 @@
                <lb facs="#facs_93_l_1" n="N003"/>DRS: pt *69M-111 (2)
             </ab>
             <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <ab facs="#facs_94_r" type="">
+               <lb facs="#facs_94_l" n="N001"/>
+            </ab>
          </div>
       </body>
    </text>
