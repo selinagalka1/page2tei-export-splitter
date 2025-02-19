@@ -15,9 +15,31 @@
    <facsimile>
       <surface lrx="1986" lry="2400" ulx="0" uly="0" xml:id="facs_1">
          <graphic height="2400px" url="71105125_1_00001.xml" width="1986px"/>
+         <zone points="751,897 1337,897 1337,1460 751,1460" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="915,1024 951,1024 951,994 915,994" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
       </surface>
       <surface lrx="1955" lry="2400" ulx="0" uly="0" xml:id="facs_2">
-         <graphic height="2400px" url="71104408_2_00002.xml" width="1955px"/>
+         <graphic height="2400px" url="71104408.jpg" width="1955px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=GNHSEGPMXNFDJDPAXQMOEEGD&amp;fileType=view" width="1955px"/>
+         <zone points="473,778 1579,778 1579,1669 473,1669" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="769,1048 881,1074 976,1050 1205,1053 1268,1046 1269,999 1119,1020 1080,994 955,1027 769,1011" rendition="Line" xml:id="facs_2_r_tl_25"/>
+            <zone points="933,1130 949,1136 957,1128 992,1129 1005,1120 1037,1127 1082,1119 1117,1122 1118,1084 1064,1093 1030,1087 1023,1093 998,1076 986,1081 975,1073 958,1087 934,1091" rendition="Line" xml:id="facs_2_r_tl_27"/>
+            <zone points="876,1174 974,1179 1010,1165 1028,1177 1060,1165 1100,1181 1123,1167 1174,1170 1174,1126 1154,1121 1059,1141 1043,1132 877,1135" rendition="Line" xml:id="facs_2_r_tl_28"/>
+            <zone points="869,1217 912,1210 971,1230 1064,1210 1188,1216 1189,1176 1162,1170 1118,1183 1053,1176 1023,1189 997,1180 870,1187" rendition="Line" xml:id="facs_2_r_tl_29"/>
+            <zone points="751,1257 803,1273 1295,1251 1295,1220 751,1222" rendition="Line" xml:id="facs_2_r_tl_30"/>
+            <zone points="754,1311 1300,1293 1300,1258 1222,1251 1133,1270 755,1266" rendition="Line" xml:id="facs_2_r_tl_32"/>
+            <zone points="755,1341 1271,1343 1300,1338 1301,1297 755,1309" rendition="Line" xml:id="facs_2_r_tl_33"/>
+            <zone points="759,1386 1215,1381 1296,1374 1297,1341 760,1343" rendition="Line" xml:id="facs_2_r_tl_34"/>
+            <zone points="757,1424 1286,1420 1287,1385 757,1388" rendition="Line" xml:id="facs_2_r_tl_37"/>
+         </zone>
+         <zone points="106,2086 423,2086 423,2334 106,2334" rendition="TextRegion" xml:id="facs_2_r_2">
+            <zone points="150,2142 353,2148 354,2118 150,2112" rendition="Line" xml:id="facs_2_l_8"/>
+            <zone points="159,2178 351,2182 351,2152 160,2148" rendition="Line" xml:id="facs_2_l_12"/>
+            <zone points="163,2203 357,2201 356,2171 162,2173" rendition="Line" xml:id="facs_2_l_16"/>
+            <zone points="136,2238 375,2242 375,2212 137,2208" rendition="Line" xml:id="facs_2_l_20"/>
+            <zone points="137,2283 367,2284 367,2254 137,2253" rendition="Line" xml:id="facs_2_l_24"/>
+         </zone>
       </surface>
       <surface lrx="1913" lry="2400" ulx="0" uly="0" xml:id="facs_3">
          <graphic height="2400px" url="71105126_3_00003.xml" width="1913px"/>
@@ -1452,20 +1474,28 @@
       </surface>
       <surface lrx="1968" lry="2400" ulx="0" uly="0" xml:id="facs_52">
          <graphic height="2400px" url="71105169.jpg" width="1968px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=EIPTJXVIATMMJZCCNSVGXJDQ&amp;fileType=view" width="1968px"/><zone points="44,55 1900,31 1900,2364 65,2364" rendition="Table" xml:id="facs_52_t1">
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=EIPTJXVIATMMJZCCNSVGXJDQ&amp;amp;fileType=view" width="1968px"/><zone points="44,55 1900,31 1900,2364 65,2364" rendition="Table" xml:id="facs_52_t1">
             <zone points="805,366 846,381 939,354 981,372 1058,363 1072,379 1094,379 1098,232 1083,228 1045,255 1004,235 929,244 891,234 860,257 846,244 808,251" rendition="TableCell" xml:id="facs_52_t1c6_tl_1"/>
             <zone points="384,481 1232,469 1297,508 1371,469 1757,465 1757,383 1658,422 1477,357 1124,397 878,366 713,415 384,381" rendition="TableCell" xml:id="facs_52_t1c6_tl_2"/>
             <zone points="393,596 1820,613 1820,521 1638,528 1566,483 1275,530 1126,474 826,530 767,498 693,541 575,510 516,546 460,494 393,523" rendition="TableCell" xml:id="facs_52_t1c6_tl_3"/>
             <zone points="399,717 717,699 947,740 1142,701 1356,769 1509,699 1839,715 1839,645 1660,587 1477,647 1257,584 1130,623 934,596 401,641" rendition="TableCell" xml:id="facs_52_t1c6_tl_4"/>
             <zone points="379,945 1805,929 1805,850 1638,868 1473,819 1392,866 823,828 634,873 379,835" rendition="TableCell" xml:id="facs_52_t1c6_tl_5"/>
-            <zone points="401,986 501,970 595,963 1651,943 1759,995 1760,1071 1685,1081 428,1076 402,1067" rendition="TableCell" xml:id="facs_52_l"/>
-            <zone points="386,1099 530,1062 1105,1038 1753,1126 1757,1171 1624,1193 733,1198 386,1160" rendition="TableCell" xml:id="facs_52_l_2016"/>
-            <zone points="386,1286 388,1211 462,1177 1660,1157 1759,1189 1759,1272 1721,1295 1674,1306 566,1324" rendition="TableCell" xml:id="facs_52_l_2108"/>
-            <zone points="600,1322 681,1281 1106,1279 1751,1284 1771,1286 1773,1387 1746,1392 1092,1415 862,1417 602,1365" rendition="TableCell" xml:id="facs_52_l_2174"/>
-            <zone points="586,1417 647,1389 1726,1383 1766,1390 1773,1507 1760,1509 1741,1511 1324,1536 1094,1543 941,1538 736,1527 586,1496" rendition="TableCell" xml:id="facs_52_l_2253"/>
-            <zone points="577,1514 887,1494 1027,1489 1744,1505 1760,1507 1776,1617 1744,1624 993,1656 622,1631 577,1617" rendition="TableCell" xml:id="facs_52_l_2338"/>
-            <zone points="397,1611 1760,1615 1773,1617 1776,1757 990,1762 399,1726" rendition="TableCell" xml:id="facs_52_l_2408"/>
-            <zone points="383,1843 384,1726 1724,1733 1768,1755 1773,1830 792,1843" rendition="TableCell" xml:id="facs_52_l_2494"/>
+            <zone points="1579,1081 428,1076 402,1067 401,986 501,970 595,963 1579,944" rendition="TableCell" xml:id="facs_52_l_2"/>
+            <zone points="1579,1193 733,1198 386,1160 386,1099 530,1062 1105,1038 1579,1102" rendition="TableCell" xml:id="facs_52_l_4"/>
+            <zone points="1579,1308 566,1324 386,1286 388,1211 462,1177 1579,1158" rendition="TableCell" xml:id="facs_52_l_6"/>
+            <zone points="1579,1398 1092,1415 862,1417 602,1365 600,1322 681,1281 1106,1279 1579,1283" rendition="TableCell" xml:id="facs_52_l_8"/>
+            <zone points="1579,1521 1324,1536 1094,1543 941,1538 736,1527 586,1496 586,1417 647,1389 1579,1384" rendition="TableCell" xml:id="facs_52_l_10"/>
+            <zone points="1579,1631 993,1656 622,1631 577,1617 577,1514 887,1494 1027,1489 1579,1501" rendition="TableCell" xml:id="facs_52_l_12"/>
+            <zone points="1579,1758 990,1762 399,1726 397,1611 1579,1614" rendition="TableCell" xml:id="facs_52_l_14"/>
+            <zone points="1579,1833 792,1843 383,1843 384,1726 1579,1732" rendition="TableCell" xml:id="facs_52_l_16"/>
+            <zone points="1587,1044 1707,1045 1707,1015 1587,1014" rendition="TableCell" xml:id="facs_52_l_2616"/>
+            <zone points="1635,1151 1735,1151 1735,1121 1635,1121" rendition="TableCell" xml:id="facs_52_l_2626"/>
+            <zone points="1594,1271 1726,1271 1726,1241 1594,1241" rendition="TableCell" xml:id="facs_52_l_2636"/>
+            <zone points="1669,1366 1709,1365 1708,1335 1668,1336" rendition="TableCell" xml:id="facs_52_l_2646"/>
+            <zone points="1666,1490 1718,1485 1715,1455 1663,1460" rendition="TableCell" xml:id="facs_52_l_2656"/>
+            <zone points="1694,1585 1750,1588 1751,1558 1695,1555" rendition="TableCell" xml:id="facs_52_l_2666"/>
+            <zone points="1684,1714 1747,1709 1745,1679 1682,1684" rendition="TableCell" xml:id="facs_52_l_2676"/>
+            <zone points="1687,1810 1724,1810 1724,1780 1687,1780" rendition="TableCell" xml:id="facs_52_l_2686"/>
             <zone points="379,1958 1376,1940 1358,1816 1063,1856 666,1836 544,1875 453,1825 379,1843" rendition="TableCell" xml:id="facs_52_t1c6_tl_25"/>
             <zone points="359,2073 1750,2037 1723,1926 1444,1972 1108,1969 1063,1931 783,1935 724,1979 361,1958" rendition="TableCell" xml:id="facs_52_t1c6_tl_26"/>
             <zone points="454,2163 532,2143 614,2190 701,2145 927,2148 970,2191 1024,2145 1182,2168 1232,2139 1232,2066 1157,2051 1074,2082 927,2042 456,2080" rendition="TableCell" xml:id="facs_52_t1c6_tl_27"/>
@@ -1473,7 +1503,7 @@
       </surface>
       <surface lrx="1968" lry="2400" ulx="0" uly="0" xml:id="facs_53">
          <graphic height="2400px" url="71105159.jpg" width="1968px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=AUIOMKCXARLQBQAJLNYBGNAQ&amp;amp;fileType=view" width="1968px"/><zone points="69,33 1920,36 1920,2372 83,2372" rendition="Table" xml:id="facs_53_t1">
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=AUIOMKCXARLQBQAJLNYBGNAQ&amp;fileType=view" width="1968px"/><zone points="69,33 1920,36 1920,2372 83,2372" rendition="Table" xml:id="facs_53_t1">
             <zone points="218,457 269,459 300,446 316,446 326,455 362,448 390,452 397,371 362,357 344,362 324,355 313,364 296,364 271,344 245,357 225,355" rendition="TableCell" xml:id="facs_53_t1c5_tl_1"/>
             <zone points="277,560 347,557 346,525 276,528" rendition="TableCell" xml:id="facs_53_l"/>
             <zone points="216,1379 241,1390 262,1379 293,1390 346,1375 360,1384 390,1383 399,1240 380,1233 355,1247 340,1238 271,1276 236,1306 219,1304" rendition="TableCell" xml:id="facs_53_t1c5_tl_2"/>
@@ -1769,23 +1799,64 @@
          <graphic height="2400px" url="71104747_70_00070.xml" width="1931px"/>
       </surface>
       <surface lrx="1931" lry="2400" ulx="0" uly="0" xml:id="facs_71">
-         <graphic height="2400px" url="71104423_71_00071.xml" width="1931px"/>
+         <graphic height="2400px" url="71104423.jpg" width="1931px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=MQCHYRTVXEZYUGZMNJLFQCGC&amp;fileType=view" width="1931px"/>
+         <zone points="103,41 1897,41 1897,2363 103,2363" rendition="TextRegion" xml:id="facs_71_r">
+            <zone points="827,167 828,121 942,91 1537,59 1751,80 1806,93 1803,164 1528,181 1314,188 1111,192 945,187 845,177" rendition="Line" xml:id="facs_71_l"/>
+            <zone points="860,229 1146,197 1292,187 1318,187 1316,298 1289,303 1215,308 927,309 863,302" rendition="Line" xml:id="facs_71_l_1"/>
+            <zone points="1173,390 1348,392 1348,362 1174,360" rendition="Line" xml:id="facs_71_l_178"/>
+            <zone points="1348,573 1495,609 1589,558 1715,578 1815,540 1868,548 1869,482 1844,473 1751,477 1684,451 1581,473 1428,448 1350,463" rendition="Line" xml:id="facs_71_r_tl_5"/>
+            <zone points="816,689 817,591 974,586 1364,575 1668,615 1669,681 1585,699 979,706 916,703" rendition="Line" xml:id="facs_71_l_2"/>
+            <zone points="1267,844 1277,841 1293,850 1303,845 1320,848 1327,844 1343,853 1353,735 1331,734 1290,758 1275,756" rendition="Line" xml:id="facs_71_r_tl_8"/>
+            <zone points="964,1000 966,967 989,960 1263,891 1404,870 1722,909 1720,988 1383,1007 990,1011 981,1010" rendition="Line" xml:id="facs_71_l_3"/>
+            <zone points="818,1119 1101,1136 1176,1096 1419,1102 1473,1129 1599,1107 1602,1022 1428,1033 1352,1012 1266,1053 1204,1020 1112,1025 958,1082 821,1059" rendition="Line" xml:id="facs_71_r_tl_11"/>
+            <zone points="1139,1203 1230,1206 1287,1234 1363,1212 1395,1241 1460,1209 1653,1195 1704,1214 1705,1148 1631,1121 1560,1151 1325,1109 1140,1142" rendition="Line" xml:id="facs_71_r_tl_12"/>
+         </zone>
       </surface>
       <surface lrx="1934" lry="2400" ulx="0" uly="0" xml:id="facs_72">
          <graphic height="2400px" url="71104748_72_00072.xml" width="1934px"/>
       </surface>
       <surface lrx="1978" lry="2400" ulx="0" uly="0" xml:id="facs_73">
          <graphic height="2400px" url="71104424_73_00073.xml" width="1978px"/>
+         <zone points="1127,122 1861,122 1861,420 1127,420" rendition="TextRegion" xml:id="facs_73_r">
+            <zone points="1350,219 1619,214 1618,184 1349,189" rendition="Line" xml:id="facs_73_l"/>
+            <zone points="1204,276 1780,277 1780,247 1204,246" rendition="Line" xml:id="facs_73_l_7"/>
+            <zone points="1431,326 1656,326 1656,296 1431,296" rendition="Line" xml:id="facs_73_l_11"/>
+         </zone>
       </surface>
       <surface lrx="1992" lry="2400" ulx="0" uly="0" xml:id="facs_74">
          <graphic height="2400px" url="71104749_74_00074.xml" width="1992px"/>
+         <zone points="689,908 1243,902 1251,1479 689,1477" rendition="TextRegion" xml:id="facs_74_r">
+            <zone points="841,1026 868,1026 868,996 841,996" rendition="Line" xml:id="facs_74_l"/>
+         </zone>
       </surface>
    </facsimile>
    <text>
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r" type="">
+               <lb facs="#facs_2_r_tl_25" n="N001"/>HARVARD COLLEGE LIBRARY
+               <lb facs="#facs_2_r_tl_27" n="N002"/>THE GIFT OF
+               <lb facs="#facs_2_r_tl_28" n="N003"/>FRANK E. CHASE
+               <lb facs="#facs_2_r_tl_29" n="N004"/>OF THE CLASS OF 1876
+               <lb facs="#facs_2_r_tl_30" n="N005"/>BOUGHT FROM HIS BEQUEST RECEIVED
+               <lb facs="#facs_2_r_tl_32" n="N006"/>IN 1922, THE INCOME OF WHICH "IS TO BE
+               <lb facs="#facs_2_r_tl_33" n="N007"/>DEVOTED PRIMARILY TO THE PURCHASE
+               <lb facs="#facs_2_r_tl_34" n="N008"/>OF BOOKS RELATING TO THE THEATRE,
+               <lb facs="#facs_2_r_tl_37" n="N009"/>THE DRAMA, OR RELATED SUBJECTS"
+            </ab>
+            <ab facs="#facs_2_r_2" type="">
+               <lb facs="#facs_2_l_8" n="N001"/>Do Not Photograph
+               <lb facs="#facs_2_l_12" n="N002"/>Microfilm on File
+               <lb facs="#facs_2_l_16" n="N003"/>Photocopy on FIle
+               <lb facs="#facs_2_l_20" n="N004"/>No. TS M 105
+               <lb facs="#facs_2_l_24" n="N005"/>Order No.
+            </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
@@ -2684,7 +2755,7 @@
                <lb facs="#facs_29_t1c11_tl_2" n="N002"/>15</cell>
           <cell facs="#facs_29_t1c12" n="2" rend="0000">
                <lb facs="#facs_29_t1c12_tl_1" n="N001"/>Il filosofo di Campagna
-               <lb facs="#facs_29_t1c12_tl_2" n="N002"/>opera buffa
+               <lb facs="#facs_29_t1c12_tl_2" n="N002"/>Opera buffa
                <lb facs="#facs_29_t1c12_tl_3" n="N003"/><hi style="text-decoration: underline;">Ballets
                <lb facs="#facs_29_t1c12_tl_4" n="N004"/></hi>les Memes</cell></row>
         <row n="4">
@@ -2844,7 +2915,7 @@
                <lb facs="#facs_32_t1c9_tl_3" n="N003"/><hi style="text-decoration: underline;">le Soir
                <lb facs="#facs_32_t1c9_tl_4" n="N004"/></hi>repetition de l’opera l’Iphigenie en
                <lb facs="#facs_32_l_358" n="N005"/>Tauride avec 4 violons, 1 Basse 2 violet<digitization_error>s</digitization_error>
-               <lb facs="#facs_32_l_707" n="N006"/>2 Hautbois, une flute, deux corns de
+               <lb facs="#facs_32_l_707" n="N006"/>2 Hautbois, une Flute, deux corns de
                <lb facs="#facs_32_t1c9_tl_9" n="N007"/>chasses,
                <lb facs="#facs_32_t1c9_tl_10" n="N008"/>2 voitures</cell></row>
         <row n="3">
@@ -3928,18 +3999,26 @@
                <lb facs="#facs_52_t1c6_tl_3" n="N003"/>la comedie Allemande sont déjà notées
                <lb facs="#facs_52_t1c6_tl_4" n="N004"/>dans le livre du theatre pres de la cour,
                <lb facs="#facs_52_t1c6_tl_5" n="N005"/>Representations Allemandes, on a données
-               <lb facs="#facs_52_l" n="N006"/>çe Theatre _ _ _ _ _ _ _ 112
-               <lb facs="#facs_52_l_2016" n="N007"/>au Theatre prés de la Cour _ _ _ _ _ _57
-               <lb facs="#facs_52_l_2108" n="N008"/>En tout _ _ _ _ _ _ 169
-               <lb facs="#facs_52_l_2174" n="N009"/>compris avec Tragedies _ _ _ _ _ _7
-               <lb facs="#facs_52_l_2253" n="N010"/>Comedies Italiennes _ _ _ _ _ _2
-               <lb facs="#facs_52_l_2338" n="N011"/>Opera Buffa _ _ _ _ _ _4
-               <lb facs="#facs_52_l_2408" n="N012"/>Comedies Nouvelles _ _ _ _ _ _9
-               <lb facs="#facs_52_l_2494" n="N013"/>Ballets Nouveaux _ _ _ _ _ _8
-               <lb facs="#facs_52_t1c6_tl_25" n="N014"/>Depuits des comedienn
-               <lb facs="#facs_52_t1c6_tl_26" n="N015"/>13 Septembre Le Sr: Muller dans la
-               <lb facs="#facs_52_t1c6_tl_27" n="N016"/>Tragedi Polyeutes
-               <lb facs="#facs_52_t1c6_tl_28" n="N017"/>28 Decembre le Sr: gottlieb.</cell></row></table>
+               <lb facs="#facs_52_l_2" n="N006"/>çe Theatre
+               <lb facs="#facs_52_l_4" n="N007"/>au Theatre prés de la Cour
+               <lb facs="#facs_52_l_6" n="N008"/>En tout
+               <lb facs="#facs_52_l_8" n="N009"/>compris avec Tragedies
+               <lb facs="#facs_52_l_10" n="N010"/>Comedies Italiennes
+               <lb facs="#facs_52_l_12" n="N011"/>Opera Buffa
+               <lb facs="#facs_52_l_14" n="N012"/>Comedies Nouvelles
+               <lb facs="#facs_52_l_16" n="N013"/>Ballets Nouveaux
+               <lb facs="#facs_52_l_2616" n="N014"/>112
+               <lb facs="#facs_52_l_2626" n="N015"/>57
+               <lb facs="#facs_52_l_2636" n="N016"/>169
+               <lb facs="#facs_52_l_2646" n="N017"/>7
+               <lb facs="#facs_52_l_2656" n="N018"/>2
+               <lb facs="#facs_52_l_2666" n="N019"/>4
+               <lb facs="#facs_52_l_2676" n="N020"/>9
+               <lb facs="#facs_52_l_2686" n="N021"/>8
+               <lb facs="#facs_52_t1c6_tl_25" n="N022"/>Depuits des Comedien<del>s</del>
+               <lb facs="#facs_52_t1c6_tl_26" n="N023"/>13 Septembre Le Sr: Muller dans la
+               <lb facs="#facs_52_t1c6_tl_27" n="N024"/>Tragedi Polyeutes
+               <lb facs="#facs_52_t1c6_tl_28" n="N025"/>28 Decembre le Sr: Gottlieb.</cell></row></table>
             <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             <table facs="#facs_53_t1">
         <row n="0">
@@ -3969,7 +4048,7 @@
                <lb facs="#facs_53_t1c6_tl_6" n="N006"/>est a finit par un nouveaux grand Ballet
                <lb facs="#facs_53_t1c6_tl_7" n="N007"/>Suivie
                <lb facs="#facs_53_t1c6_tl_8" n="N008"/>d’une nouvelle Comedie Intitulée,
-               <lb facs="#facs_53_t1c6_tl_9" n="N009"/>La Tromperie Trompée de Mr: Weisker<supplied reason="">n</supplied>
+               <lb facs="#facs_53_t1c6_tl_9" n="N009"/>La Tromperie Trompée de Mr: Weisker<supplied reason="">[...]</supplied>
                <lb facs="#facs_53_t1c6_tl_10" n="N010"/>le Rivale de son Pere, en Secrét.
                <lb facs="#facs_53_t1c6_tl_11" n="N011"/>le Democrite, Tr:.
                <lb facs="#facs_53_t1c6_tl_12" n="N012"/>colombina, le seinte, fin, et resonable Avocat.
@@ -4322,9 +4401,28 @@
             <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             <pb facs="#facs_71" n="71" xml:id="img_0071"/>
+            <ab facs="#facs_71_r" type="">
+               <lb facs="#facs_71_l" n="N001"/>Spettacoli di Balletto a Vienne.
+               <lb facs="#facs_71_l_1" n="N002"/>Annuario 1758, 1759, 1761,
+               <lb facs="#facs_71_l_178" n="N003"/>1763
+               <lb facs="#facs_71_r_tl_5" n="N004"/>Ms. di Philippe de Gumpenhuber
+               <lb facs="#facs_71_l_2" n="N005"/>dedicati al Conte Durazzo
+               <lb facs="#facs_71_r_tl_8" n="N006"/>4 vol
+               <lb facs="#facs_71_l_3" n="N007"/>legature un menocchino alle
+               <lb facs="#facs_71_r_tl_11" n="N008"/>ermis, (da identificare ;
+               <lb facs="#facs_71_r_tl_12" n="N009"/>del Gumpenhuber ?)
+            </ab>
             <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <pb facs="#facs_73" n="73" xml:id="img_0073"/>
+            <ab facs="#facs_73_r" type="">
+               <lb facs="#facs_73_l" n="N001"/>MS Thr 248.3
+               <lb facs="#facs_73_l_7" n="N002"/>THE HOUGHTON LIBRARY
+               <lb facs="#facs_73_l_11" n="N003"/>*69M-111 (4)
+            </ab>
             <pb facs="#facs_74" n="74" xml:id="img_0074"/>
+            <ab facs="#facs_74_r" type="">
+               <lb facs="#facs_74_l" n="N001"/>
+            </ab>
          </div>
       </body>
    </text>
