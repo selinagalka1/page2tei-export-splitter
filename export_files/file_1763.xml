@@ -1811,6 +1811,7 @@
             <zone points="964,1000 966,967 989,960 1263,891 1404,870 1722,909 1720,988 1383,1007 990,1011 981,1010" rendition="Line" xml:id="facs_71_l_3"/>
             <zone points="818,1119 1101,1136 1176,1096 1419,1102 1473,1129 1599,1107 1602,1022 1428,1033 1352,1012 1266,1053 1204,1020 1112,1025 958,1082 821,1059" rendition="Line" xml:id="facs_71_r_tl_11"/>
             <zone points="1139,1203 1230,1206 1287,1234 1363,1212 1395,1241 1460,1209 1653,1195 1704,1214 1705,1148 1631,1121 1560,1151 1325,1109 1140,1142" rendition="Line" xml:id="facs_71_r_tl_12"/>
+            <zone points="1469,1487 1684,1478 1683,1448 1467,1457" rendition="Line" xml:id="facs_71_l_4"/>
          </zone>
       </surface>
       <surface lrx="1934" lry="2400" ulx="0" uly="0" xml:id="facs_72">
@@ -1853,8 +1854,8 @@
             <ab facs="#facs_2_r_2" type="">
                <lb facs="#facs_2_l_8" n="N001"/>Do Not Photograph
                <lb facs="#facs_2_l_12" n="N002"/>Microfilm on File
-               <lb facs="#facs_2_l_16" n="N003"/>Photocopy on FIle
-               <lb facs="#facs_2_l_20" n="N004"/>No. TS M 105
+               <lb facs="#facs_2_l_16" n="N003"/><hi style="text-decoration: line-through;">Photocopy on File
+               <lb facs="#facs_2_l_20" n="N004"/></hi>No. TS M 105
                <lb facs="#facs_2_l_24" n="N005"/>Order No.
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
@@ -4406,11 +4407,12 @@
                <lb facs="#facs_71_l_1" n="N002"/>Annuario 1758, 1759, 1761,
                <lb facs="#facs_71_l_178" n="N003"/>1763
                <lb facs="#facs_71_r_tl_5" n="N004"/>Ms. di Philippe de Gumpenhuber
-               <lb facs="#facs_71_l_2" n="N005"/>dedicati al Conte Durazzo
-               <lb facs="#facs_71_r_tl_8" n="N006"/>4 vol
+               <lb facs="#facs_71_l_2" n="N005"/>dedicati al Conte Durazzo.
+               <lb facs="#facs_71_r_tl_8" n="N006"/>4 vol.
                <lb facs="#facs_71_l_3" n="N007"/>legature un menocchino alle
-               <lb facs="#facs_71_r_tl_11" n="N008"/>ermis, (da identificare ;
-               <lb facs="#facs_71_r_tl_12" n="N009"/>del Gumpenhuber ?)
+               <lb facs="#facs_71_r_tl_11" n="N008"/>ermi, (da identificare,
+               <lb facs="#facs_71_r_tl_12" n="N009"/>del Gumpenhuber?)
+               <lb facs="#facs_71_l_4" n="N010"/>beeee
             </ab>
             <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <pb facs="#facs_73" n="73" xml:id="img_0073"/>

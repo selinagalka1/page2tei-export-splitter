@@ -2290,7 +2290,7 @@
       </surface>
       <surface lrx="1985" lry="2400" ulx="0" uly="0" xml:id="facs_71">
          <graphic height="2400px" url="71104228.jpg" width="1985px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=IVLBBOQLGEFYIUSKNJANBOAL&amp;amp;amp;amp;fileType=view" width="1985px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=IVLBBOQLGEFYIUSKNJANBOAL&amp;fileType=view" width="1985px"/>
          <zone points="89,100 1939,106 1940,1124 1928,2378 80,2369" rendition="TextRegion" xml:id="facs_71_r">
             <zone points="212,309 509,243 676,285 833,254 893,307 1105,254 1646,291 1644,204 1394,208 1332,161 1130,215 990,159 751,204 674,153 210,153" rendition="Line" xml:id="facs_71_tr_2_tl_1"/>
             <zone points="1616,391 1458,363 1388,408 1279,355 334,361 332,289 524,243 928,336 1207,272 1506,322 1616,311" rendition="Line" xml:id="facs_71_l_2"/>
@@ -2317,7 +2317,7 @@
       </surface>
       <surface lrx="1987" lry="2400" ulx="0" uly="0" xml:id="facs_72">
          <graphic height="2400px" url="71104219.jpg" width="1987px"/>
-         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=KJSDAIAGPUKMHDCTQHZDKUWI&amp;amp;fileType=view" width="1987px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=KJSDAIAGPUKMHDCTQHZDKUWI&amp;fileType=view" width="1987px"/>
          <zone points="52,69 1910,46 1914,1290 1912,2344 75,2372 58,1202" rendition="TextRegion" xml:id="facs_72_r">
             <zone points="882,264 955,256 1009,270 1034,256 1084,270 1106,258 1135,266 1210,260 1210,196 1173,185 1162,195 1083,195 1048,170 1040,177 990,156 940,195 923,183 882,193" rendition="Line" xml:id="facs_72_tr_1_tl_1"/>
             <zone points="87,297 108,293 210,281 1554,254 1626,272 1834,333 1832,437 1807,451 1736,476 1655,491 1383,495 1054,495 420,491 123,478 87,464" rendition="Line" xml:id="facs_72_l_1114"/>
@@ -6190,7 +6190,7 @@
                <lb facs="#facs_71_l" n="N018"/></hi>Le 6. Codrus Trag:
                <lb facs="#facs_71_l_1085" n="N019"/>Le 9. La Sotise mal reussie du S.<hi style="vertical-align: superscript;">r</hi> Weiskern.
                <lb facs="#facs_71_l_1167" n="N020"/>Le 25. Pantalon l’Astrologue supposé
-               <lb facs="#facs_71_l_1231" n="N021"/>Le 31. Burlin le Chevalier matematiq en l’air.
+               <lb facs="#facs_71_l_1231" n="N021"/>Le 31. Burlin le Chevalier <choice><expan>mathematique</expan><abbr>matematiq</abbr></choice> en l’air.
             </ab>
             <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <ab facs="#facs_72_r" type="">
@@ -6201,11 +6201,11 @@
                <lb facs="#facs_72_l_1282" n="N005"/></hi>Le 5  Hanns-Wurst Gradasse le barbare
                <lb facs="#facs_72_tr_1_tl_12" n="N006"/>terreur du monde.
                <lb facs="#facs_72_l_1358" n="N007"/>Le 18 L’amoureux trompé par la simplicité
-               <lb facs="#facs_72_l_1438" n="N008"/>Le 25 Le quatrouple Hanns-Wurst. Prehaus<digitizaton_error>er.</digitizaton_error>
+               <lb facs="#facs_72_l_1438" n="N008"/>Le 25 Le quatrouple Hanns-Wurst. Prehaus<digitization_error>er.</digitization_error>
                <lb facs="#facs_72_tr_2_tl_1" n="N009"/><hi style="text-decoration: underline;">Mai
                <lb facs="#facs_72_tr_2_tl_2" n="N010"/></hi>Le 9 La nouvelle mode de païer les Dettes.
                <lb facs="#facs_72_tr_2_tl_3" n="N011"/>Prehauser
-               <lb facs="#facs_72_l_1518" n="N012"/>Le 16 Burlin devenu foux par jalousie. Brenn<digitizaton_error>e</digitizaton_error><supplied reason="">[r]</supplied>
+               <lb facs="#facs_72_l_1518" n="N012"/>Le 16 Burlin devenu foux par jalousie. Brenn<digitization_error>e</digitization_error><supplied reason="">[...]</supplied>
                <lb facs="#facs_72_l_1602" n="N013"/>Le 23 Les Avantures d’une noble Fille. Leinhaus
                <lb facs="#facs_72_tr_2_tl_8" n="N014"/><hi style="text-decoration: underline;">Juin
                <lb facs="#facs_72_l_1682" n="N015"/></hi>Le 6 Le double Hanns-Wurst. Weiskern
@@ -6220,7 +6220,7 @@
                <lb facs="#facs_73_tr_1_tl_7" n="N005"/><hi style="text-decoration: underline;">Août
                <lb facs="#facs_73_l_345" n="N006"/></hi>Le 22 Le Mariage fait par un accident extra<supplied reason="">[...]</supplied>
                <lb facs="#facs_73_tr_1_tl_10" n="N007"/>ordinaire
-               <lb facs="#facs_73_tr_1_tl_11" n="N008"/><hi style="text-decoration: underline;">Septembre
+               <lb facs="#facs_73_tr_1_tl_11" n="N008"/><hi style="text-decoration: underline;">Septembre.
                <lb facs="#facs_73_l_448" n="N009"/></hi>Le 5 La Femme Mari
                <lb facs="#facs_73_l_520" n="N010"/>Le 12 Les Femmes rusées
                <lb facs="#facs_73_l_599" n="N011"/>Le 20 Le Poete Campagnard
