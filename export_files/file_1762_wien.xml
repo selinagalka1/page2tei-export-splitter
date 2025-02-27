@@ -3478,7 +3478,7 @@
       </surface>
       <surface lrx="1137" lry="1408" ulx="0" uly="0" xml:id="facs_116">
          <graphic height="1408px" url="69081923.jpg" width="1137px"/>
-         <graphic height="1408px" url="https://files.transkribus.eu/Get?id=RTAWWBUKSNTFYKTLWBCSDKGJ&amp;amp;fileType=view" width="1137px"/><zone points="22,44 34,1364 1084,1364 1084,38" rendition="Table" xml:id="facs_116_t1">
+         <graphic height="1408px" url="https://files.transkribus.eu/Get?id=RTAWWBUKSNTFYKTLWBCSDKGJ&amp;fileType=view" width="1137px"/><zone points="22,44 34,1364 1084,1364 1084,38" rendition="Table" xml:id="facs_116_t1">
             <zone points="6,93 13,93 21,84 63,93 80,84 103,95 120,92 119,61 112,62 105,54 96,61 68,53 42,69 30,65 5,73" rendition="TableCell" xml:id="facs_116_t1c1_tl_1"/>
             <zone points="7,124 15,126 26,117 34,123 37,119 49,125 60,124 65,129 86,123 94,128 112,126 112,96 103,96 89,88 82,94 72,89 64,96 51,96 31,84 24,90 7,93" rendition="TableCell" xml:id="facs_116_t1c1_tl_2"/>
             <zone points="12,188 22,190 26,186 30,191 49,179 62,185 78,180 93,186 102,180 114,180 115,128 91,128 87,124 80,128 73,124 65,129 44,120 31,124 25,117 14,122" rendition="TableCell" xml:id="facs_116_t1c1_tl_3"/>
@@ -8112,7 +8112,7 @@
       </surface>
       <surface lrx="1159" lry="1402" ulx="0" uly="0" xml:id="facs_255">
          <graphic height="1402px" url="69082069.jpg" width="1159px"/>
-         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=PWNDWFFOCZSUKMFPXQORFDFA&amp;amp;fileType=view" width="1159px"/><zone points="60,32 72,1362 1127,1357 1135,32" rendition="Table" xml:id="facs_255_t1">
+         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=PWNDWFFOCZSUKMFPXQORFDFA&amp;fileType=view" width="1159px"/><zone points="60,32 72,1362 1127,1357 1135,32" rendition="Table" xml:id="facs_255_t1">
             <zone points="58,82 88,107 125,79 149,71 169,73 190,91 204,93 206,49 154,39 142,49 107,44 88,52 81,44 69,54 59,52" rendition="TableCell" xml:id="facs_255_t1c1_tl_1"/>
             <zone points="66,120 86,120 94,114 120,110 139,110 171,120 200,116 200,93 169,79 139,92 104,73 66,91" rendition="TableCell" xml:id="facs_255_t1c1_tl_2"/>
             <zone points="68,144 79,146 94,141 102,145 113,140 125,145 134,140 151,153 173,144 188,144 189,120 179,117 171,121 138,110 107,114 95,123 69,131" rendition="TableCell" xml:id="facs_255_t1c1_tl_3"/>
@@ -8190,7 +8190,8 @@
             <zone points="417,339 508,374 683,328 805,348 903,329 1017,377 1081,328 1131,328 1131,282 417,280" rendition="TableCell" xml:id="facs_257_t1c6_tl_2"/>
             <zone points="614,397 630,401 651,394 700,397 721,391 728,399 745,398 757,407 778,406 778,373 764,367 744,374 732,363 715,368 692,354 673,361 648,359 641,365 628,358 614,360" rendition="TableCell" xml:id="facs_257_t1c6_tl_3"/>
             <zone points="354,439 584,457 808,430 877,464 954,428 1148,440 1148,392 1100,380 1005,405 866,377 796,414 497,405 442,366 354,388" rendition="TableCell" xml:id="facs_257_t1c6_tl_4"/>
-            <zone points="363,511 1122,495 1122,432 952,465 363,438" rendition="TableCell" xml:id="facs_257_t1c6_tl_5"/>
+            <zone points="963,498 363,511 363,438 952,465 963,463" rendition="TableCell" xml:id="facs_257_l_2"/>
+            <zone points="963,463 1122,432 1122,495 963,498" rendition="TableCell" xml:id="facs_257_l_1"/>
             <zone points="387,551 604,561 631,586 715,555 897,577 941,547 1101,549 1102,511 1028,526 916,487 828,526 650,492 387,543" rendition="TableCell" xml:id="facs_257_t1c6_tl_6"/>
             <zone points="415,605 605,629 660,604 1129,602 1129,580 1023,549 970,585 836,558 612,592 415,553" rendition="TableCell" xml:id="facs_257_t1c6_tl_7"/>
             <zone points="412,683 579,652 761,656 802,683 885,659 1101,667 1101,643 976,637 924,609 877,635 716,633 681,603 633,635 412,629" rendition="TableCell" xml:id="facs_257_t1c6_tl_8"/>
@@ -8219,7 +8220,8 @@
             <zone points="141,121 167,110 198,125 217,114 241,113 259,103 259,54 251,54 235,69 217,77 195,71 183,61 172,64 164,57 141,63" rendition="TableCell" xml:id="facs_258_t1c2_tl_1"/>
             <zone points="453,120 560,119 614,134 646,118 713,137 821,118 820,83 795,93 734,54 672,75 621,46 452,63" rendition="TableCell" xml:id="facs_258_t1c3_tl_1"/>
             <zone points="65,403 88,397 97,400 99,398 105,402 120,401 113,337 107,337 95,329 92,332 85,328 77,330 71,336 59,337" rendition="TableCell" xml:id="facs_258_t1c4_tl_1"/>
-            <zone points="450,212 591,189 710,192 898,200 1036,223 1071,236 1074,282 1051,294 912,307 524,276 451,256" rendition="TableCell" xml:id="facs_258_l"/>
+            <zone points="827,300 524,276 451,256 450,212 591,189 710,192 827,197" rendition="TableCell" xml:id="facs_258_l_2"/>
+            <zone points="827,197 898,200 1036,223 1071,236 1074,282 1051,294 912,307 827,300" rendition="TableCell" xml:id="facs_258_l_1"/>
             <zone points="299,356 412,388 587,339 762,368 824,337 1084,355 1083,329 997,302 555,297 483,251 297,286" rendition="TableCell" xml:id="facs_258_t1c6_tl_3"/>
             <zone points="546,398 569,390 608,405 625,393 642,400 665,392 702,393 715,402 736,397 736,354 708,361 643,344 609,355 581,349 557,357 546,353" rendition="TableCell" xml:id="facs_258_t1c6_tl_4"/>
             <zone points="293,434 1097,456 1096,420 936,396 906,421 796,390 470,407 291,350" rendition="TableCell" xml:id="facs_258_t1c6_tl_5"/>
@@ -8415,7 +8417,7 @@
       </surface>
       <surface lrx="1164" lry="1404" ulx="0" uly="0" xml:id="facs_264">
          <graphic height="1404px" url="69082109.jpg" width="1164px"/>
-         <graphic height="1404px" url="https://files.transkribus.eu/Get?id=KXDYZESSXABUTMQVBVCPRJXV&amp;amp;fileType=view" width="1164px"/><zone points="33,43 26,1305 1116,1331 1116,40" rendition="Table" xml:id="facs_264_t1">
+         <graphic height="1404px" url="https://files.transkribus.eu/Get?id=KXDYZESSXABUTMQVBVCPRJXV&amp;fileType=view" width="1164px"/><zone points="33,43 26,1305 1116,1331 1116,40" rendition="Table" xml:id="facs_264_t1">
             <zone points="35,92 40,92 50,81 82,68 94,72 109,64 124,75 135,74 134,29 116,35 102,30 34,32" rendition="TableCell" xml:id="facs_264_t1c1_tl_1"/>
             <zone points="35,100 45,100 60,107 73,97 81,97 100,112 110,107 129,111 129,76 111,78 101,70 94,72 82,68 62,82 50,81 42,89 35,88" rendition="TableCell" xml:id="facs_264_t1c1_tl_2"/>
             <zone points="35,138 43,138 51,146 76,142 99,148 119,143 120,112 114,110 109,115 93,114 88,109 80,112 76,109 67,116 59,107 36,98" rendition="TableCell" xml:id="facs_264_t1c1_tl_3"/>
@@ -8501,7 +8503,7 @@
       </surface>
       <surface lrx="1172" lry="1402" ulx="0" uly="0" xml:id="facs_267">
          <graphic height="1402px" url="69082148.jpg" width="1172px"/>
-         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=ADRGCYMMFFSKOLRJCNPWHHKT&amp;amp;fileType=view" width="1172px"/>
+         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=ADRGCYMMFFSKOLRJCNPWHHKT&amp;fileType=view" width="1172px"/>
          <zone points="99,49 93,1375 1146,1368 1146,60" rendition="TextRegion" xml:id="facs_267_tr_1">
             <zone points="552,136 580,134 595,146 661,140 672,150 690,137 724,142 740,128 828,141 837,138 835,66 806,49 736,66 679,44 653,44 631,60 600,38 549,55" rendition="Line" xml:id="facs_267_tr_1_tl_1"/>
             <zone points="126,165 244,167 326,217 973,189 1045,216 1143,200 1142,128 672,150 448,98 124,108" rendition="Line" xml:id="facs_267_tr_1_tl_2"/>
@@ -8535,7 +8537,6 @@
          <zone points="45,72 1100,93 1082,1375 43,1346" rendition="TextRegion" xml:id="facs_268_r">
             <zone points="432,213 583,204 665,228 696,215 697,148 636,145 623,132 569,141 491,82 434,91" rendition="Line" xml:id="facs_268_tr_1_tl_1"/>
             <zone points="588,289 340,274 139,294 138,239 360,218 588,248" rendition="Line" xml:id="facs_268_l_9"/>
-            <zone points="588,248 614,251 862,207 863,286 774,300 588,289" rendition="Line" xml:id="facs_268_l"/>
             <zone points="929,387 592,377 171,356 172,302 404,280 609,277 929,295" rendition="Line" xml:id="facs_268_l_2"/>
             <zone points="128,442 228,464 440,449 588,493 710,465 848,480 846,387 658,429 527,405 376,424 274,394 237,417 179,392 128,408" rendition="Line" xml:id="facs_268_tr_1_tl_4"/>
             <zone points="929,539 501,563 196,520 196,457 413,457 929,469" rendition="Line" xml:id="facs_268_l_4"/>
@@ -8582,7 +8583,7 @@
       </surface>
       <surface lrx="1164" lry="1404" ulx="0" uly="0" xml:id="facs_270">
          <graphic height="1404px" url="69082112.jpg" width="1164px"/>
-         <graphic height="1404px" url="https://files.transkribus.eu/Get?id=MTKTTIBTWITEKZQQIJSVSGTG&amp;amp;fileType=view" width="1164px"/>
+         <graphic height="1404px" url="https://files.transkribus.eu/Get?id=MTKTTIBTWITEKZQQIJSVSGTG&amp;fileType=view" width="1164px"/>
          <zone points="49,57 1089,61 1078,1375 28,1354" rendition="TextRegion" xml:id="facs_270_r">
             <zone points="491,142 545,153 589,151 586,87 569,88 545,79 516,81 499,69 487,68" rendition="Line" xml:id="facs_270_tr_1_tl_1"/>
             <zone points="159,231 186,223 222,244 293,248 344,232 382,250 439,245 456,257 454,169 439,164 355,178 335,162 255,149 158,177" rendition="Line" xml:id="facs_270_tr_1_tl_2"/>
@@ -8798,7 +8799,7 @@
       </surface>
       <surface lrx="1172" lry="1402" ulx="0" uly="0" xml:id="facs_277">
          <graphic height="1402px" url="69082116.jpg" width="1172px"/>
-         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=BVDXVWTJBAMCOZNDOFMFKZJC&amp;amp;fileType=view" width="1172px"/>
+         <graphic height="1402px" url="https://files.transkribus.eu/Get?id=BVDXVWTJBAMCOZNDOFMFKZJC&amp;fileType=view" width="1172px"/>
          <zone points="115,71 1148,53 1135,1363 115,1395" rendition="TextRegion" xml:id="facs_277_r">
             <zone points="591,169 642,169 646,164 666,163 661,61 636,66 621,55 605,68 587,69" rendition="Line" xml:id="facs_277_tr_1_tl_1"/>
             <zone points="1064,260 876,271 487,281 239,248 239,183 293,164 1064,181" rendition="Line" xml:id="facs_277_l_2"/>
@@ -8827,7 +8828,7 @@
       </surface>
       <surface lrx="1145" lry="1393" ulx="0" uly="0" xml:id="facs_278">
          <graphic height="1393px" url="69082117.jpg" width="1145px"/>
-         <graphic height="1393px" url="https://files.transkribus.eu/Get?id=NHESRWSYDPPJHUMSRXFCYGXU&amp;amp;fileType=view" width="1145px"/>
+         <graphic height="1393px" url="https://files.transkribus.eu/Get?id=NHESRWSYDPPJHUMSRXFCYGXU&amp;fileType=view" width="1145px"/>
          <zone points="60,47 1081,56 1061,1376 46,1361" rendition="TextRegion" xml:id="facs_278_r_1561">
             <zone points="509,152 613,153 613,123 509,122" rendition="Line" xml:id="facs_278_l_63"/>
             <zone points="156,247 291,266 388,226 891,272 889,196 647,208 612,183 534,206 445,178 393,206 305,147 153,160" rendition="Line" xml:id="facs_278_l_1464"/>
@@ -8850,8 +8851,8 @@
             <zone points="502,994 602,997 603,967 504,964" rendition="Line" xml:id="facs_278_l_67"/>
             <zone points="181,1078 896,1098 897,1068 181,1048" rendition="Line" xml:id="facs_278_l_71"/>
             <zone points="362,1132 653,1141 654,1111 363,1102" rendition="Line" xml:id="facs_278_l_75"/>
-            <zone points="973,1162 1016,1162 1016,1132 973,1132" rendition="Line" xml:id="facs_278_l_79"/>
             <zone points="171,1193 878,1215 879,1185 172,1163" rendition="Line" xml:id="facs_278_l_83"/>
+            <zone points="973,1162 1016,1162 1016,1132 973,1132" rendition="Line" xml:id="facs_278_l_79"/>
             <zone points="971,1243 1013,1241 1012,1211 970,1213" rendition="Line" xml:id="facs_278_l_87"/>
             <zone points="1006,1365 1043,1365 1043,1335 1006,1335" rendition="Line" xml:id="facs_278_l_92"/>
          </zone>
@@ -13991,7 +13992,7 @@
                <lb facs="#facs_111_c_53_tl_12" n="N012"/>L’Amant persecuté
                <lb facs="#facs_111_c_53_tl_13" n="N013"/>Ballets
                <lb facs="#facs_111_c_53_tl_14" n="N014"/>1.<hi style="vertical-align: superscript;">r</hi> La querelle appaisée
-               <lb facs="#facs_111_c_53_tl_15" n="N015"/>2.<hi style="vertical-align: superscript;">de</hi> Le Retour de la chasse.</cell></row>
+               <lb facs="#facs_111_c_53_tl_15" n="N015"/>2.<hi style="vertical-align: superscript;">de</hi> Le Retour de la chasse<digitization_error>.</digitization_error></cell></row>
         <row n="2">
           <cell facs="#facs_111_c_46" n="0" rend="0000">
                <lb facs="#facs_111_l_76" n="N001"/>51'</cell>
@@ -14019,7 +14020,7 @@
                <lb facs="#facs_112_l" n="N002"/>à
                <lb facs="#facs_112_t1c6_tl_2" n="N003"/>Laxenburg
                <lb facs="#facs_112_t1c6_tl_3" n="N004"/>La joye imprevûe
-               <lb facs="#facs_112_t1c6_tl_4" n="N005"/>C. en P. et en 1 A. par M.<hi style="vertical-align: superscript;">r</hi> de Marieaux
+               <lb facs="#facs_112_t1c6_tl_4" n="N005"/>C. en P. et en 1 A. par M.<hi style="vertical-align: superscript;">r</hi> de <choice><corr>Mariveaux</corr><sic>Marieaux</sic></choice>
                <lb facs="#facs_112_t1c6_tl_5" n="N006"/>Ballets
                <lb facs="#facs_112_t1c6_tl_6" n="N007"/>Le Triomphe de l’amour
                <lb facs="#facs_112_t1c6_tl_7" n="N008"/>p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fois
@@ -14063,13 +14064,13 @@
                <lb facs="#facs_113_c_53_tl_5" n="N007"/>Durval
                <lb facs="#facs_113_c_53_tl_7" n="N008"/>Gobert.
                <lb facs="#facs_113_c_53_tl_9" n="N009"/>Requisites
-               <lb facs="#facs_113_c_53_tl_10" n="N010"/>10 Houlettes, une Bouteille, un
+               <lb facs="#facs_113_c_53_tl_10" n="N010"/>10 Houlettes, une Bouteille, u<digitization_error>n</digitization_error>
                <lb facs="#facs_113_c_53_tl_11" n="N011"/>Arc, 1 Fleche, 1 Dard et 1 Bouc <digitization_error>i</digitization_error><supplied reason="">[...]</supplied>
                <lb facs="#facs_113_c_53_tl_12" n="N012"/>En Ville
                <lb facs="#facs_113_c_53_tl_13" n="N013"/>Comedie allemande
-               <lb facs="#facs_113_c_53_tl_14" n="N014"/>La Beauté muette
+               <lb facs="#facs_113_c_53_tl_14" n="N014"/>La Beaute muette
                <lb facs="#facs_113_c_53_tl_15" n="N015"/>suie
-               <lb facs="#facs_113_c_53_tl_16" n="N016"/>d’une petite Piece. Le Maria<digitizaton_error>ge</digitizaton_error>
+               <lb facs="#facs_113_c_53_tl_16" n="N016"/>d’une petite Piece. Le Maria<digitization_error>ge</digitization_error>
                <lb facs="#facs_113_c_53_tl_17" n="N017"/>d’Anselmo rompû
                <lb facs="#facs_113_c_53_tl_18" n="N018"/>Ballets
                <lb facs="#facs_113_c_53_tl_19" n="N019"/>1.<hi style="vertical-align: superscript;">r</hi> Le Retour de la Chasse
@@ -14110,17 +14111,17 @@
           <cell facs="#facs_114_t1c7" n="0" rend="0000">
                <lb facs="#facs_114_t1c7_tl_1" n="N001"/><hi style="text-decoration: underline;">105</hi></cell>
           <cell facs="#facs_114_t1c8" n="1" rend="0000">
-               <lb facs="#facs_114_t1c8_tl_1" n="N001"/>jeu.
+               <lb facs="#facs_114_t1c8_tl_1" n="N001"/>jeu:
                <lb facs="#facs_114_t1c8_tl_2" n="N002"/>20</cell>
           <cell facs="#facs_114_t1c9" n="2" rend="0000">
-               <lb facs="#facs_114_t1c9_tl_1" n="N001"/>Comedie Françoise
+               <lb facs="#facs_114_t1c9_tl_1" n="N001"/>Comedie Francoise
                <lb facs="#facs_114_t1c9_tl_2" n="N002"/>à
                <lb facs="#facs_114_t1c9_tl_3" n="N003"/>Laxenburg
                <lb facs="#facs_114_t1c9_tl_4" n="N004"/>Le Rival favorable p.<hi style="vertical-align: superscript;">r</hi> la 1<hi style="vertical-align: superscript;">re</hi> fo<supplied reason="">[...]</supplied>
                <lb facs="#facs_114_t1c9_tl_5" n="N005"/>C. en V. et en 3 A. par M.<hi style="vertical-align: superscript;">r</hi> Boissÿ
                <lb facs="#facs_114_t1c9_tl_6" n="N006"/>Cette Piece a été donnée pou<supplied reason="">[...]</supplied>
                <lb facs="#facs_114_t1c9_tl_7" n="N007"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois à Paris au Theatre
-               <lb facs="#facs_114_t1c9_tl_8" n="N008"/>Italien le 30 Janvier 1739 avec
+               <lb facs="#facs_114_t1c9_tl_8" n="N008"/>Italien le 30 Janvier 1739. ave<supplied reason="">[...]</supplied>
                <lb facs="#facs_114_t1c9_tl_9" n="N009"/>beaucoup de Succes.
                <lb facs="#facs_114_l" n="N010"/>53</cell></row></table>
             <pb facs="#facs_115" n="115" xml:id="img_0115"/>
@@ -14141,8 +14142,8 @@
           <cell facs="#facs_115_t1c6" n="2" rend="0000">
                <lb facs="#facs_115_t1c6_tl_1" n="N001"/>En Ville
                <lb facs="#facs_115_t1c6_tl_2" n="N002"/>Comedie allemande
-               <lb facs="#facs_115_t1c6_tl_3" n="N003"/>La Donna Vendicatival
-               <lb facs="#facs_115_t1c6_tl_4" n="N004"/>del S.<hi style="vertical-align: superscript;">r</hi> Goldon<digitizaton_error>i.</digitizaton_error>
+               <lb facs="#facs_115_t1c6_tl_3" n="N003"/>La Donna Vendicativa
+               <lb facs="#facs_115_t1c6_tl_4" n="N004"/>del S.<hi style="vertical-align: superscript;">r</hi> Goldon<digitization_error>i.</digitization_error>
                <lb facs="#facs_115_t1c6_tl_5" n="N005"/>Ballets
                <lb facs="#facs_115_t1c6_tl_6" n="N006"/>1.<hi style="vertical-align: superscript;">r</hi> Le Retour de la Chasse
                <lb facs="#facs_115_l_594" n="N007"/>2.<hi style="vertical-align: superscript;">de</hi> La querelle appaisée</cell></row>
@@ -14150,8 +14151,8 @@
           <cell facs="#facs_115_c_55" n="0" rend="0000">
                <lb facs="#facs_115_l_94" n="N001"/><hi style="text-decoration: underline;">107</hi></cell>
           <cell facs="#facs_115_c_59" n="1" rend="0000">
-               <lb facs="#facs_115_l_234" n="N001"/>Ven.21.
-               <lb facs="#facs_115_l_250" n="N002"/></cell>
+               <lb facs="#facs_115_l_234" n="N001"/>Ven.
+               <lb facs="#facs_115_l_250" n="N002"/>21.</cell>
           <cell facs="#facs_115_c_63" n="2" rend="0000">
                <lb facs="#facs_115_c_63_tl_1" n="N001"/>Rien à Laxenburg
                <lb facs="#facs_115_c_63_tl_2" n="N002"/>En Ville
@@ -14159,8 +14160,8 @@
                <lb facs="#facs_115_c_63_tl_4" n="N004"/>ont chanté
                <lb facs="#facs_115_c_63_tl_5" n="N005"/>La Sig.<hi style="vertical-align: superscript;">ra</hi> Paglioni
                <lb facs="#facs_115_c_63_tl_6" n="N006"/>La Sig.<hi style="vertical-align: superscript;">ra</hi> Maria Giacomazzi
-               <lb facs="#facs_115_c_63_tl_7" n="N007"/>Il Sig.<hi style="vertical-align: superscript;">re</hi> Guadagni
-               <lb facs="#facs_115_c_63_tl_8" n="N008"/>Il Sig.<hi style="vertical-align: superscript;">re</hi> Tibaldi
+               <lb facs="#facs_115_c_63_tl_7" n="N007"/>Il Sig.<hi style="vertical-align: superscript;">e</hi> Guadagni
+               <lb facs="#facs_115_c_63_tl_8" n="N008"/>Il Sig.<hi style="vertical-align: superscript;">e</hi> Tibaldi
                <lb facs="#facs_115_c_63_tl_9" n="N009"/>Concert a joué
                <lb facs="#facs_115_c_63_tl_10" n="N010"/>Le S.<hi style="vertical-align: superscript;">r</hi> Schmid sur la Hautbois</cell></row>
         <row n="3">
@@ -14187,7 +14188,7 @@
                <lb facs="#facs_116_t1c5_tl_1" n="N001"/>Sam.
                <lb facs="#facs_116_t1c5_tl_2" n="N002"/>22</cell>
           <cell facs="#facs_116_t1c6" n="2" rend="0000">
-               <lb facs="#facs_116_t1c6_tl_1" n="N001"/>Comedie Françoise
+               <lb facs="#facs_116_t1c6_tl_1" n="N001"/>Comedie Francoise
                <lb facs="#facs_116_t1c6_tl_2" n="N002"/>à
                <lb facs="#facs_116_t1c6_tl_3" n="N003"/>Laxenburg
                <lb facs="#facs_116_t1c6_tl_4" n="N004"/>La Surprise de la haine
@@ -14196,8 +14197,8 @@
                <lb facs="#facs_116_t1c6_tl_7" n="N007"/>Les avantures au Serail
                <lb facs="#facs_116_t1c6_tl_8" n="N008"/>En Ville
                <lb facs="#facs_116_t1c6_tl_9" n="N009"/>Comedie allemande
-               <lb facs="#facs_116_t1c6_tl_10" n="N010"/>Il Cavaliere é la Dama
-               <lb facs="#facs_116_t1c6_tl_11" n="N011"/>du Theatra Italien p.<hi style="vertical-align: superscript;">r</hi> M.<hi style="vertical-align: superscript;">r</hi> Goldoni
+               <lb facs="#facs_116_t1c6_tl_10" n="N010"/>Il Cavaliere e la Dama
+               <lb facs="#facs_116_t1c6_tl_11" n="N011"/>du Theatre Italien p.<hi style="vertical-align: superscript;">r</hi> M.<hi style="vertical-align: superscript;">r</hi> Goldoni
                <lb facs="#facs_116_t1c6_tl_12" n="N012"/>Ballets
                <lb facs="#facs_116_t1c6_tl_13" n="N013"/>1.<hi style="vertical-align: superscript;">r</hi> Le Retour de la Chasse
                <lb facs="#facs_116_t1c6_tl_14" n="N014"/>2.<hi style="vertical-align: superscript;">de</hi> La Querelle appaisée</cell></row>
@@ -14212,7 +14213,7 @@
           <cell facs="#facs_117_t1c1" n="0" rend="0000">
                <lb facs="#facs_117_l" n="N001"/>Repre-
                <lb facs="#facs_117_l_18" n="N002"/>senta-
-               <lb facs="#facs_117_l_28" n="N003"/>tions.</cell>
+               <lb facs="#facs_117_l_28" n="N003"/>tions</cell>
           <cell facs="#facs_117_t1c2" n="1" rend="0000">
                <lb facs="#facs_117_t1c2_tl_1" n="N001"/>jours</cell>
           <cell facs="#facs_117_t1c3" n="2" rend="0000">
@@ -14230,7 +14231,7 @@
                <lb facs="#facs_117_t1c6_tl_2" n="N003"/>Laxenburg
                <lb facs="#facs_117_t1c6_tl_3" n="N004"/>Les Moeurs du Tems.
                <lb facs="#facs_117_t1c6_tl_4" n="N005"/>Com. en P. et en 1 A. par M.<hi style="vertical-align: superscript;">r</hi> Sauri<digitization_error>n</digitization_error><supplied reason="">[...]</supplied>
-               <lb facs="#facs_117_t1c6_tl_5" n="N006"/>Ballet.
+               <lb facs="#facs_117_t1c6_tl_5" n="N006"/>Ballet
                <lb facs="#facs_117_t1c6_tl_6" n="N007"/>La Maison des Foux
                <lb facs="#facs_117_t1c6_tl_7" n="N008"/>Pas de deux
                <lb facs="#facs_117_t1c6_tl_9" n="N009"/>Mesd.<hi style="vertical-align: superscript;">lles
@@ -14249,7 +14250,7 @@
                <lb facs="#facs_117_t1c6_tl_21" n="N022"/>Durval
                <lb facs="#facs_117_t1c6_tl_23" n="N023"/>Heloin
                <lb facs="#facs_117_t1c6_tl_24" n="N024"/>Seul
-               <lb facs="#facs_117_t1c6_tl_25" n="N025"/>hornung
+               <lb facs="#facs_117_t1c6_tl_25" n="N025"/>Hornung
                <lb facs="#facs_117_t1c6_tl_26" n="N026"/>La Guarde
                <lb facs="#facs_117_t1c6_tl_27" n="N027"/>Gumpenhueber.</cell></row></table>
             <pb facs="#facs_118" n="118" xml:id="img_0118"/>
@@ -14304,7 +14305,7 @@
           <cell facs="#facs_119_t1c1" n="0" rend="0000">
                <lb facs="#facs_119_l" n="N001"/>Repre-
                <lb facs="#facs_119_l_39" n="N002"/>senta-
-               <lb facs="#facs_119_l_52" n="N003"/>tions.</cell>
+               <lb facs="#facs_119_l_52" n="N003"/>tions</cell>
           <cell facs="#facs_119_t1c2" n="1" rend="0000">
                <lb facs="#facs_119_t1c2_tl_1" n="N001"/>jours</cell>
           <cell facs="#facs_119_t1c3" n="2" rend="0000">
@@ -14314,18 +14315,18 @@
                <lb facs="#facs_119_l_65" n="N001"/><hi style="text-decoration: underline;">114
                <lb facs="#facs_119_l_78" n="N002"/>115</hi></cell>
           <cell facs="#facs_119_t1c5" n="1" rend="0000">
-               <lb facs="#facs_119_t1c5_tl_1" n="N001"/>Mar
+               <lb facs="#facs_119_t1c5_tl_1" n="N001"/>Mar.
                <lb facs="#facs_119_t1c5_tl_2" n="N002"/>25</cell>
           <cell facs="#facs_119_t1c6" n="2" rend="0000">
-               <lb facs="#facs_119_t1c6_tl_1" n="N001"/>Comedie Françoise
+               <lb facs="#facs_119_t1c6_tl_1" n="N001"/>Comedie Francoise
                <lb facs="#facs_119_t1c6_tl_2" n="N002"/>à
                <lb facs="#facs_119_t1c6_tl_3" n="N003"/>Laxenburg
                <lb facs="#facs_119_t1c6_tl_4" n="N004"/>La fausse suivante
                <lb facs="#facs_119_t1c6_tl_5" n="N005"/>ou
                <lb facs="#facs_119_t1c6_tl_6" n="N006"/>Le Fourb puni
-               <lb facs="#facs_119_t1c6_tl_7" n="N007"/>C en P. et en 3 A. par M.<hi style="vertical-align: superscript;">r</hi> Marive<digitizaton_error>au</digitizaton_error><supplied reason="">[...]</supplied>
+               <lb facs="#facs_119_t1c6_tl_7" n="N007"/>C en P. et en 3 A. par M.<hi style="vertical-align: superscript;">r</hi> Marive<digitization_error>au</digitization_error><supplied reason="">[...]</supplied>
                <lb facs="#facs_119_t1c6_tl_8" n="N008"/>Ballet
-               <lb facs="#facs_119_t1c6_tl_9" n="N009"/>Le Triomphe de l’amou<digitizaton_error>r</digitizaton_error>
+               <lb facs="#facs_119_t1c6_tl_9" n="N009"/>Le Triomphe de l’amou<digitization_error>r</digitization_error>
                <lb facs="#facs_119_t1c6_tl_10" n="N010"/>En Ville
                <lb facs="#facs_119_t1c6_tl_11" n="N011"/>Comedie allemande
                <lb facs="#facs_119_t1c6_tl_12" n="N012"/>Le double Écuyer.
@@ -14343,7 +14344,7 @@
           <cell facs="#facs_120_t1c1" n="0" rend="0000">
                <lb facs="#facs_120_t1c1_tl_1" n="N001"/>Repre-
                <lb facs="#facs_120_t1c1_tl_2" n="N002"/>senta-
-               <lb facs="#facs_120_t1c1_tl_3" n="N003"/>tions</cell>
+               <lb facs="#facs_120_t1c1_tl_3" n="N003"/>tions.</cell>
           <cell facs="#facs_120_t1c2" n="1" rend="0000">
                <lb facs="#facs_120_t1c2_tl_1" n="N001"/>jours</cell>
           <cell facs="#facs_120_t1c3" n="2" rend="0000">
@@ -14436,7 +14437,7 @@
                <lb facs="#facs_122_c_44_tl_1" n="N001"/>Attori
                <lb facs="#facs_122_c_44_tl_2" n="N002"/>Ariana, Principessa di Creta
                <lb facs="#facs_122_c_44_tl_3" n="N003"/>La S.<hi style="vertical-align: superscript;">ra</hi> Mariana Bianch<supplied reason="">[...]</supplied>
-               <lb facs="#facs_122_c_44_tl_4" n="N004"/>Bacco. Sotto nome di di Lei ama<supplied reason="">[...]</supplied>
+               <lb facs="#facs_122_c_44_tl_4" n="N004"/>Bacco. Sotto nome di [...] di Lei ama<supplied reason="">[...]</supplied>
                <lb facs="#facs_122_c_44_tl_5" n="N005"/>Il S.<hi style="vertical-align: superscript;">r</hi> Gaetano Guadagn<supplied reason="">[...]</supplied>
                <lb facs="#facs_122_c_44_tl_6" n="N006"/>Fedra Sorella di Ariana
                <lb facs="#facs_122_c_44_tl_7" n="N007"/>La S.<hi style="vertical-align: superscript;">ra</hi> Teresa Giacomazzi
@@ -14449,7 +14450,7 @@
                <lb facs="#facs_122_c_44_tl_17" n="N014"/>Boccarini ainée
                <lb facs="#facs_122_c_44_tl_12" n="N015"/>Messieurs
                <lb facs="#facs_122_c_44_tl_14" n="N016"/>Angiolini
-               <lb facs="#facs_122_c_44_tl_16" n="N017"/>Turchi Cade
+               <lb facs="#facs_122_c_44_tl_16" n="N017"/>Turchi Cade<supplied reason="">[...]</supplied>
                <lb facs="#facs_122_c_44_tl_18" n="N018"/>dans le Concert
                <lb facs="#facs_122_c_44_tl_19" n="N019"/>Heloine
                <lb facs="#facs_122_c_44_tl_22" n="N020"/>Giropoldi
@@ -14461,15 +14462,15 @@
         <row n="0">
           <cell facs="#facs_123_t1c1" n="0" rend="0000">
                <lb facs="#facs_123_t1c1_tl_1" n="N001"/>Repre-
-               <lb facs="#facs_123_t1c1_tl_2" n="N002"/>enta-
-               <lb facs="#facs_123_t1c1_tl_3" n="N003"/>ons</cell>
+               <lb facs="#facs_123_t1c1_tl_2" n="N002"/>senta-
+               <lb facs="#facs_123_t1c1_tl_3" n="N003"/>tions</cell>
           <cell facs="#facs_123_t1c2" n="1" rend="0000">
                <lb facs="#facs_123_t1c2_tl_1" n="N001"/>jours</cell>
           <cell facs="#facs_123_t1c3" n="2" rend="0000">
                <lb facs="#facs_123_t1c3_tl_1" n="N001"/>Mai</cell></row>
         <row n="1">
           <cell facs="#facs_123_c_52" n="0" rend="0000">
-               <lb facs="#facs_123_c_52_tl_1" n="N001"/><hi style="text-decoration: underline;">49</hi></cell>
+               <lb facs="#facs_123_c_52_tl_1" n="N001"/><hi style="text-decoration: underline;">119</hi></cell>
           <cell facs="#facs_123_c_56" n="1" rend="0000"/>
           <cell facs="#facs_123_c_60" n="2" rend="0000">
                <lb facs="#facs_123_c_60_tl_2" n="N001"/>Mittin
@@ -14488,9 +14489,9 @@
                <lb facs="#facs_123_c_60_tl_13" n="N014"/>La belle Chasseuse
                <lb facs="#facs_123_c_60_tl_14" n="N015"/>1.<hi style="vertical-align: superscript;">r</hi> Le Retour de la Chasse
                <lb facs="#facs_123_c_60_tl_15" n="N016"/>2.<hi style="vertical-align: superscript;">de</hi> La Querelle appaisée
-               <lb facs="#facs_123_c_60_tl_16" n="N017"/>Le même jour le Comedien<digitization_error>s</digitization_error>
+               <lb facs="#facs_123_c_60_tl_16" n="N017"/>Le même jour <choice><corr>les</corr><sic>le</sic></choice> Comedien<digitization_error>s</digitization_error>
                <lb facs="#facs_123_c_60_tl_17" n="N018"/>François sont parti pour
-               <lb facs="#facs_123_c_60_tl_18" n="N019"/>Vienne</cell></row>
+               <lb facs="#facs_123_c_60_tl_18" n="N019"/>Vienne.</cell></row>
         <row n="2">
           <cell facs="#facs_123_c_53" n="0" rend="0000">
                <lb facs="#facs_123_l" n="N001"/>57'</cell>
@@ -14514,15 +14515,15 @@
                <lb facs="#facs_124_t1c5_tl_1" n="N001"/>Ven:
                <lb facs="#facs_124_t1c5_tl_2" n="N002"/>28</cell>
           <cell facs="#facs_124_t1c6" n="2" rend="0000">
-               <lb facs="#facs_124_t1c6_tl_1" n="N001"/>En ce jour sont parti de Laxen<unclear>b</unclear>
+               <lb facs="#facs_124_t1c6_tl_1" n="N001"/>En ce jour sont parti de <choice><expan>Laxenburg</expan><abbr>Laxenb</abbr></choice>
                <lb facs="#facs_124_t1c6_tl_2" n="N002"/>pour Vienne les Danceurs.
                <lb facs="#facs_124_t1c6_tl_3" n="N003"/>En Ville
                <lb facs="#facs_124_t1c6_tl_4" n="N004"/>Accademie de Musique
                <lb facs="#facs_124_t1c6_tl_5" n="N005"/>dans la quelle quelques uns
                <lb facs="#facs_124_t1c6_tl_6" n="N006"/>des Sujets qui ont eu l’honneur
                <lb facs="#facs_124_t1c6_tl_7" n="N007"/>de paroïtre dans l’Opera, se
-               <lb facs="#facs_124_t1c6_tl_8" n="N008"/>sont fait entendre dans plussieur<supplied reason="">[...]</supplied>
-               <lb facs="#facs_124_t1c6_tl_9" n="N009"/>aits, ainsi que le S.<hi style="vertical-align: superscript;">r</hi> Josephe
+               <lb facs="#facs_124_t1c6_tl_8" n="N008"/>sont fait entendre dans plusieur<supplied reason="">[...]</supplied>
+               <lb facs="#facs_124_t1c6_tl_9" n="N009"/>airs, ainsi que le S.<hi style="vertical-align: superscript;">r</hi> Josephe
                <lb facs="#facs_124_t1c6_tl_10" n="N010"/>Fribert.
                <lb facs="#facs_124_t1c6_tl_11" n="N011"/>Concert a joué
                <lb facs="#facs_124_t1c6_tl_12" n="N012"/>Le S.<hi style="vertical-align: superscript;">r</hi> Charles Ditters sur le
@@ -14530,7 +14531,7 @@
                <lb facs="#facs_124_t1c6_tl_14" n="N014"/>et
                <lb facs="#facs_124_t1c6_tl_15" n="N015"/>toutes ces Pieces ont été
                <lb facs="#facs_124_t1c6_tl_16" n="N016"/>entremelées de quelques
-               <lb facs="#facs_124_t1c6_tl_17" n="N017"/>Simphonies</cell></row>
+               <lb facs="#facs_124_t1c6_tl_17" n="N017"/>Simphonies.</cell></row>
         <row n="2">
           <cell facs="#facs_124_t1c7" n="0" rend="0000"/>
           <cell facs="#facs_124_t1c8" n="1" rend="0000"/>
@@ -14558,7 +14559,7 @@
                <lb facs="#facs_125_t1c6_tl_2" n="N002"/>feld et Rizzini sont parti de
                <lb facs="#facs_125_t1c6_tl_3" n="N003"/>Laxenburg pour Vienne
                <lb facs="#facs_125_t1c6_tl_4" n="N004"/>En Ville
-               <lb facs="#facs_125_t1c6_tl_5" n="N005"/>Odoardo presque devenie foll
+               <lb facs="#facs_125_t1c6_tl_5" n="N005"/>Odoardo presque devenu foll
                <lb facs="#facs_125_t1c6_tl_6" n="N006"/>par les Fourberies de H. W.
                <lb facs="#facs_125_t1c6_tl_7" n="N007"/>Prehause<digitization_error>r</digitization_error>
                <lb facs="#facs_125_t1c6_tl_8" n="N008"/>Ballets
@@ -20086,9 +20087,9 @@
             <table facs="#facs_250_t1">
         <row n="0">
           <cell facs="#facs_250_t1c1" n="0" rend="0000">
-               <lb facs="#facs_250_l" n="N001"/>Repre-
-               <lb facs="#facs_250_l_30" n="N002"/>senta-
-               <lb facs="#facs_250_l_46" n="N003"/>tions.</cell>
+               <lb facs="#facs_250_l" n="N001"/><digitization_error>R</digitization_error>epre-
+               <lb facs="#facs_250_l_30" n="N002"/><digitization_error>s</digitization_error>enta-
+               <lb facs="#facs_250_l_46" n="N003"/><digitization_error>t</digitization_error>ions</cell>
           <cell facs="#facs_250_t1c2" n="1" rend="0000">
                <lb facs="#facs_250_l_219" n="N001"/>jours</cell>
           <cell facs="#facs_250_t1c3" n="2" rend="0000">
@@ -20119,7 +20120,7 @@
                <lb facs="#facs_250_t1c9_tl_5" n="N005"/>Cÿthere assiegée
                <lb facs="#facs_250_t1c9_tl_6" n="N006"/>NB: Repetition de l’Opera Arta<supplied reason="">[…]</supplied>
                <lb facs="#facs_250_t1c9_tl_7" n="N007"/>serse chez le S.<hi style="vertical-align: superscript;">r</hi> Scarlatti
-               <lb facs="#facs_250_t1c9_tl_8" n="N008"/>1 Voit Rep. Com.</cell></row>
+               <lb facs="#facs_250_t1c9_tl_8" n="N008"/>1 Voit. Rep. Com.</cell></row>
         <row n="3">
           <cell facs="#facs_250_t1c10" n="0" rend="0000"/>
           <cell facs="#facs_250_t1c11" n="1" rend="0000">
@@ -20128,7 +20129,7 @@
           <cell facs="#facs_250_t1c12" n="2" rend="0000">
                <lb facs="#facs_250_t1c12_tl_1" n="N001"/>Le matin
                <lb facs="#facs_250_t1c12_tl_2" n="N002"/>Repetition de l’Opera Comique
-               <lb facs="#facs_250_t1c12_tl_3" n="N003"/>Le Pretendee chez S. E.
+               <lb facs="#facs_250_t1c12_tl_3" n="N003"/>Le Pretendu chez S. E.
                <lb facs="#facs_250_l_562" n="N004"/>121</cell></row></table>
             <pb facs="#facs_251" n="251" xml:id="img_0251"/>
             <table facs="#facs_251_t1">
@@ -20154,7 +20155,7 @@
                <lb facs="#facs_251_t1c6_tl_8" n="N006"/>La Sig.<hi style="vertical-align: superscript;">ra</hi> Violante Masi
                <lb facs="#facs_251_t1c6_tl_9" n="N007"/>Il Sig.<hi style="vertical-align: superscript;">e</hi> Carlo Nicolini
                <lb facs="#facs_251_t1c6_tl_10" n="N008"/>Concert a joue
-               <lb facs="#facs_251_t1c6_tl_11" n="N009"/>Il S.<hi style="vertical-align: superscript;">r</hi> Ant.<hi style="vertical-align: superscript;">o</hi> Vallotti sur le Violoncel
+               <lb facs="#facs_251_t1c6_tl_11" n="N009"/>Il S.<hi style="vertical-align: superscript;">r</hi> Ant.<hi style="vertical-align: superscript;">o</hi> Vallotti sur le Violonce<digitization_error>l</digitization_error>
                <lb facs="#facs_251_t1c6_tl_12" n="N010"/>1 Voit. Rep. Co<digitization_error>m</digitization_error></cell></row>
         <row n="2">
           <cell facs="#facs_251_c_55" n="0" rend="0000">
@@ -20167,10 +20168,10 @@
                <lb facs="#facs_251_c_63_tl_2" n="N002"/>Paphnutius
                <lb facs="#facs_251_c_63_tl_3" n="N003"/>Weiskern
                <lb facs="#facs_251_c_63_tl_4" n="N004"/>ou
-               <lb facs="#facs_251_c_63_tl_5" n="N005"/>Le Paisan amoureux. p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fo<digitization_error>is.</digitization_error>
+               <lb facs="#facs_251_c_63_tl_5" n="N005"/>Le Païsan amoureux. p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fo<digitization_error>is.</digitization_error>
                <lb facs="#facs_251_c_63_tl_6" n="N006"/>Ballets
                <lb facs="#facs_251_c_63_tl_7" n="N007"/>1.<hi style="vertical-align: superscript;">r</hi> L’Amant Magicien
-               <lb facs="#facs_251_c_63_tl_8" n="N008"/>2.<hi style="vertical-align: superscript;">de</hi> Une Fête moresqué
+               <lb facs="#facs_251_c_63_tl_8" n="N008"/>2.<hi style="vertical-align: superscript;">de</hi> Une Fête moresque
                <lb facs="#facs_251_c_63_tl_9" n="N009"/>1. Voit. Rep. Co<digitization_error>m.</digitization_error></cell></row>
         <row n="3">
           <cell facs="#facs_251_c_56" n="0" rend="0000">
@@ -20185,7 +20186,7 @@
                <lb facs="#facs_252_t1c1_tl_2" n="N002"/>senta-
                <lb facs="#facs_252_t1c4_tl_1" n="N003"/>tions</cell>
           <cell facs="#facs_252_t1c2" n="1" rend="0000">
-               <lb facs="#facs_252_t1c2_tl_1" n="N001"/>jour</cell>
+               <lb facs="#facs_252_t1c2_tl_1" n="N001"/>jours</cell>
           <cell facs="#facs_252_t1c3" n="2" rend="0000">
                <lb facs="#facs_252_t1c3_tl_1" n="N001"/>Decembre</cell></row>
         <row n="1">
@@ -20201,7 +20202,7 @@
                <lb facs="#facs_252_t1c6_tl_4" n="N004"/>C. en V. et en 5. A. par M.<hi style="vertical-align: superscript;">r</hi> de Boissÿ
                <lb facs="#facs_252_t1c6_tl_5" n="N005"/>suivie
                <lb facs="#facs_252_t1c6_tl_6" n="N006"/>de la 17.<hi style="vertical-align: superscript;">me</hi> Representation
-               <lb facs="#facs_252_t1c6_tl_7" n="N007"/>d’Orphee, et Euridice
+               <lb facs="#facs_252_t1c6_tl_7" n="N007"/>d’Orphee et Euridice
                <lb facs="#facs_252_t1c6_tl_8" n="N008"/>mais pendant qu’on jouoit la
                <lb facs="#facs_252_t1c6_tl_9" n="N009"/>Comedie est venû l’ordre de S. M.
                <lb facs="#facs_252_t1c6_tl_10" n="N010"/>que quand sera fini la Comedie
@@ -20209,8 +20210,8 @@
                <lb facs="#facs_252_t1c6_tl_12" n="N012"/>raison en a été que l’Archidu-
                <lb facs="#facs_252_t1c6_tl_13" n="N013"/>chesse janette Gabrielle est
                <lb facs="#facs_252_t1c6_tl_14" n="N014"/>devenuë tant malade qu’on lu<supplied reason="">[…]</supplied>
-               <lb facs="#facs_252_t1c6_tl_15" n="N015"/>a porté les S.<hi style="vertical-align: superscript;">t</hi> Sacremens
-               <lb facs="#facs_252_t1c6_tl_16" n="N016"/>1 Voit Rep. Com.</cell></row>
+               <lb facs="#facs_252_t1c6_tl_15" n="N015"/>a porté les S.<hi style="vertical-align: superscript;">ts</hi> Sacremens
+               <lb facs="#facs_252_t1c6_tl_16" n="N016"/>1 Voit. Rep. Com.</cell></row>
         <row n="2">
           <cell facs="#facs_252_t1c7" n="0" rend="0000"/>
           <cell facs="#facs_252_t1c8" n="1" rend="0000">
@@ -20219,7 +20220,7 @@
           <cell facs="#facs_252_t1c9" n="2" rend="0000">
                <lb facs="#facs_252_t1c9_tl_1" n="N001"/>Le matin
                <lb facs="#facs_252_t1c9_tl_2" n="N002"/>Repetition de la Com. Françoise
-               <lb facs="#facs_252_t1c9_tl_3" n="N003"/>Rep.<hi style="vertical-align: superscript;">n</hi> gnle d’un nouveau Ballet
+               <lb facs="#facs_252_t1c9_tl_3" n="N003"/>Rep.<hi style="vertical-align: superscript;">n</hi> <choice><expan>generale</expan><abbr>gnle</abbr></choice> d’un nouveau Ballet
                <lb facs="#facs_252_t1c9_tl_4" n="N004"/>et
                <lb facs="#facs_252_t1c9_tl_5" n="N005"/>122</cell></row></table>
             <pb facs="#facs_253" n="253" xml:id="img_0253"/>
@@ -20253,12 +20254,12 @@
                <lb facs="#facs_253_t1c6_tl_12" n="N012"/>1 Voit. Rep. Com.
                <lb facs="#facs_253_t1c6_tl_13" n="N013"/>Le même jour la Trouppe des
                <lb facs="#facs_253_t1c6_tl_14" n="N014"/>Sauteurs ont joué pour la
-               <lb facs="#facs_253_t1c6_tl_15" n="N015"/>derniere fois dans le Ball-haus
-               <lb facs="#facs_253_t1c6_tl_16" n="N016"/>pres les Franciscaner. ainsi
-               <lb facs="#facs_253_t1c6_tl_17" n="N017"/>ont joué depuis le 14 No<unclear>v</unclear>
-               <lb facs="#facs_253_t1c6_tl_18" n="N018"/>jusqu’au 6. xbre tous les jours
+               <lb facs="#facs_253_t1c6_tl_15" n="N015"/>derniere fois dans le Ball-hau<digitization_error>s</digitization_error>
+               <lb facs="#facs_253_t1c6_tl_16" n="N016"/>près les Franciscaner. ainsi
+               <lb facs="#facs_253_t1c6_tl_17" n="N017"/>ont joué depuis le 14 <choice><expan>Novembre</expan><abbr>Nov</abbr></choice>
+               <lb facs="#facs_253_t1c6_tl_18" n="N018"/>jusqu’au 6. <choice><expan>Decembre</expan><abbr>Xbre</abbr></choice> tous les jours
                <lb facs="#facs_253_t1c6_tl_19" n="N019"/>excepté les Vendredi, et les jours
-               <lb facs="#facs_253_t1c6_tl_20" n="N020"/>qu’il n’y avoit pas spectaele au
+               <lb facs="#facs_253_t1c6_tl_20" n="N020"/>qu’il n’y avoit pas spectacle au
                <lb facs="#facs_253_l" n="N021"/>Theatre <supplied reason="">pr</supplied>ès de la Cour<supplied reason="">[…]</supplied></cell></row></table>
             <pb facs="#facs_254" n="254" xml:id="img_0254"/>
             <table facs="#facs_254_t1">
@@ -20274,7 +20275,7 @@
         <row n="1">
           <cell facs="#facs_254_t1c4" n="0" rend="0000"/>
           <cell facs="#facs_254_t1c5" n="1" rend="0000">
-               <lb facs="#facs_254_t1c5_tl_1" n="N001"/>Mar
+               <lb facs="#facs_254_t1c5_tl_1" n="N001"/>Mar.
                <lb facs="#facs_254_t1c5_tl_2" n="N002"/>7.</cell>
           <cell facs="#facs_254_t1c6" n="2" rend="0000">
                <lb facs="#facs_254_t1c6_tl_1" n="N001"/>Rien. La Veille
@@ -20287,7 +20288,7 @@
                <lb facs="#facs_254_t1c6_tl_8" n="N008"/>Le Soir
                <lb facs="#facs_254_t1c6_tl_9" n="N009"/>Repetition d’un nouveau Ballet
                <lb facs="#facs_254_t1c6_tl_10" n="N010"/>pour la Com. allemande
-               <lb facs="#facs_254_t1c6_tl_11" n="N011"/>1 Voit et 1 Chaise à por<supplied reason="">[…]</supplied></cell></row>
+               <lb facs="#facs_254_t1c6_tl_11" n="N011"/>1 Voit. et 1 Chaise à por<supplied reason="">[…]</supplied></cell></row>
         <row n="2">
           <cell facs="#facs_254_t1c7" n="0" rend="0000"/>
           <cell facs="#facs_254_t1c8" n="1" rend="0000">
@@ -20321,11 +20322,11 @@
           <cell facs="#facs_255_t1c5" n="1" rend="0000"/>
           <cell facs="#facs_255_t1c6" n="2" rend="0000">
                <lb facs="#facs_255_t1c6_tl_1" n="N001"/>La Galante Pelerine
-               <lb facs="#facs_255_t1c6_tl_2" n="N002"/>3 Ballets
+               <lb facs="#facs_255_t1c6_tl_2" n="N002"/>3 Ballets.
                <lb facs="#facs_255_t1c6_tl_3" n="N003"/>1.<hi style="vertical-align: superscript;">r</hi> L’Amant magicien
                <lb facs="#facs_255_t1c6_tl_4" n="N004"/>2.<hi style="vertical-align: superscript;">de</hi> Nouveau ce pantomine de
                <lb facs="#facs_255_t1c6_tl_5" n="N005"/>la composition du S.<hi style="vertical-align: superscript;">r</hi> Calzava<digitization_error>ra</digitization_error>
-               <lb facs="#facs_255_t1c6_tl_6" n="N006"/>L’Avare trompe.
+               <lb facs="#facs_255_t1c6_tl_6" n="N006"/>L’Avare trompé.
                <lb facs="#facs_255_t1c6_tl_7" n="N007"/>3.<hi style="vertical-align: superscript;">me</hi> La Fête moresque.</cell></row>
         <row n="2">
           <cell facs="#facs_255_t1c7" n="0" rend="0000">
@@ -20342,7 +20343,7 @@
                <lb facs="#facs_255_t1c9_tl_7" n="N006"/>d’Orphée et Euridice
                <lb facs="#facs_255_t1c9_tl_8" n="N007"/>avec
                <lb facs="#facs_255_t1c9_tl_9" n="N008"/>Son Spectacle, et 4 Ballets
-               <lb facs="#facs_255_t1c9_tl_10" n="N009"/>1 Vois. Rep. Ball<digitization_error>.</digitization_error></cell></row>
+               <lb facs="#facs_255_t1c9_tl_10" n="N009"/>1 Voit. Rep. Ball<digitization_error>.</digitization_error></cell></row>
         <row n="3">
           <cell facs="#facs_255_t1c10" n="0" rend="0000">
                <lb facs="#facs_255_l" n="N001"/>123'</cell>
@@ -20373,7 +20374,7 @@
                <lb facs="#facs_256_t1c6_tl_5" n="N005"/>Il Sig.<hi style="vertical-align: superscript;">e</hi> Nicolini et
                <lb facs="#facs_256_t1c6_tl_6" n="N006"/>Il Sig.<hi style="vertical-align: superscript;">re</hi> Fribert
                <lb facs="#facs_256_t1c6_tl_7" n="N007"/>Concert ont joué
-               <lb facs="#facs_256_t1c6_tl_8" n="N008"/>Le 1.<hi style="vertical-align: superscript;">r</hi> Leitgeb sur le Cor de Chasse
+               <lb facs="#facs_256_t1c6_tl_8" n="N008"/>Le S.<hi style="vertical-align: superscript;">r</hi> Leitgeb sur le Cor de Chasse
                <lb facs="#facs_256_t1c6_tl_9" n="N009"/>La S.<hi style="vertical-align: superscript;">r</hi> Timme sur le Basson
                <lb facs="#facs_256_t1c6_tl_10" n="N010"/>NB: Repetition de l’Opera chez
                <lb facs="#facs_256_t1c6_tl_11" n="N011"/>S. E.
@@ -20415,20 +20416,21 @@
                <lb facs="#facs_257_t1c6_tl_2" n="N002"/>Le Capitain Bomben Knall
                <lb facs="#facs_257_t1c6_tl_3" n="N003"/>suivie
                <lb facs="#facs_257_t1c6_tl_4" n="N004"/>des exercices et de la force de l<digitization_error>a</digitization_error>
-               <lb facs="#facs_257_t1c6_tl_5" n="N005"/>Trouppe des Sauteurs. p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fo<digitization_error>is</digitization_error>
-               <lb facs="#facs_257_t1c6_tl_6" n="N006"/>Le S.<hi style="vertical-align: superscript;">r</hi> Turquette a fait un
-               <lb facs="#facs_257_t1c6_tl_7" n="N007"/>saute mortel sur 4. cheveau<digitization_error>x</digitization_error>
-               <lb facs="#facs_257_t1c6_tl_8" n="N008"/>portans chacun un homme.
-               <lb facs="#facs_257_t1c6_tl_9" n="N009"/>Le Spectacle a terminé avec <digitization_error>2</digitization_error>
-               <lb facs="#facs_257_t1c6_tl_10" n="N010"/>Pantomimes: la 1.<hi style="vertical-align: superscript;">re</hi> le rapt d<digitization_error>e</digitization_error>
-               <lb facs="#facs_257_t1c6_tl_11" n="N011"/>la Colombine: et le 2.<hi style="vertical-align: superscript;">de</hi> la
-               <lb facs="#facs_257_t1c6_tl_12" n="N012"/>marmotte, enemie d’arlequin
-               <lb facs="#facs_257_t1c6_tl_13" n="N013"/>1 Voit. Rep. Ball.</cell></row>
+               <lb facs="#facs_257_l_2" n="N005"/>Trouppe des Sauteurs.
+               <lb facs="#facs_257_l_1" n="N006"/> p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fo<digitization_error>is</digitization_error>
+               <lb facs="#facs_257_t1c6_tl_6" n="N007"/>Le S.<hi style="vertical-align: superscript;">r</hi> Turquette a fait un
+               <lb facs="#facs_257_t1c6_tl_7" n="N008"/>saute mortel sur 4 chevea<digitization_error>ux</digitization_error>
+               <lb facs="#facs_257_t1c6_tl_8" n="N009"/>portans chacun un homme.
+               <lb facs="#facs_257_t1c6_tl_9" n="N010"/>Le Spectacle a terminé avec <digitization_error>2</digitization_error>
+               <lb facs="#facs_257_t1c6_tl_10" n="N011"/>Pantomimes: la 1.<hi style="vertical-align: superscript;">re</hi> le rapt d<digitization_error>e</digitization_error>
+               <lb facs="#facs_257_t1c6_tl_11" n="N012"/>la Colombine: et le 2.<hi style="vertical-align: superscript;">de</hi> la
+               <lb facs="#facs_257_t1c6_tl_12" n="N013"/>marmotte, enemie d’arlequin
+               <lb facs="#facs_257_t1c6_tl_13" n="N014"/>1 Voit. Rep. Ball.</cell></row>
         <row n="2">
           <cell facs="#facs_257_t1c7" n="0" rend="0000">
                <lb facs="#facs_257_l" n="N001"/>124'</cell>
           <cell facs="#facs_257_t1c8" n="1" rend="0000">
-               <lb facs="#facs_257_t1c8_tl_1" n="N001"/>Lun
+               <lb facs="#facs_257_t1c8_tl_1" n="N001"/>Lun.
                <lb facs="#facs_257_t1c8_tl_2" n="N002"/>13</cell>
           <cell facs="#facs_257_t1c9" n="2" rend="0000">
                <lb facs="#facs_257_t1c9_tl_1" n="N001"/>Le matin
@@ -20454,14 +20456,15 @@
                <lb facs="#facs_258_t1c4_tl_1" n="N001"/><hi style="text-decoration: underline;">313</hi></cell>
           <cell facs="#facs_258_t1c5" n="1" rend="0000"/>
           <cell facs="#facs_258_t1c6" n="2" rend="0000">
-               <lb facs="#facs_258_l" n="N001"/>Tancrede p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fois
-               <lb facs="#facs_258_t1c6_tl_3" n="N002"/>Tragedie de Mons.<hi style="vertical-align: superscript;">r</hi> de Voltaire
-               <lb facs="#facs_258_t1c6_tl_4" n="N003"/>suivie
-               <lb facs="#facs_258_t1c6_tl_5" n="N004"/>des amours de Bastien et Bastienn<supplied reason="">[…]</supplied>
-               <lb facs="#facs_258_t1c6_tl_6" n="N005"/>Op. Com.
-               <lb facs="#facs_258_t1c6_tl_7" n="N006"/>Ballet
-               <lb facs="#facs_258_t1c6_tl_8" n="N007"/>Les avantures au Serail
-               <lb facs="#facs_258_t1c6_tl_9" n="N008"/>2 Voitures.</cell></row>
+               <lb facs="#facs_258_l_2" n="N001"/>Tancrede.
+               <lb facs="#facs_258_l_1" n="N002"/>p.<hi style="vertical-align: superscript;">r</hi> la 1.<hi style="vertical-align: superscript;">re</hi> fois
+               <lb facs="#facs_258_t1c6_tl_3" n="N003"/>Tragedie de Mons.<hi style="vertical-align: superscript;">r</hi> de Voltaire
+               <lb facs="#facs_258_t1c6_tl_4" n="N004"/>suivie
+               <lb facs="#facs_258_t1c6_tl_5" n="N005"/>des amours de Bastien et Bastienn<supplied reason="">[…]</supplied>
+               <lb facs="#facs_258_t1c6_tl_6" n="N006"/>Op. Com.
+               <lb facs="#facs_258_t1c6_tl_7" n="N007"/>Ballet
+               <lb facs="#facs_258_t1c6_tl_8" n="N008"/>Les avantures au Serail
+               <lb facs="#facs_258_t1c6_tl_9" n="N009"/>2 Voitures.</cell></row>
         <row n="2">
           <cell facs="#facs_258_t1c7" n="0" rend="0000">
                <lb facs="#facs_258_t1c7_tl_1" n="N001"/><hi style="text-decoration: underline;">314</hi></cell>
@@ -20482,7 +20485,7 @@
                <lb facs="#facs_258_t1c9_tl_10" n="N011"/>Trouppe des Sauteurs
                <lb facs="#facs_258_t1c9_tl_11" n="N012"/>Le S.<hi style="vertical-align: superscript;">r</hi> Turquetto a fait le grand
                <lb facs="#facs_258_l_508" n="N013"/>Saut perilleux au travers du
-               <lb facs="#facs_258_t1c9_tl_14" n="N014"/><unclear>T</unclear>oneaux.
+               <lb facs="#facs_258_t1c9_tl_14" n="N014"/>Toneaux.
                <lb facs="#facs_258_l_728" n="N015"/>125</cell></row></table>
             <pb facs="#facs_259" n="259" xml:id="img_0259"/>
             <table facs="#facs_259_t1">
@@ -20498,13 +20501,13 @@
         <row n="1">
           <cell facs="#facs_259_t1c4" n="0" rend="0000"/>
           <cell facs="#facs_259_t1c5" n="1" rend="0000">
-               <lb facs="#facs_259_t1c5_tl_1" n="N001"/>Mar.
+               <lb facs="#facs_259_t1c5_tl_1" n="N001"/>Mer.
                <lb facs="#facs_259_t1c5_tl_2" n="N002"/>15</cell>
           <cell facs="#facs_259_t1c6" n="2" rend="0000">
-               <lb facs="#facs_259_t1c6_tl_1" n="N001"/>Relache au Theatre jusqu’an 26
+               <lb facs="#facs_259_t1c6_tl_1" n="N001"/>Relache au Theatre jusqu’au 26
                <lb facs="#facs_259_t1c6_tl_2" n="N002"/>Le matin
                <lb facs="#facs_259_t1c6_tl_3" n="N003"/>Repetition Recitative de l’Opera
-               <lb facs="#facs_259_t1c6_tl_4" n="N004"/>et.
+               <lb facs="#facs_259_t1c6_tl_4" n="N004"/>et
                <lb facs="#facs_259_t1c6_tl_5" n="N005"/>Repetition des Ballets.
                <lb facs="#facs_259_t1c6_tl_6" n="N006"/>2 Voitures.</cell></row>
         <row n="2">
@@ -20517,8 +20520,8 @@
                <lb facs="#facs_259_t1c9_tl_2" n="N002"/>Repetition des Ballets, et
                <lb facs="#facs_259_t1c9_tl_3" n="N003"/>de la Comedie francoise
                <lb facs="#facs_259_t1c9_tl_4" n="N004"/>Le soir
-               <lb facs="#facs_259_t1c9_tl_5" n="N005"/>au Theutre des Ballets
-               <lb facs="#facs_259_t1c9_tl_6" n="N006"/>Chez S.E. de l’Opera avec tout<digitization_error>e</digitization_error>
+               <lb facs="#facs_259_t1c9_tl_5" n="N005"/>au Theatre des Ballets
+               <lb facs="#facs_259_t1c9_tl_6" n="N006"/>chez S. E. de l’Opera avec tout<digitization_error>e</digitization_error>
                <lb facs="#facs_259_t1c9_tl_7" n="N007"/>l’Orchestre.
                <lb facs="#facs_259_t1c9_tl_8" n="N008"/>2 Voitures</cell></row>
         <row n="3">
@@ -20528,10 +20531,10 @@
                <lb facs="#facs_259_t1c11_tl_2" n="N002"/>17.</cell>
           <cell facs="#facs_259_c_73" n="2" rend="0000">
                <lb facs="#facs_259_t1c12_tl_1" n="N001"/>Le matin
-               <lb facs="#facs_259_t1c12_tl_2" n="N002"/>Repetition des Ballets de l’Opera
+               <lb facs="#facs_259_t1c12_tl_2" n="N002"/>Repetition des Ballets de l’Oper<digitization_error>a</digitization_error>
                <lb facs="#facs_259_t1c12_tl_3" n="N003"/>Le soir
                <lb facs="#facs_259_t1c12_tl_4" n="N004"/>Repetition d’un Ballet pour
-               <lb facs="#facs_259_t1c12_tl_5" n="N005"/>la Comedie allemande.
+               <lb facs="#facs_259_t1c12_tl_5" n="N005"/>la Comedie allemande
                <lb facs="#facs_259_t1c12_tl_6" n="N006"/>1. Voiture.</cell></row>
         <row n="4">
           <cell facs="#facs_259_c_70" n="0" rend="0000">
@@ -20557,7 +20560,7 @@
           <cell facs="#facs_260_t1c6" n="2" rend="0000">
                <lb facs="#facs_260_t1c6_tl_1" n="N001"/>Le matin
                <lb facs="#facs_260_t1c6_tl_2" n="N002"/>Repetition des Ballets, et
-               <lb facs="#facs_260_t1c6_tl_3" n="N003"/>de l’Opera Comi<unclear>q</unclear> le Pretendû
+               <lb facs="#facs_260_t1c6_tl_3" n="N003"/>de l’Opera <choice><expan>Comique</expan><abbr>Comiq</abbr></choice> le Pretendû
                <lb facs="#facs_260_t1c6_tl_4" n="N004"/>Le Soir
                <lb facs="#facs_260_t1c6_tl_5" n="N005"/>Chez S. E. Repetition de l’Opera
                <lb facs="#facs_260_t1c6_tl_6" n="N006"/>Ital.
@@ -20572,7 +20575,7 @@
         <row n="3">
           <cell facs="#facs_260_t1c10" n="0" rend="0000"/>
           <cell facs="#facs_260_t1c11" n="1" rend="0000">
-               <lb facs="#facs_260_t1c11_tl_1" n="N001"/>Lun
+               <lb facs="#facs_260_t1c11_tl_1" n="N001"/>Lun.
                <lb facs="#facs_260_t1c11_tl_2" n="N002"/>20</cell>
           <cell facs="#facs_260_t1c12" n="2" rend="0000">
                <lb facs="#facs_260_t1c12_tl_1" n="N001"/>Le matin
@@ -20607,7 +20610,7 @@
           <cell facs="#facs_261_t1c4" n="0" rend="0000"/>
           <cell facs="#facs_261_t1c5" n="1" rend="0000">
                <lb facs="#facs_261_t1c5_tl_1" n="N001"/>Mer.
-               <lb facs="#facs_261_t1c5_tl_2" n="N002"/>22</cell>
+               <lb facs="#facs_261_t1c5_tl_2" n="N002"/>22.</cell>
           <cell facs="#facs_261_t1c6" n="2" rend="0000">
                <lb facs="#facs_261_t1c6_tl_1" n="N001"/>Le matin
                <lb facs="#facs_261_t1c6_tl_2" n="N002"/>Repetition des Ballets, et
@@ -20616,7 +20619,7 @@
                <lb facs="#facs_261_t1c6_tl_5" n="N005"/>Le Soir
                <lb facs="#facs_261_t1c6_tl_6" n="N006"/>Repetition de l’Opera Ital. ave<digitization_error>c</digitization_error>
                <lb facs="#facs_261_t1c6_tl_7" n="N007"/>toute l’Orchestre chez S. E.
-               <lb facs="#facs_261_t1c6_tl_8" n="N008"/>2 Voitures</cell></row>
+               <lb facs="#facs_261_t1c6_tl_8" n="N008"/>2 Voitures.</cell></row>
         <row n="2">
           <cell facs="#facs_261_t1c7" n="0" rend="0000"/>
           <cell facs="#facs_261_t1c8" n="1" rend="0000">
@@ -20631,7 +20634,7 @@
                <lb facs="#facs_261_t1c9_tl_6" n="N006"/>2 Voitures.
                <lb facs="#facs_261_t1c9_tl_7" n="N007"/>NB: Le même jour à
                <lb facs="#facs_261_t1c9_tl_8" n="N008"/>4 1/2 heures l’Archidu-
-               <lb facs="#facs_261_t1c9_tl_9" n="N009"/>chesse est morté.</cell></row>
+               <lb facs="#facs_261_t1c9_tl_9" n="N009"/>chesse est morte.</cell></row>
         <row n="3">
           <cell facs="#facs_261_t1c10" n="0" rend="0000">
                <lb facs="#facs_261_t1c10_tl_1" n="N001"/>126'</cell>
@@ -20645,7 +20648,7 @@
             <table facs="#facs_262_t1">
         <row n="0">
           <cell facs="#facs_262_t1c1" n="0" rend="0000">
-               <lb facs="#facs_262_t1c1_tl_1" n="N001"/>Repre-
+               <lb facs="#facs_262_t1c1_tl_1" n="N001"/><supplied reason="">R</supplied>epre-
                <lb facs="#facs_262_t1c1_tl_2" n="N002"/>senta-
                <lb facs="#facs_262_t1c1_tl_3" n="N003"/>tions.</cell>
           <cell facs="#facs_262_t1c2" n="1" rend="0000">
@@ -20660,7 +20663,7 @@
                <lb facs="#facs_262_t1c6_tl_2" n="N002"/>mais S. E. a donné contre
                <lb facs="#facs_262_t1c6_tl_3" n="N003"/>Ordre, et on a fait la Repe-
                <lb facs="#facs_262_t1c6_tl_4" n="N004"/>tition à la maison de S. E.
-               <lb facs="#facs_262_t1c6_tl_5" n="N005"/>avec 3 Violons et une Bassé<supplied reason="">[...]</supplied>
+               <lb facs="#facs_262_t1c6_tl_5" n="N005"/>avec 3 Violons et une Basse<supplied reason="">[...]</supplied>
                <lb facs="#facs_262_t1c9_tl_1" n="N006"/>2 Voitures</cell></row>
         <row n="2">
           <cell facs="#facs_262_t1c7" n="0" rend="0000"/>
@@ -20681,9 +20684,9 @@
                <lb facs="#facs_262_t1c12_tl_4" n="N004"/>Repetition Recitative de l’Opera
                <lb facs="#facs_262_t1c12_tl_5" n="N005"/>dans la Sale du jeu.
                <lb facs="#facs_262_t1c12_tl_6" n="N006"/>Le Soir
-               <lb facs="#facs_262_t1c12_tl_7" n="N007"/>Repétition au Theatre d’un
+               <lb facs="#facs_262_t1c12_tl_7" n="N007"/>Repetition au Theatre d’un
                <lb facs="#facs_262_t1c12_tl_8" n="N008"/>pas de trois.
-               <lb facs="#facs_262_t1c12_tl_9" n="N009"/>NB: Le même jour on auvoit
+               <lb facs="#facs_262_t1c12_tl_9" n="N009"/>NB: Le même jour on auroit
                <lb facs="#facs_262_l" n="N010"/>127</cell></row></table>
             <pb facs="#facs_263" n="263" xml:id="img_0263"/>
             <table facs="#facs_263_t1">
@@ -20700,19 +20703,19 @@
           <cell facs="#facs_263_c_44" n="0" rend="0000"/>
           <cell facs="#facs_263_c_45" n="1" rend="0000"/>
           <cell facs="#facs_263_t1c4" n="2" rend="0000">
-               <lb facs="#facs_263_t1c4_tl_1" n="N001"/>donné le 1.<hi style="vertical-align: superscript;">r</hi> Spectacle mais
+               <lb facs="#facs_263_t1c4_tl_1" n="N001"/>donné le 1.<hi style="vertical-align: superscript;">r</hi> Spectacle mai<digitization_error>s</digitization_error>
                <lb facs="#facs_263_t1c4_tl_2" n="N002"/>par amour de cette mort
                <lb facs="#facs_263_t1c4_tl_3" n="N003"/>il n’y avoit Rien.
                <lb facs="#facs_263_t1c4_tl_4" n="N004"/>2 Voitures</cell></row>
         <row n="2">
           <cell facs="#facs_263_c_46" n="0" rend="0000"/>
           <cell facs="#facs_263_c_47" n="1" rend="0000">
-               <lb facs="#facs_263_t1c5_tl_1" n="N001"/>Lun
+               <lb facs="#facs_263_t1c5_tl_1" n="N001"/>Lun.
                <lb facs="#facs_263_t1c5_tl_2" n="N002"/>27.</cell>
           <cell facs="#facs_263_t1c6" n="2" rend="0000">
                <lb facs="#facs_263_t1c6_tl_1" n="N001"/>Rien. p.<hi style="vertical-align: superscript;">r</hi> la même Raison.
                <lb facs="#facs_263_t1c6_tl_2" n="N002"/>Le matin
-               <lb facs="#facs_263_t1c6_tl_3" n="N003"/>Repetition ces Ballets.
+               <lb facs="#facs_263_t1c6_tl_3" n="N003"/>Repetition des Ballets.
                <lb facs="#facs_263_t1c6_tl_4" n="N004"/>Le soir
                <lb facs="#facs_263_t1c6_tl_5" n="N005"/>à 6 heures l’enterrement
                <lb facs="#facs_263_t1c6_tl_6" n="N006"/>de S. A. R. l’Archiduchesse
@@ -20757,15 +20760,15 @@
                <lb facs="#facs_264_t1c8_tl_2" n="N002"/>29</cell>
           <cell facs="#facs_264_t1c9" n="2" rend="0000">
                <lb facs="#facs_264_t1c9_tl_1" n="N001"/>Le matin
-               <lb facs="#facs_264_t1c9_tl_2" n="N002"/>Repetition des Ballets
+               <lb facs="#facs_264_t1c9_tl_2" n="N002"/>Repetition des Ballets,
                <lb facs="#facs_264_t1c9_tl_3" n="N003"/>Le Soir
-               <lb facs="#facs_264_t1c9_tl_4" n="N004"/>Repotition de l’Opera avec
+               <lb facs="#facs_264_t1c9_tl_4" n="N004"/>Repetition de l’Opera avec
                <lb facs="#facs_264_t1c9_tl_5" n="N005"/>toute l’Orchestre.
-               <lb facs="#facs_264_t1c9_tl_6" n="N006"/>2. Voitures</cell></row>
+               <lb facs="#facs_264_t1c9_tl_6" n="N006"/>2 Voitures</cell></row>
         <row n="3">
           <cell facs="#facs_264_c" n="0" rend="0000"/>
           <cell facs="#facs_264_c_235" n="1" rend="0000">
-               <lb facs="#facs_264_t1c11_tl_1" n="N001"/>jeu
+               <lb facs="#facs_264_t1c11_tl_1" n="N001"/>jeu.
                <lb facs="#facs_264_t1c11_tl_2" n="N002"/>30</cell>
           <cell facs="#facs_264_c_237" n="2" rend="0000">
                <lb facs="#facs_264_t1c12_tl_1" n="N001"/>Le matin
@@ -20805,15 +20808,15 @@
                <lb facs="#facs_265_t1c6_tl_6" n="N006"/>generale de l’Opera; mais
                <lb facs="#facs_265_t1c6_tl_7" n="N007"/>le S.<hi style="vertical-align: superscript;">r</hi> Guadagni étant venû
                <lb facs="#facs_265_t1c6_tl_8" n="N008"/>malade a fait changer tout<digitization_error>e</digitization_error>
-               <lb facs="#facs_265_t1c6_tl_9" n="N009"/>l’idée avec la Representatio<digitization_error>n</digitization_error>
+               <lb facs="#facs_265_t1c6_tl_9" n="N009"/>l’idée avec la Representation
                <lb facs="#facs_265_t1c6_tl_10" n="N010"/>d’une Comedie allemande
                <lb facs="#facs_265_t1c6_tl_11" n="N011"/>et trois grands Ballets pou<digitization_error>r</digitization_error>
-               <lb facs="#facs_265_l" n="N012"/>le jour de demin. Par
+               <lb facs="#facs_265_l" n="N012"/>le jour de <choice><corr>demain</corr><sic>demin</sic></choice>. Par
                <lb facs="#facs_265_t1c6_tl_14" n="N013"/>consequence on a repeté les
-               <lb facs="#facs_265_t1c6_tl_15" n="N014"/>Ballets, et avcc cette Repeti-
+               <lb facs="#facs_265_t1c6_tl_15" n="N014"/>Ballets, et avec cette Repeti-
                <lb facs="#facs_265_t1c6_tl_16" n="N015"/>tion nous avons fini avec la
                <lb facs="#facs_265_t1c6_tl_17" n="N016"/>grace du bon Dieu cette Anné<digitization_error>e</digitization_error>
-               <lb facs="#facs_265_t1c6_tl_18" n="N017"/>Se Deum laudamus.</cell></row></table>
+               <lb facs="#facs_265_t1c6_tl_18" n="N017"/>Te Deum laudamus.</cell></row></table>
             <pb facs="#facs_266" n="266" xml:id="img_0266"/>
             <ab facs="#facs_266_tr_1" type="">
                <lb facs="#facs_266_tr_1_tl_1" n="N001"/>Nombre des Representations qu’on a
@@ -20841,12 +20844,12 @@
                <lb facs="#facs_267_tr_1_tl_1" n="N001"/>Combien
                <lb facs="#facs_267_tr_1_tl_2" n="N002"/>des Tragedies, Comedies en 1, 2, 3, 5. Act<digitization_error>es</digitization_error>
                <lb facs="#facs_267_tr_1_tl_3" n="N003"/>Opera Comiques, Tragedies, Comedies, et
-               <lb facs="#facs_267_tr_1_tl_4" n="N004"/>Tragedies nouvelles qui on a donné
+               <lb facs="#facs_267_tr_1_tl_4" n="N004"/>Tragedies nouvelles qu’on a donné
                <lb facs="#facs_267_l_2" n="N005"/>Tragedies nouvelles
                <lb facs="#facs_267_l_4" n="N006"/>Tragedies en tout
                <lb facs="#facs_267_l_6" n="N007"/>Comedies nouvelles
                <lb facs="#facs_267_l_8" n="N008"/>Comedies en 5 Actes
-               <lb facs="#facs_267_l_10" n="N009"/>Comedies en 3. A.
+               <lb facs="#facs_267_l_10" n="N009"/>Comedies en 3 A.
                <lb facs="#facs_267_l_12" n="N010"/>Comedies en 2 A.
                <lb facs="#facs_267_l_14" n="N011"/>Comedies en 1 A.
                <lb facs="#facs_267_tr_1_tl_17" n="N012"/>Opera Comiques nouvelles
@@ -20866,24 +20869,23 @@
             <pb facs="#facs_268" n="268" xml:id="img_0268"/>
             <ab facs="#facs_268_r" type="">
                <lb facs="#facs_268_tr_1_tl_1" n="N001"/>Ballets
-               <lb facs="#facs_268_l_9" n="N002"/>Ballets nuoveaux pour la
-               <lb facs="#facs_268_l" n="N003"/>Ballets nuoveaux pour la
-               <lb facs="#facs_268_l_2" n="N004"/>Comedie allemande
-               <lb facs="#facs_268_tr_1_tl_4" n="N005"/>Ballets nouveaux pour la
-               <lb facs="#facs_268_l_4" n="N006"/>Comedie françoise
-               <lb facs="#facs_268_l_6" n="N007"/>Pour les Opera Comiques
-               <lb facs="#facs_268_l_8" n="N008"/>Pour les Opera Italiennes
-               <lb facs="#facs_268_l_1" n="N009"/>16
-               <lb facs="#facs_268_l_3" n="N010"/>12
-               <lb facs="#facs_268_l_5" n="N011"/>4
-               <lb facs="#facs_268_l_7" n="N012"/>9
-               <lb facs="#facs_268_l_48" n="N013"/>130
+               <lb facs="#facs_268_l_9" n="N002"/>Ballets <choice><corr>nouveaux</corr><sic>nuoveaux</sic></choice> pour la
+               <lb facs="#facs_268_l_2" n="N003"/>Comedie allemande
+               <lb facs="#facs_268_tr_1_tl_4" n="N004"/>Ballets nouveaux pour la
+               <lb facs="#facs_268_l_4" n="N005"/>Comedie françoise
+               <lb facs="#facs_268_l_6" n="N006"/>Pour les Opera Comiques
+               <lb facs="#facs_268_l_8" n="N007"/>Pour les Opera Italiennes
+               <lb facs="#facs_268_l_1" n="N008"/>16
+               <lb facs="#facs_268_l_3" n="N009"/>12
+               <lb facs="#facs_268_l_5" n="N010"/>4
+               <lb facs="#facs_268_l_7" n="N011"/>9
+               <lb facs="#facs_268_l_48" n="N012"/>130
             </ab>
             <pb facs="#facs_269" n="269" xml:id="img_0269"/>
             <ab facs="#facs_269_r" type="">
                <lb facs="#facs_269_tr_1_tl_1" n="N001"/>Pour Sçavoir
                <lb facs="#facs_269_tr_1_tl_2" n="N002"/>combien des fois chaque Piece a
-               <lb facs="#facs_269_tr_1_tl_3" n="N003"/>été donné, on le trouvera ici p.ar
+               <lb facs="#facs_269_tr_1_tl_3" n="N003"/>été donné, on le trouvera ici par
                <lb facs="#facs_269_tr_1_tl_4" n="N004"/>alphabet.
                <lb facs="#facs_269_tr_1_tl_5" n="N005"/><hi style="text-decoration: underline;">A.
                <lb facs="#facs_269_l" n="N006"/></hi>Alzire T.
@@ -20894,7 +20896,7 @@
                <lb facs="#facs_269_tr_1_tl_13" n="N011"/>Opera Comique
                <lb facs="#facs_269_tr_1_tl_14" n="N012"/>Amours de Lucas et Colinette Op. C.
                <lb facs="#facs_269_tr_1_tl_15" n="N013"/>Arbre enchanté Op. C.
-               <lb facs="#facs_269_tr_1_tl_16" n="N014"/>Ariana Op. Ital. La 1.<hi style="vertical-align: superscript;">re</hi> fois à Lax 27 mai
+               <lb facs="#facs_269_tr_1_tl_16" n="N014"/>Ariana Op. Ital. La 1.<hi style="vertical-align: superscript;">re</hi> fois à <choice><expan>Laxenburg</expan><abbr>Lax</abbr></choice> 27 mai
                <lb facs="#facs_269_tr_1_tl_17" n="N015"/>Athalia Tr.
                <lb facs="#facs_269_l_4" n="N016"/>Avocat Patelin
                <lb facs="#facs_269_l_3012" n="N017"/>1
@@ -20919,9 +20921,9 @@
                <lb facs="#facs_270_l_243" n="N007"/></hi>Cadi dupé Op. Com.
                <lb facs="#facs_270_tr_1_tl_5" n="N008"/>Chevalier à la mode
                <lb facs="#facs_270_l_3" n="N009"/>Consentiment forcé
-               <lb facs="#facs_270_tr_1_tl_7" n="N010"/>Conte d’Essex. Tr.
+               <lb facs="#facs_270_tr_1_tl_7" n="N010"/>Conte d’Essex Tr.
                <lb facs="#facs_270_l_5" n="N011"/>Cispin rival de Son maïtre
-               <lb facs="#facs_270_tr_1_tl_9" n="N012"/>Cythere assiegé Op. Com.
+               <lb facs="#facs_270_tr_1_tl_9" n="N012"/>Cythere assiegée Op. Com.
                <lb facs="#facs_270_l_7" n="N013"/>remise au Theatre
                <lb facs="#facs_270_l_574" n="N014"/>8
                <lb facs="#facs_270_l_578" n="N015"/>1
@@ -20937,7 +20939,7 @@
             <pb facs="#facs_271" n="271" xml:id="img_0271"/>
             <ab facs="#facs_271_r_33" type="">
                <lb facs="#facs_271_tr_2_tl_1" n="N001"/><hi style="text-decoration: underline;">D
-               <lb facs="#facs_271_tr_2_tl_2" n="N002"/></hi>Les Dchors trompeur
+               <lb facs="#facs_271_tr_2_tl_2" n="N002"/></hi>Les Dehors trompeur
                <lb facs="#facs_271_l_1" n="N003"/>Democrite amoureux
                <lb facs="#facs_271_l_3" n="N004"/>Le Deuil
                <lb facs="#facs_271_tr_2_tl_5" n="N005"/>Diable à quatre Op. Com.
@@ -20951,7 +20953,7 @@
                <lb facs="#facs_271_l_1003" n="N013"/>1
                <lb facs="#facs_271_l_4" n="N014"/>4
                <lb facs="#facs_271_tr_2_tl_9" n="N015"/><hi style="text-decoration: underline;">E.
-               <lb facs="#facs_271_tr_2_tl_10" n="N016"/></hi>Échangé
+               <lb facs="#facs_271_tr_2_tl_10" n="N016"/></hi>Échange
                <lb facs="#facs_271_tr_2_tl_11" n="N017"/>École des Amis
                <lb facs="#facs_271_tr_2_tl_12" n="N018"/>École des Méres
                <lb facs="#facs_271_tr_2_tl_13" n="N019"/>Embaras des richesses, la 1.<hi style="vertical-align: superscript;">re
@@ -20967,7 +20969,7 @@
                <lb facs="#facs_272_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">E.
                <lb facs="#facs_272_tr_1_tl_2" n="N002"/></hi>Énfant prodigue
                <lb facs="#facs_272_l" n="N003"/>Epreuve reciproque
-               <lb facs="#facs_272_l_203" n="N004"/>Epreu nouvelle
+               <lb facs="#facs_272_l_203" n="N004"/><choice><corr>Epreuve</corr><sic>Epreu</sic></choice> nouvelle
                <lb facs="#facs_272_l_273" n="N005"/>Esprit de Contradiction
                <lb facs="#facs_272_l_316" n="N006"/>1
                <lb facs="#facs_272_l_320" n="N007"/>1
@@ -20996,7 +20998,7 @@
             <ab facs="#facs_273_tr_1" type="">
                <lb facs="#facs_273_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">F.
                <lb facs="#facs_273_tr_1_tl_2" n="N002"/></hi>Fourberies de Scapin
-               <lb facs="#facs_273_tr_1_tl_3" n="N003"/>Le François a Londre
+               <lb facs="#facs_273_tr_1_tl_3" n="N003"/>Le François à Londre
                <lb facs="#facs_273_l_284" n="N004"/>2
                <lb facs="#facs_273_l_288" n="N005"/>1
                <lb facs="#facs_273_tr_1_tl_4" n="N006"/><hi style="text-decoration: underline;">G.
@@ -21011,7 +21013,7 @@
                <lb facs="#facs_273_l_304" n="N015"/>3
                <lb facs="#facs_273_tr_1_tl_10" n="N016"/><hi style="text-decoration: underline;">H.
                <lb facs="#facs_273_tr_1_tl_11" n="N017"/></hi>L’homme à bonne fortune
-               <lb facs="#facs_273_tr_1_tl_12" n="N018"/>Hypermnnestre Tr: la 1.<hi style="vertical-align: superscript;">re</hi> foÿ
+               <lb facs="#facs_273_tr_1_tl_12" n="N018"/>Hypermnestre Tr: la 1.<hi style="vertical-align: superscript;">re</hi> fois
                <lb facs="#facs_273_tr_1_tl_13" n="N019"/>le 12 Mai
                <lb facs="#facs_273_l_308" n="N020"/>1
                <lb facs="#facs_273_l_312" n="N021"/>3
@@ -21026,7 +21028,7 @@
                <lb facs="#facs_274_l_3" n="N005"/>jeu de l’amour et du hasard
                <lb facs="#facs_274_l_5" n="N006"/>Le joueur
                <lb facs="#facs_274_l_7" n="N007"/>joye imprevue
-               <lb facs="#facs_274_tr_1_tl_8" n="N008"/>L’Indiseret
+               <lb facs="#facs_274_tr_1_tl_8" n="N008"/>L’Indiscret
                <lb facs="#facs_274_tr_1_tl_9" n="N009"/>Isle deserte
                <lb facs="#facs_274_l_1" n="N010"/>2
                <lb facs="#facs_274_l_799" n="N011"/>1
@@ -21037,7 +21039,7 @@
                <lb facs="#facs_274_l_847" n="N016"/>1
                <lb facs="#facs_274_l_1093" n="N017"/>1
                <lb facs="#facs_274_l_428" n="N018"/><hi style="text-decoration: underline;">L.
-               <lb facs="#facs_274_tr_1_tl_10" n="N019"/></hi>Pe Legataire
+               <lb facs="#facs_274_tr_1_tl_10" n="N019"/></hi>Le Legataire
                <lb facs="#facs_274_l_11" n="N020"/>Les Legs
                <lb facs="#facs_274_l_13" n="N021"/>Les ****
                <lb facs="#facs_274_l_1220" n="N022"/>1
@@ -21088,8 +21090,8 @@
                <lb facs="#facs_276_tr_1_tl_6" n="N008"/>On ne s’avise jamais de tout
                <lb facs="#facs_276_tr_1_tl_7" n="N009"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois le 11. Août
                <lb facs="#facs_276_tr_1_tl_8" n="N010"/>Orphée et Euridice Op. Ital.
-               <lb facs="#facs_276_tr_1_tl_9" n="N011"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois le 8. 8bre
-               <lb facs="#facs_276_tr_1_tl_10" n="N012"/>Orphelin de la Chine Tr
+               <lb facs="#facs_276_tr_1_tl_9" n="N011"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois le <unclear>5</unclear>. <choice><expan>Octobre</expan><abbr>8bre</abbr></choice>
+               <lb facs="#facs_276_tr_1_tl_10" n="N012"/>Orphelin de la Chine Tr.
                <lb facs="#facs_276_l_510" n="N013"/>2
                <lb facs="#facs_276_l_514" n="N014"/>9
                <lb facs="#facs_276_l_518" n="N015"/>18
@@ -21118,11 +21120,11 @@
                <lb facs="#facs_277_l_5" n="N011"/>2
                <lb facs="#facs_277_l_1139" n="N012"/>7
                <lb facs="#facs_277_tr_1_tl_9" n="N013"/><hi style="text-decoration: underline;">R.
-               <lb facs="#facs_277_tr_1_tl_10" n="N014"/></hi>Le rendes vous
+               <lb facs="#facs_277_tr_1_tl_10" n="N014"/></hi>Le rendez vous
                <lb facs="#facs_277_l_8" n="N015"/>Le Retour imprevû
                <lb facs="#facs_277_tr_1_tl_12" n="N016"/>Rhademiste et Zenobie Tr.
                <lb facs="#facs_277_tr_1_tl_13" n="N017"/>Le Rival favorable la 1.<hi style="vertical-align: superscript;">re</hi> fois
-               <lb facs="#facs_277_l_10" n="N018"/>le 20 Mars à Laxenburg
+               <lb facs="#facs_277_l_10" n="N018"/>le 20 Mars a Laxenburg
                <lb facs="#facs_277_l_1434" n="N019"/>1
                <lb facs="#facs_277_l_7" n="N020"/>2
                <lb facs="#facs_277_l_1438" n="N021"/>1
@@ -21137,7 +21139,7 @@
                <lb facs="#facs_278_l" n="N004"/>Samson Tr.
                <lb facs="#facs_278_l_7" n="N005"/>Semirami Tr.
                <lb facs="#facs_278_l_11" n="N006"/>Sidneÿ
-               <lb facs="#facs_278_l_15" n="N007"/>Silphide, la 1.<hi style="vertical-align: superscript;">re</hi> fois à Laxe 15. Mai
+               <lb facs="#facs_278_l_15" n="N007"/>Silphide, la 1.<hi style="vertical-align: superscript;">re</hi> fois à <choice><expan>Laxenburg</expan><abbr>Laxe</abbr></choice> 15. Mai
                <lb facs="#facs_278_l_19" n="N008"/>Surprise de l’amour
                <lb facs="#facs_278_l_23" n="N009"/>Surprise de l’amour la seconde
                <lb facs="#facs_278_l_27" n="N010"/>Surprise de la haine
@@ -21151,9 +21153,9 @@
                <lb facs="#facs_278_l_59" n="N018"/>2
                <lb facs="#facs_278_l_67" n="N019"/><hi style="text-decoration: underline;">T.
                <lb facs="#facs_278_l_71" n="N020"/></hi>Tambour nocturne, la 1.<hi style="vertical-align: superscript;">re</hi> fois
-               <lb facs="#facs_278_l_75" n="N021"/>le 2 Fevrier
-               <lb facs="#facs_278_l_79" n="N022"/>4
-               <lb facs="#facs_278_l_83" n="N023"/>Tancrede la 1.<hi style="vertical-align: superscript;">er</hi> fois la 23 Xbre
+               <lb facs="#facs_278_l_75" n="N021"/>le 3 Fevrier
+               <lb facs="#facs_278_l_83" n="N022"/>Tancrede la 1.<hi style="vertical-align: superscript;">re</hi> fois le <unclear>23</unclear> <choice><expan>Decembre</expan><abbr>Xbre</abbr></choice>
+               <lb facs="#facs_278_l_79" n="N023"/>4
                <lb facs="#facs_278_l_87" n="N024"/>1
                <lb facs="#facs_278_l_92" n="N025"/>135
             </ab>
@@ -21164,7 +21166,7 @@
                <lb facs="#facs_279_tr_2_tl_3" n="N003"/>Triomphe du tems passé
                <lb facs="#facs_279_tr_2_tl_4" n="N004"/>Triomphe du tems present
                <lb facs="#facs_279_tr_2_tl_5" n="N005"/>Triomphe du tems future,
-               <lb facs="#facs_279_tr_2_tl_6" n="N006"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois a Lax 26 Mai
+               <lb facs="#facs_279_tr_2_tl_6" n="N006"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois a <choice><expan>Laxenburg</expan><abbr>Lax</abbr></choice> 26 Mai
                <lb facs="#facs_279_tr_2_tl_7" n="N007"/>Trionfo di Clelia Op. Ital.
                <lb facs="#facs_279_tr_2_tl_8" n="N008"/>la 1.<hi style="vertical-align: superscript;">re</hi> fois le 27 Avril
                <lb facs="#facs_279_tr_2_tl_9" n="N009"/>Trois Frêres Riveaux
@@ -21181,7 +21183,7 @@
                <lb facs="#facs_279_l_363" n="N020"/>1
                <lb facs="#facs_279_tr_2_tl_13" n="N021"/><hi style="text-decoration: underline;">Z.
                <lb facs="#facs_279_tr_2_tl_14" n="N022"/></hi>Zaire Tr.
-               <lb facs="#facs_279_tr_2_tl_15" n="N023"/>Zenide
+               <lb facs="#facs_279_tr_2_tl_15" n="N023"/>Zeneide
                <lb facs="#facs_279_l_414" n="N024"/>1
                <lb facs="#facs_279_l_418" n="N025"/>1
                <lb facs="#facs_279_tr_1_tl_1" n="N026"/>135'
