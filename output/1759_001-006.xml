@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/gudie_project.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:gudie="http://www.example.org/ns/gudie">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1759</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Library</publisher>
+        <pubPlace>Houghton</pubPlace>
+        <date>1759</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1759</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="2048" lry="2400" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="2400px" url="71103866_1_00001.xml" width="2048px"/>
+         <zone points="762,905 1334,905 1334,1483 762,1483" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="888,973 922,973 922,1003 888,1003" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+      </surface>
+      <surface lrx="2025" lry="2400" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="2400px" url="71103629.jpg" width="2025px"/>
+         <graphic height="2400px" url="https://files.transkribus.eu/Get?id=ZRXNIRHASJNAEFWRPIOFTLHG&amp;fileType=view" width="2025px"/>
+         <zone points="535,838 1641,838 1641,1735 535,1735" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="824,1058 1329,1058 1329,1120 824,1120" rendition="Line" xml:id="facs_2_r_tl_13"/>
+            <zone points="992,1147 1178,1147 1178,1200 992,1200" rendition="Line" xml:id="facs_2_r_tl_14"/>
+            <zone points="938,1187 1237,1187 1237,1251 938,1251" rendition="Line" xml:id="facs_2_r_tl_15"/>
+            <zone points="929,1238 1248,1238 1248,1289 929,1289" rendition="Line" xml:id="facs_2_r_tl_17"/>
+            <zone points="812,1274 1359,1274 1359,1334 812,1334" rendition="Line" xml:id="facs_2_r_tl_18"/>
+            <zone points="818,1326 1357,1326 1357,1364 818,1364" rendition="Line" xml:id="facs_2_r_tl_19"/>
+            <zone points="812,1361 1359,1361 1359,1399 812,1399" rendition="Line" xml:id="facs_2_r_tl_20"/>
+            <zone points="815,1401 1356,1401 1356,1447 815,1447" rendition="Line" xml:id="facs_2_r_tl_21"/>
+            <zone points="812,1441 1356,1441 1356,1500 812,1500" rendition="Line" xml:id="facs_2_r_tl_23"/>
+         </zone>
+         <zone points="125,2057 442,2057 442,2299 125,2299" rendition="TextRegion" xml:id="facs_2_r_2">
+            <zone points="182,2077 374,2077 374,2111 182,2111" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="185,2113 366,2113 366,2148 185,2148" rendition="Line" xml:id="facs_2_l_8"/>
+            <zone points="188,2136 373,2136 373,2174 188,2174" rendition="Line" xml:id="facs_2_l_12"/>
+            <zone points="166,2177 386,2177 386,2212 166,2212" rendition="Line" xml:id="facs_2_l_16"/>
+            <zone points="164,2214 405,2214 405,2254 164,2254" rendition="Line" xml:id="facs_2_l_20"/>
+         </zone>
+      </surface>
+      <surface lrx="1979" lry="2400" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="2400px" url="71103630_3_00003.xml" width="1979px"/>
+      </surface>
+      <surface lrx="2004" lry="2400" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="2400px" url="71103867_4_00004.xml" width="2004px"/>
+         <zone points="116,1554 534,1554 534,2083 116,2083" rendition="TextRegion" xml:id="facs_4_r">
+            <zone points="251,1637 452,1637 452,1667 251,1667" rendition="Line" xml:id="facs_4_l"/>
+            <zone points="167,1770 346,1770 346,1803 167,1803" rendition="Line" xml:id="facs_4_l_7"/>
+            <zone points="229,1972 460,1972 460,2005 229,2005" rendition="Line" xml:id="facs_4_l_11"/>
+         </zone>
+      </surface>
+      <surface lrx="2004" lry="2400" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="2400px" url="71103631_5_00005.xml" width="2004px"/>
+      </surface>
+      <surface lrx="1999" lry="2400" ulx="0" uly="0" xml:id="facs_6">
+         <graphic height="2400px" url="71103868_6_00006.xml" width="1999px"/>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_1" n="1" xml:id="img_001"/><ab facs="#facs_1_r">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_002"/><ab facs="#facs_2_r">
+               <lb facs="#facs_2_r_tl_13" n="N001"/>HARVARD COLLEGE LIBRARY
+               <lb facs="#facs_2_r_tl_14" n="N002"/>THE GIFT OF
+               <lb facs="#facs_2_r_tl_15" n="N003"/>FRANK E. CHASE
+               <lb facs="#facs_2_r_tl_17" n="N004"/>OF THE CLASS OF 1876
+               <lb facs="#facs_2_r_tl_18" n="N005"/>BOUGHT FROM HIS BEQUEST RECEIVED
+               <lb facs="#facs_2_r_tl_19" n="N006"/>IN 1922, THE INCOME OF WHICH “IS TO BE
+               <lb facs="#facs_2_r_tl_20" n="N007"/>DEVOTED PRIMARILY TO THE PURCHASE
+               <lb facs="#facs_2_r_tl_21" n="N008"/>OF BOOKS RELATING TO THE THEATRE,
+               <lb facs="#facs_2_r_tl_23" n="N009"/>THE DRAMA, OR RELATED SUBJECTS"
+            </ab>
+            <ab facs="#facs_2_r_2">
+               <lb facs="#facs_2_l" n="N001"/>Do Not Photograph
+               <lb facs="#facs_2_l_8" n="N002"/>Microfilm on File
+               <lb facs="#facs_2_l_12" n="N003"/><hi style="text-decoration: line-through;">Photocopy on file
+               <lb facs="#facs_2_l_16" n="N004"/></hi>No. TS M 105
+               <lb facs="#facs_2_l_20" n="N005"/>Order No.
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_003"/><pb facs="#facs_4" n="4" xml:id="img_004"/><ab facs="#facs_4_r">
+               <lb facs="#facs_4_l" n="N001"/>4 vols
+               <lb facs="#facs_4_l_7" n="N002"/>RXA
+               <lb facs="#facs_4_l_11" n="N003"/>5262
+            </ab>
+            <pb facs="#facs_5" n="5" xml:id="img_005"/><pb facs="#facs_6" n="6" xml:id="img_006"/></div>
+    </body>
+  </text>
+</TEI>
