@@ -23,16 +23,71 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile/>
+  <facsimile><surface lrx="1377" lry="1407" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="1407px" url="69081451_1_00001.xml" width="1377px"/>
+         <zone points="35,46 255,46 255,1388 35,1388" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="78,304 212,302 211,272 78,274" rendition="Line" xml:id="facs_1_l_7"/>
+            <zone points="76,377 208,375 207,345 75,347" rendition="Line" xml:id="facs_1_l_11"/>
+            <zone points="89,543 202,543 202,513 89,513" rendition="Line" xml:id="facs_1_l_15"/>
+         </zone>
+         <zone points="651,539 963,539 963,872 651,872" rendition="TextRegion" xml:id="facs_1_r_3">
+            <zone points="739,701 758,701 758,671 739,671" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+      </surface>
+      <surface lrx="1369" lry="1401" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="1401px" url="69081382_2_00002.xml" width="1369px"/>
+         <zone points="407,541 724,540 724,869 408,869" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="440,608 460,608 460,578 440,578" rendition="Line" xml:id="facs_2_l"/>
+         </zone>
+         <zone points="1121,49 1334,49 1334,1375 1121,1375" rendition="TextRegion" xml:id="facs_2_r_2">
+            <zone points="1152,299 1279,296 1279,266 1151,269" rendition="Line" xml:id="facs_2_l_5"/>
+            <zone points="1144,375 1297,371 1296,341 1143,345" rendition="Line" xml:id="facs_2_l_9"/>
+            <zone points="1158,537 1278,535 1277,505 1158,507" rendition="Line" xml:id="facs_2_l_13"/>
+         </zone>
+      </surface>
+      <surface lrx="1209" lry="1415" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="1415px" url="69081452_3_00003.xml" width="1209px"/>
+         <zone points="62,43 448,43 448,277 62,277" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="95,74 396,70 395,40 95,44" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="99,99 398,93 397,63 98,69" rendition="Line" xml:id="facs_3_l_7"/>
+            <zone points="93,125 407,121 407,91 93,95" rendition="Line" xml:id="facs_3_l_11"/>
+            <zone points="88,184 424,184 424,154 88,154" rendition="Line" xml:id="facs_3_l_15"/>
+            <zone points="80,248 420,244 419,214 79,218" rendition="Line" xml:id="facs_3_l_19"/>
+         </zone>
+      </surface>
+      <surface lrx="1172" lry="1407" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="1407px" url="69081453_4_00004.xml" width="1172px"/>
+      </surface>
+      <surface lrx="1100" lry="1415" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="1415px" url="69081383_5_00005.xml" width="1100px"/>
+      </surface>
+      </facsimile>
   <text>
     <body>
-      <div>
-        <pb facs="#facs_1" n="1" xml:id="img_001"/>
-        <pb facs="#facs_2" n="2" xml:id="img_002"/>
-        <pb facs="#facs_3" n="3" xml:id="img_003"/>
-        <pb facs="#facs_4" n="4" xml:id="img_004"/>
-        <pb facs="#facs_5" n="5" xml:id="img_005"/>
-      </div>
+      <div><pb facs="#facs_1" n="1" xml:id="img_001"/><ab facs="#facs_1_r">
+               <lb facs="#facs_1_l_7" n="N001"/>REPE<supplied reason="cut">R</supplied>
+               <lb facs="#facs_1_l_11" n="N002"/>TOI<supplied reason="cut">R</supplied>E
+               <lb facs="#facs_1_l_15" n="N003"/>1762
+            </ab>
+            <ab facs="#facs_1_r_3">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_002"/><ab facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/>
+            </ab>
+            <ab facs="#facs_2_r_2">
+               <lb facs="#facs_2_l_5" n="N001"/>REPE<supplied reason="binding">R</supplied>
+               <lb facs="#facs_2_l_9" n="N002"/>TOI<supplied reason="binding">R</supplied>E
+               <lb facs="#facs_2_l_13" n="N003"/>1762
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_003"/><ab facs="#facs_3_r">
+               <lb facs="#facs_3_l" n="N001"/>MUSIKSAMMLUNG DER
+               <lb facs="#facs_3_l_7" n="N002"/>ÖSTERREICHISCHEN
+               <lb facs="#facs_3_l_11" n="N003"/>NATIONALBIBLIOTHEK
+               <lb facs="#facs_3_l_15" n="N004"/>Mus.Hs. 34580/b
+               <lb facs="#facs_3_l_19" n="N005"/>R/XVIII/Gumpenhueber
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_004"/><pb facs="#facs_5" n="5" xml:id="img_005"/></div>
     </body>
   </text>
 </TEI>

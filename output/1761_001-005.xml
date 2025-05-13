@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/gudie_project.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:gudie="http://www.example.org/ns/gudie">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1761</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Library</publisher>
+        <pubPlace>ÖNB</pubPlace>
+        <date>1761</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1761</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="1244" lry="1424" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="1424px" url="69079822_1_00001.xml" width="1244px"/>
+         <zone points="483,557 825,555 825,896 483,896" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="514,576 526,576 526,546 514,546" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+      </surface>
+      <surface lrx="1244" lry="1433" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="1433px" url="69080556_2_00002.xml" width="1244px"/>
+         <zone points="424,565 744,561 747,899 431,899" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="494,624 517,622 514,592 491,595" rendition="Line" xml:id="facs_2_l"/>
+         </zone>
+      </surface>
+      <surface lrx="1196" lry="1423" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="1423px" url="69080557_3_00003.xml" width="1196px"/>
+         <zone points="68,61 450,61 450,280 68,280" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="97,93 400,89 400,59 97,63" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="103,116 408,110 407,80 102,86" rendition="Line" xml:id="facs_3_l_28"/>
+            <zone points="95,137 395,131 394,101 94,107" rendition="Line" xml:id="facs_3_l_32"/>
+            <zone points="91,197 421,197 421,167 91,167" rendition="Line" xml:id="facs_3_l_36"/>
+         </zone>
+         <zone points="70,292 306,300 306,416 70,408" rendition="TextRegion" xml:id="facs_3_r_2">
+            <zone points="89,339 266,343 266,313 90,309" rendition="Line" xml:id="facs_3_l_40"/>
+            <zone points="115,374 213,378 214,348 117,344" rendition="Line" xml:id="facs_3_l_44"/>
+            <zone points="231,397 292,395 291,365 230,367" rendition="Line" xml:id="facs_3_l_48"/>
+         </zone>
+      </surface>
+      <surface lrx="1168" lry="1401" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="1401px" url="69079823_4_00004.xml" width="1168px"/>
+      </surface>
+      <surface lrx="1184" lry="1391" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="1391px" url="69079824_5_00005.xml" width="1184px"/>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_1" n="1" xml:id="img_001"/><ab facs="#facs_1_r">
+               <lb facs="#facs_1_l" n="N001"/>
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_002"/><ab facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/>
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_003"/><ab facs="#facs_3_r">
+               <lb facs="#facs_3_l" n="N001"/>MUSIKSAMMLUNG DER
+               <lb facs="#facs_3_l_28" n="N002"/>ÖSTERREICHISCHEN
+               <lb facs="#facs_3_l_32" n="N003"/>NATIONALBIBLIOTHEK
+               <lb facs="#facs_3_l_36" n="N004"/>Mus.Hs. 34580/a
+            </ab>
+            <ab facs="#facs_3_r_2">
+               <lb facs="#facs_3_l_40" n="N001"/>R/Gumpenhuber
+               <lb facs="#facs_3_l_44" n="N002"/>1/XVIII
+               <lb facs="#facs_3_l_48" n="N003"/>Band 1
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_004"/><pb facs="#facs_5" n="5" xml:id="img_005"/></div>
+    </body>
+  </text>
+</TEI>
