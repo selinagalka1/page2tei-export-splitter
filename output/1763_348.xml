@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/gudie_project.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:gudie="http://www.example.org/ns/gudie">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Repertoire de tous les Spectacles 1763</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Library</publisher>
+        <pubPlace>ÖNB</pubPlace>
+        <date>1763</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Austrian Science Fund project "GuDiE" (FWF-Grant-DOI: 10.55776/P36729)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">Repertoire de tous les Spectacles 1763</title>
+          <idno type="external">https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-1.json</idno>
+          <note>This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, and 1761-1763.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile><surface lrx="1195" lry="1431" ulx="0" uly="0" xml:id="facs_348">
+         <graphic height="1431px" url="69083011.jpg" width="1195px"/>
+         <graphic height="1431px" url="https://files.transkribus.eu/Get?id=OFRYSWANZOOFQBROVCJSZBAH&amp;fileType=view" width="1195px"/><zone points="18,60 1112,45 1112,1406 24,1400" rendition="Table" xml:id="facs_348_t1">
+            <zone points="208,260 701,274 1016,245 1016,199 904,184 625,215 590,185 208,182" rendition="TableCell" xml:id="facs_348_t1c6_tl_1"/>
+            <zone points="205,341 320,312 511,342 851,313 930,334 1005,312 1005,276 919,252 744,280 204,268" rendition="TableCell" xml:id="facs_348_t1c6_tl_2"/>
+            <zone points="206,398 1020,389 996,329 397,345 268,315 205,340" rendition="TableCell" xml:id="facs_348_t1c6_tl_3"/>
+            <zone points="208,450 296,448 317,467 354,448 505,461 534,445 579,470 625,450 725,457 725,403 648,385 615,410 552,390 509,414 455,387 369,407 297,386 208,404" rendition="TableCell" xml:id="facs_348_t1c6_tl_4"/>
+            <zone points="210,514 1020,518 1013,460 210,455" rendition="TableCell" xml:id="facs_348_t1c6_tl_5"/>
+            <zone points="208,597 754,585 904,609 1005,588 1004,535 206,536" rendition="TableCell" xml:id="facs_348_t1c6_tl_6"/>
+            <zone points="212,656 648,642 789,674 852,648 1002,670 1012,611 211,599" rendition="TableCell" xml:id="facs_348_t1c6_tl_7"/>
+            <zone points="205,718 1017,723 1016,664 981,656 205,676" rendition="TableCell" xml:id="facs_348_t1c6_tl_8"/>
+            <zone points="208,794 1001,792 1026,737 206,720" rendition="TableCell" xml:id="facs_348_t1c6_tl_9"/>
+            <zone points="206,853 1030,861 1035,790 205,799" rendition="TableCell" xml:id="facs_348_t1c6_tl_10"/>
+            <zone points="203,923 1018,903 987,854 926,878 672,848 541,876 511,851 258,843 203,872" rendition="TableCell" xml:id="facs_348_t1c6_tl_11"/>
+            <zone points="201,1006 254,972 1001,976 1001,918 898,939 800,913 201,930" rendition="TableCell" xml:id="facs_348_t1c6_tl_12"/>
+            <zone points="203,1048 1007,1043 1006,983 916,1009 770,975 328,997 262,975 203,1006" rendition="TableCell" xml:id="facs_348_t1c6_tl_13"/>
+            <zone points="209,1105 1001,1108 1000,1067 909,1053 420,1068 208,1045" rendition="TableCell" xml:id="facs_348_t1c6_tl_14"/>
+            <zone points="213,1170 1018,1187 1017,1125 212,1119" rendition="TableCell" xml:id="facs_348_t1c6_tl_15"/>
+            <zone points="203,1244 1035,1230 1035,1189 203,1196" rendition="TableCell" xml:id="facs_348_t1c6_tl_16"/>
+            <zone points="206,1334 278,1297 528,1341 653,1307 719,1338 861,1297 1009,1311 1008,1251 898,1238 205,1244" rendition="TableCell" xml:id="facs_348_t1c6_tl_17"/>
+            <zone points="1011,1386 1051,1387 1052,1357 1012,1356" rendition="TableCell" xml:id="facs_348_l"/></zone>
+      </surface>
+      </facsimile>
+  <text>
+    <body>
+      <div><pb facs="#facs_348" n="348" xml:id="img_00348"/><table facs="#facs_348_t1">
+        <row n="0">
+          <cell facs="#facs_348_t1c1" n="0" rend="0000"/>
+          <cell facs="#facs_348_t1c2" n="1" rend="0000"/>
+          <cell facs="#facs_348_t1c3" n="2" rend="0000"/></row>
+        <row n="1">
+          <cell facs="#facs_348_t1c4" n="0" rend="0000"/>
+          <cell facs="#facs_348_t1c5" n="1" rend="0000"/>
+          <cell facs="#facs_348_t1c6" n="2" rend="0000">
+               <lb facs="#facs_348_t1c6_tl_1" n="N001"/>çet instant fatal que çet Auguste Prinçe s’est
+               <lb facs="#facs_348_t1c6_tl_2" n="N002"/>retiré de son appartement, pénétré d’une
+               <lb facs="#facs_348_t1c6_tl_3" n="N003"/>douleur proportionnée à la grandeur de la
+               <lb facs="#facs_348_t1c6_tl_4" n="N004"/>perte qu’il venoit de faire,
+               <lb facs="#facs_348_t1c6_tl_5" n="N005"/>toutes les personnes qui avoient le bonheur
+               <lb facs="#facs_348_t1c6_tl_6" n="N006"/>d’étre attachées à feuë son Altesse Royale
+               <lb facs="#facs_348_t1c6_tl_7" n="N007"/>la pleurent moins comme une Maitresse
+               <lb facs="#facs_348_t1c6_tl_8" n="N008"/>la plus respectable et la plus digne d’être
+               <lb facs="#facs_348_t1c6_tl_9" n="N009"/>aimée, que comme une mere tendre. elle empor-
+               <lb facs="#facs_348_t1c6_tl_10" n="N010"/>te au tombeau les regrets éternels de Leurs Ma-
+               <lb facs="#facs_348_t1c6_tl_11" n="N011"/>jestes I. et R. A. dont elle avoit sçu mêriter
+               <lb facs="#facs_348_t1c6_tl_12" n="N012"/>en même tems l’amour et l’estime; leur
+               <lb facs="#facs_348_t1c6_tl_13" n="N013"/>Auguste Famille regrette également en elle
+               <lb facs="#facs_348_t1c6_tl_14" n="N014"/>une soeur et une amie, et il n’est personne
+               <lb facs="#facs_348_t1c6_tl_15" n="N015"/>enfin qui ne pleure sinçerement une Prin-
+               <lb facs="#facs_348_t1c6_tl_16" n="N016"/>çesse, que tant de qualitér neunies rendoient
+               <lb facs="#facs_348_t1c6_tl_17" n="N017"/>si recommantable, qui donnoit pour l’avenir
+               <lb facs="#facs_348_l" n="N018"/></cell></row></table>
+            </div>
+    </body>
+  </text>
+</TEI>
